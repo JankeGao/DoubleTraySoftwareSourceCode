@@ -1,0 +1,286 @@
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Bussiness.dll.config
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Bussiness.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Bussiness.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Autofac.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Core.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Data.Orm.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Utility.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HPC.BaseService.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\MySql.Data.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Newtonsoft.Json.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\NPOI.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\NPOI.OOXML.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\NPOI.OpenXml4Net.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\SqlSugar.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Data.Entity.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Web.Mvc.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HPC.BaseService.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HPC.BaseService.dll.config
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Autofac.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Core.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Data.Orm.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Newtonsoft.Json.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\NPOI.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Data.Entity.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Web.Mvc.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\obj\Debug\WIN.Bussiness.csprojAssemblyReference.cache
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CopyComplete
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\obj\Debug\Bussiness.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\obj\Debug\Bussiness.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CoreCompileInputs.cache
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Bussiness.dll.config
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Bussiness.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Bussiness.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Autofac.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Core.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Data.Orm.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Utility.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HPC.BaseService.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\MySql.Data.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Newtonsoft.Json.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\NPOI.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\NPOI.OOXML.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\NPOI.OpenXml4Net.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\SqlSugar.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Autofac.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Core.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Data.Orm.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Newtonsoft.Json.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\NPOI.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CopyComplete
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\obj\Debug\Bussiness.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\obj\Debug\Bussiness.pdb
+E:\源码\src\Bussiness\bin\Debug\Bussiness.dll.config
+E:\源码\src\Bussiness\bin\Debug\Bussiness.dll
+E:\源码\src\Bussiness\bin\Debug\Bussiness.pdb
+E:\源码\src\Bussiness\bin\Debug\Autofac.dll
+E:\源码\src\Bussiness\bin\Debug\HP.Core.dll
+E:\源码\src\Bussiness\bin\Debug\HP.Data.Orm.dll
+E:\源码\src\Bussiness\bin\Debug\HP.Utility.dll
+E:\源码\src\Bussiness\bin\Debug\HPC.BaseService.dll
+E:\源码\src\Bussiness\bin\Debug\MySql.Data.dll
+E:\源码\src\Bussiness\bin\Debug\Newtonsoft.Json.dll
+E:\源码\src\Bussiness\bin\Debug\NPOI.dll
+E:\源码\src\Bussiness\bin\Debug\NPOI.OOXML.dll
+E:\源码\src\Bussiness\bin\Debug\NPOI.OpenXml4Net.dll
+E:\源码\src\Bussiness\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\源码\src\Bussiness\bin\Debug\Autofac.xml
+E:\源码\src\Bussiness\bin\Debug\HP.Core.pdb
+E:\源码\src\Bussiness\bin\Debug\HP.Data.Orm.pdb
+E:\源码\src\Bussiness\bin\Debug\Newtonsoft.Json.xml
+E:\源码\src\Bussiness\bin\Debug\NPOI.xml
+E:\源码\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.AssemblyReference.cache
+E:\源码\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CoreCompileInputs.cache
+E:\源码\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CopyComplete
+E:\源码\src\Bussiness\obj\Debug\Bussiness.dll
+E:\源码\src\Bussiness\obj\Debug\Bussiness.pdb
+E:\IWMS\src\Bussiness\bin\Debug\Bussiness.dll.config
+E:\IWMS\src\Bussiness\bin\Debug\Bussiness.dll
+E:\IWMS\src\Bussiness\bin\Debug\Bussiness.pdb
+E:\IWMS\src\Bussiness\bin\Debug\Autofac.dll
+E:\IWMS\src\Bussiness\bin\Debug\HP.Core.dll
+E:\IWMS\src\Bussiness\bin\Debug\HP.Data.Orm.dll
+E:\IWMS\src\Bussiness\bin\Debug\HP.Utility.dll
+E:\IWMS\src\Bussiness\bin\Debug\HPC.BaseService.dll
+E:\IWMS\src\Bussiness\bin\Debug\MySql.Data.dll
+E:\IWMS\src\Bussiness\bin\Debug\Newtonsoft.Json.dll
+E:\IWMS\src\Bussiness\bin\Debug\NPOI.dll
+E:\IWMS\src\Bussiness\bin\Debug\NPOI.OOXML.dll
+E:\IWMS\src\Bussiness\bin\Debug\NPOI.OpenXml4Net.dll
+E:\IWMS\src\Bussiness\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\IWMS\src\Bussiness\bin\Debug\Autofac.xml
+E:\IWMS\src\Bussiness\bin\Debug\HP.Core.pdb
+E:\IWMS\src\Bussiness\bin\Debug\HP.Data.Orm.pdb
+E:\IWMS\src\Bussiness\bin\Debug\Newtonsoft.Json.xml
+E:\IWMS\src\Bussiness\bin\Debug\NPOI.xml
+E:\IWMS\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.AssemblyReference.cache
+E:\IWMS\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CoreCompileInputs.cache
+E:\IWMS\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CopyComplete
+E:\IWMS\src\Bussiness\obj\Debug\Bussiness.dll
+E:\IWMS\src\Bussiness\obj\Debug\Bussiness.pdb
+E:\Festo\src\Bussiness\bin\Debug\Bussiness.dll.config
+E:\Festo\src\Bussiness\bin\Debug\Bussiness.dll
+E:\Festo\src\Bussiness\bin\Debug\Bussiness.pdb
+E:\Festo\src\Bussiness\bin\Debug\Autofac.dll
+E:\Festo\src\Bussiness\bin\Debug\HP.Core.dll
+E:\Festo\src\Bussiness\bin\Debug\HP.Data.Orm.dll
+E:\Festo\src\Bussiness\bin\Debug\HP.Utility.dll
+E:\Festo\src\Bussiness\bin\Debug\HPC.BaseService.dll
+E:\Festo\src\Bussiness\bin\Debug\MySql.Data.dll
+E:\Festo\src\Bussiness\bin\Debug\Newtonsoft.Json.dll
+E:\Festo\src\Bussiness\bin\Debug\NPOI.dll
+E:\Festo\src\Bussiness\bin\Debug\NPOI.OOXML.dll
+E:\Festo\src\Bussiness\bin\Debug\NPOI.OpenXml4Net.dll
+E:\Festo\src\Bussiness\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\Festo\src\Bussiness\bin\Debug\Autofac.xml
+E:\Festo\src\Bussiness\bin\Debug\HP.Core.pdb
+E:\Festo\src\Bussiness\bin\Debug\HP.Data.Orm.pdb
+E:\Festo\src\Bussiness\bin\Debug\Newtonsoft.Json.xml
+E:\Festo\src\Bussiness\bin\Debug\NPOI.xml
+E:\Festo\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.AssemblyReference.cache
+E:\Festo\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CoreCompileInputs.cache
+E:\Festo\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CopyComplete
+E:\Festo\src\Bussiness\obj\Debug\Bussiness.dll
+E:\Festo\src\Bussiness\obj\Debug\Bussiness.pdb
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\Bussiness.dll.config
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\Bussiness.dll
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\Bussiness.pdb
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\Autofac.dll
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Core.dll
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Data.Orm.dll
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Utility.dll
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\HPC.BaseService.dll
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\MySql.Data.dll
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\Newtonsoft.Json.dll
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.dll
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.OOXML.dll
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.OpenXml4Net.dll
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\Autofac.xml
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Core.pdb
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Data.Orm.pdb
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\Newtonsoft.Json.xml
+E:\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.xml
+E:\SoftwareSourceCode\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.AssemblyReference.cache
+E:\SoftwareSourceCode\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CoreCompileInputs.cache
+E:\SoftwareSourceCode\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CopyComplete
+E:\SoftwareSourceCode\src\Bussiness\obj\Debug\Bussiness.dll
+E:\SoftwareSourceCode\src\Bussiness\obj\Debug\Bussiness.pdb
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Bussiness.dll.config
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Bussiness.dll
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Bussiness.pdb
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Autofac.dll
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Core.dll
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Data.Orm.dll
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Utility.dll
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HPC.BaseService.dll
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\MySql.Data.dll
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Newtonsoft.Json.dll
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.dll
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.OOXML.dll
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.OpenXml4Net.dll
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Autofac.xml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Core.pdb
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Data.Orm.pdb
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Newtonsoft.Json.xml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.xml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.AssemblyReference.cache
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CoreCompileInputs.cache
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CopyComplete
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\Bussiness.dll
+E:\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\Bussiness.pdb
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Bussiness.dll.config
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Bussiness.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Bussiness.pdb
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Autofac.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Core.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Data.Orm.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Utility.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HPC.BaseService.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\MySql.Data.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Newtonsoft.Json.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.OOXML.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.OpenXml4Net.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Autofac.xml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Core.pdb
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Data.Orm.pdb
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Newtonsoft.Json.xml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.xml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.AssemblyReference.cache
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CoreCompileInputs.cache
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CopyComplete
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\Bussiness.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\Bussiness.pdb
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Bussiness.dll.config
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Bussiness.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Bussiness.pdb
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Autofac.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Core.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Data.Orm.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Utility.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HPC.BaseService.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\MySql.Data.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Newtonsoft.Json.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.OOXML.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.OpenXml4Net.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Autofac.xml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Core.pdb
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Data.Orm.pdb
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Newtonsoft.Json.xml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.xml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.AssemblyReference.cache
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CoreCompileInputs.cache
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CopyComplete
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\Bussiness.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\Bussiness.pdb
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Buffers.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Memory.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Numerics.Vectors.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Text.Encodings.Web.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Text.Json.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.ValueTuple.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Buffers.xml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Memory.xml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Numerics.Vectors.xml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Text.Encodings.Web.xml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Text.Json.xml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.ValueTuple.xml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.AssemblyReference.cache
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CoreCompileInputs.cache
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\Bussiness.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\Bussiness.pdb
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Bussiness.dll.config
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Bussiness.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Bussiness.pdb
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Autofac.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Core.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Data.Orm.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Utility.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HPC.BaseService.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\MySql.Data.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Newtonsoft.Json.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.OOXML.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.OpenXml4Net.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Buffers.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Memory.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Numerics.Vectors.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Text.Encodings.Web.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Text.Json.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.ValueTuple.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Autofac.xml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Core.pdb
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\HP.Data.Orm.pdb
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\Newtonsoft.Json.xml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\NPOI.xml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Buffers.xml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Memory.xml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Numerics.Vectors.xml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Text.Encodings.Web.xml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Text.Json.xml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\bin\Debug\System.ValueTuple.xml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\src\Bussiness\obj\Debug\WIN.Bussiness.csproj.CopyComplete

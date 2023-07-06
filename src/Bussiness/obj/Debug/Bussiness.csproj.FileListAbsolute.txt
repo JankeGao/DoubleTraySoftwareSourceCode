@@ -1,0 +1,164 @@
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\Bussiness.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\Bussiness.pdb
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Core.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Data.Orm.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Utility.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\HPC.BaseService.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\NPOI.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\NPOI.OOXML.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\NPOI.OpenXml4Net.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\Autofac.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\System.Data.SQLite.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\MySql.Data.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\HP.BaseService.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\Chloe.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\aliyun-net-sdk-core.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\aliyun-net-sdk-dysmsapi.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Web.Mvc.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Data.Entity.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.Mvc.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.Razor.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.WebPages.Razor.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.WebPages.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\obj\Debug\Bussiness.dll
+E:\OtherSVN\Project\SimpleWms\src\SimpleWms.Web\Bussiness\obj\Debug\Bussiness.pdb
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\Bussiness.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\Bussiness.pdb
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Core.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Data.Orm.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Utility.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\HPC.BaseService.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\NPOI.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\NPOI.OOXML.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\NPOI.OpenXml4Net.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\Autofac.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\System.Data.SQLite.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\MySql.Data.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\HP.BaseService.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\Chloe.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\aliyun-net-sdk-core.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\aliyun-net-sdk-dysmsapi.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Web.Mvc.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Data.Entity.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.Mvc.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.Razor.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.WebPages.Razor.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.WebPages.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\obj\Debug\Bussiness.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\obj\Debug\Bussiness.pdb
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\Newtonsoft.Json.dll
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\bin\Debug\Bussiness.dll.config
+E:\OtherSVN\Project\SMT\src\SimpleWms.Web\Bussiness\obj\Debug\Bussiness.csprojAssemblyReference.cache
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\obj\Debug\Bussiness.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\obj\Debug\Bussiness.pdb
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\Bussiness.dll.config
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\Bussiness.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\Bussiness.pdb
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Core.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Data.Orm.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Utility.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\HPC.BaseService.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\Newtonsoft.Json.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\NPOI.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\NPOI.OOXML.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\NPOI.OpenXml4Net.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\Autofac.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\System.Data.SQLite.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\MySql.Data.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\HP.BaseService.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\Chloe.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\aliyun-net-sdk-core.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\aliyun-net-sdk-dysmsapi.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Web.Mvc.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Data.Entity.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.Mvc.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.Razor.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.WebPages.Razor.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.WebPages.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\Ptl.Device.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\Ptl.Device.xml
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\en\Ptl.Device.resources.dll
+E:\OtherSVN\EZY-WMS\src\SimpleWms.Web\Bussiness\bin\Debug\Ptl.Device.XmlSerializers.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\Bussiness.dll.config
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\Bussiness.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\Bussiness.pdb
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Core.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Data.Orm.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Utility.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\HPC.BaseService.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\Newtonsoft.Json.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\NPOI.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\NPOI.OOXML.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\NPOI.OpenXml4Net.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\Autofac.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\System.Data.SQLite.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\MySql.Data.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\HP.BaseService.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\Chloe.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\aliyun-net-sdk-core.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\aliyun-net-sdk-dysmsapi.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Web.Mvc.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\HP.Data.Entity.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.Mvc.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.Razor.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.WebPages.Razor.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.WebPages.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\obj\Debug\Bussiness.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src\SimpleWms.Web\Bussiness\obj\Debug\Bussiness.pdb
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\obj\Debug\Bussiness.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\obj\Debug\Bussiness.pdb
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\Bussiness.dll.config
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\Bussiness.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\Bussiness.pdb
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\Autofac.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\HP.Core.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\HP.Data.Orm.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\HP.Utility.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\HPC.BaseService.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\Newtonsoft.Json.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\Ptl.Device.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\System.Data.SQLite.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\MySql.Data.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\HP.Data.Entity.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\aliyun-net-sdk-core.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\aliyun-net-sdk-dysmsapi.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\HP.Web.Mvc.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\System.Web.Mvc.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\System.Web.Razor.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\System.Web.WebPages.Razor.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\System.Web.WebPages.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\Autofac.xml
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\HP.Core.pdb
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\HP.Data.Orm.pdb
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\Newtonsoft.Json.xml
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\Ptl.Device.xml
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\en\Ptl.Device.resources.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\bin\Debug\Ptl.Device.XmlSerializers.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\EZYWMS\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete

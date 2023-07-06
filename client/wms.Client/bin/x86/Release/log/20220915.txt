@@ -1,0 +1,2 @@
+2022/9/15 17:16:37:捕获未处理异常:应用程序对象正在关闭。
+2022/9/15 21:13:52:捕获未处理异常:未能加载文件或程序集“file:///E:\IWMS\client\wms.Client\bin\x86\Release\Seagull.BarTender.Print.dll”或它的某一个依赖项。试图加载格式不正确的程序。

@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="wms.Client.UiCore.Template.UserDetailToolBar"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:wms.Client.UiCore.Template"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <ItemsControl  ItemsSource="{Binding Path=DetailButtonDefaults}">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Horizontal"/>
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="0 0 3 0">
+                        <Button Style="{StaticResource IconButtonStyle}"
+                                ToolTip="{Binding ModuleName}" Command="{Binding Command}">
+                            <materialDesign:PackIcon Kind="{Binding IconSting}" HorizontalAlignment="Center"  
+                                                      Width="25 " Height="25"  Foreground="{Binding Path=BorderBrush,RelativeSource={RelativeSource 
+                                                        Mode=FindAncestor,AncestorType={x:Type Button}}}" 
+                                                         VerticalAlignment="Center">
+                            </materialDesign:PackIcon>
+                        </Button>
+                    </StackPanel>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </Grid>
+</UserControl>

@@ -1,0 +1,98 @@
+﻿@{
+    ViewBag.Title = "操作日志";
+    string grid = "gridOperation";
+    string toolbar = "toolbarOperation";
+}
+
+<div id="@toolbar">
+    @Html.FunctionButton().Setting(sets =>
+    {
+        sets.FunctionCode = "Query";
+        sets.OnClick = "query()";
+    }).Create()
+    @Html.FunctionButton().Setting(sets =>
+    {
+        sets.ScriptCommand = ScriptCommandEnum.Detail;
+        sets.FunctionCode = "Detail";
+        sets.DataGrid.Id = "#" + grid;
+        sets.Window.Fit = true;
+        sets.Window.Url = Url.Action("Detail");
+    }).Create()
+</div>
+<table id="@grid"></table>
+
+<script type="text/javascript">
+
+    function query() {
+        rt.query('#@grid', [
+            {
+                field: 'Id',
+                type: 'numberbox',
+                options: { precision: 0 },
+                op: ['equal', 'notequal', 'less', 'lessorequal', 'greater', 'greaterorequal']
+            }, {
+                field: 'BeginTime',
+                type: 'datetimebox',
+                editable: false,
+                op: ['less', 'lessorequal', 'greater', 'greaterorequal']
+            }, {
+                field: 'EndTime',
+                type: 'datetimebox',
+                editable: false,
+                op: ['equal', 'less', 'lessorequal', 'greater', 'greaterorequal']
+            }, {
+                field: 'Success',
+                type: 'combobox',
+                options: {
+                    value: '',
+                    editable: false,
+                    data: [{ value: '', text: '所有' }, { value: 'true', text: '成功' }, { value: 'false', text: '失败' }],
+                    onChange: function (value) {
+                        var $datagrid = $('#rtdatagrid');
+                        if (value == null || value === '') {
+                            $datagrid.datagrid('removeFilterRule', 'Success');
+                        } else {
+                            $datagrid.datagrid('addFilterRule', {
+                                field: 'Success',
+                                op: 'equal',
+                                value: value
+                            });
+                        }
+                        $datagrid.datagrid('doFilter');
+                    }
+                }
+            }, {
+                field: 'TotalMilliseconds',
+                type: 'numberbox',
+                options: { precision: 0 },
+                op: ['equal', 'notequal', 'less', 'lessorequal', 'greater', 'greaterorequal']
+            }
+        ]);
+    }
+
+    $(function () {
+
+        rt.datagrid({
+            datagrid:'#@grid',
+            toolbar: '#@toolbar',
+            url: '@Url.Action("GetPageRecords")',
+            sortName: "Id",
+            sortOrder: "desc",
+            remoteFilter: true,
+            columns: [[
+                { field: 'Id', width: '60', title: '序号', align: 'right' },
+                { field: 'Url', title: '操作页面' },
+                { field: 'ModuleName', width: 100, title: '模块' },
+                { field: 'Name', width: 200, title: '操作名称' },
+                { field: 'Success', width: 80, title: '操作结果', formatter: formatSuccess },
+                { field: 'Ip', width: 120, title: 'Ip地址' },
+                { field: 'CreatedUserName', width: 100, title: '操作人' },
+                { field: 'BeginTime', width: 130, title: '开始时间' },
+                { field: 'EndTime', width: 130, title: '结束时间' },
+                { field: 'TotalMilliseconds', width: 80, title: '总耗时(ms)', align: 'right' },
+                { field: 'Message', title: '操作信息' }
+            ]]
+        });
+
+    });
+</script>

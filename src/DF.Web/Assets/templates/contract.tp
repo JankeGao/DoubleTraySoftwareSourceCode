@@ -1,0 +1,17 @@
+﻿using HP.Core.Dependency;
+using HP.Data.Orm;
+using HP.Utility.Data;
+{=Using}
+
+namespace {=Namespace}
+{
+    public interface {=Name}: IScopeDependency
+    {
+	    /// <summary>
+        /// 查询{=Description}
+        /// </summary>
+        IQuery<{=EntityName}> {=EntityName}s { get; }
+
+{=Functions}
+    }
+}

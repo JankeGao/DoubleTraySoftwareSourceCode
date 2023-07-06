@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:30018/?xsd=xsd1" namespace="http://schemas.microsoft.com/Message" />
+  <xs:element name="SetLightColor">
+    <xs:complexType />
+  </xs:element>
+  <xs:element name="SetLightColorResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="SetLightColorResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="DataResult">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:DataResultOfObject" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:complexType name="DataResultOfObject">
+    <xs:sequence>
+      <xs:element minOccurs="1" maxOccurs="1" name="Success" type="xs:boolean" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Message" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Data" />
+      <xs:element minOccurs="1" maxOccurs="1" name="ResultType" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SetLightColorByColor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="1" maxOccurs="1" name="cor" type="tns:Color" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:simpleType name="Color">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Off" />
+      <xs:enumeration value="Red" />
+      <xs:enumeration value="Green" />
+      <xs:enumeration value="Blue" />
+      <xs:enumeration value="Yellow" />
+      <xs:enumeration value="Magenta" />
+      <xs:enumeration value="Cyan" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="SetLightColorByColorResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="SetLightColorByColorResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CheckXgate">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="xgateIp" type="xs:string" />
+        <xs:element minOccurs="1" maxOccurs="1" name="busIndex" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CheckXgateResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="CheckXgateResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LightManyIndex">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="1" maxOccurs="1" name="action" type="xs:int" />
+        <xs:element minOccurs="0" maxOccurs="1" name="xgateIp" type="xs:string" />
+        <xs:element minOccurs="1" maxOccurs="1" name="busIndex" type="xs:int" />
+        <xs:element minOccurs="0" maxOccurs="1" name="Teras" type="tns:ArrayOfTear" />
+        <xs:element minOccurs="0" maxOccurs="1" name="m3Address" type="tns:ArrayOfInt" />
+        <xs:element minOccurs="0" maxOccurs="1" name="m3Index" type="tns:ArrayOfInt" />
+        <xs:element minOccurs="1" maxOccurs="1" name="color" type="tns:LightColor" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="ArrayOfTear">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Tear" nillable="true" type="tns:Tear" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="Tear">
+    <xs:sequence>
+      <xs:element minOccurs="1" maxOccurs="1" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" maxOccurs="1" name="indexArray" type="tns:ArrayOfInt" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ArrayOfInt">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="int" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:simpleType name="LightColor">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Off" />
+      <xs:enumeration value="Red" />
+      <xs:enumeration value="Green" />
+      <xs:enumeration value="Blue" />
+      <xs:enumeration value="Yellow" />
+      <xs:enumeration value="Magenta" />
+      <xs:enumeration value="Cyan" />
+      <xs:enumeration value="White" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="LightManyIndexResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="LightManyIndexResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LightOneM3">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="1" maxOccurs="1" name="action" type="xs:int" />
+        <xs:element minOccurs="0" maxOccurs="1" name="xgateIp" type="xs:string" />
+        <xs:element minOccurs="1" maxOccurs="1" name="busIndex" type="xs:int" />
+        <xs:element minOccurs="1" maxOccurs="1" name="m3Address" type="xs:int" />
+        <xs:element minOccurs="1" maxOccurs="1" name="M3Index" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LightOneM3Response">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="LightOneM3Result" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LightOneIndex">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="1" maxOccurs="1" name="action" type="xs:int" />
+        <xs:element minOccurs="0" maxOccurs="1" name="xgateIp" type="xs:string" />
+        <xs:element minOccurs="1" maxOccurs="1" name="busIndex" type="xs:int" />
+        <xs:element minOccurs="1" maxOccurs="1" name="deviceAddress" type="xs:int" />
+        <xs:element minOccurs="1" maxOccurs="1" name="index" type="xs:int" />
+        <xs:element minOccurs="1" maxOccurs="1" name="m3Address" type="xs:int" />
+        <xs:element minOccurs="1" maxOccurs="1" name="m3Index" type="xs:int" />
+        <xs:element minOccurs="1" maxOccurs="1" name="color" type="tns:LightColor" />
+        <xs:element minOccurs="1" maxOccurs="1" name="relateWithM3" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LightOneIndexResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="LightOneIndexResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Stop">
+    <xs:complexType />
+  </xs:element>
+  <xs:element name="StopResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="StopResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StartByStream">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.microsoft.com/Message" name="fileName" type="q1:StreamBody" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StartByStreamResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="StartByStreamResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="MarshalByRefObject" abstract="true" />
+  <xs:complexType name="Stream" abstract="true">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:MarshalByRefObject">
+        <xs:sequence>
+          <xs:element minOccurs="1" maxOccurs="1" name="Position" type="xs:long" />
+          <xs:element minOccurs="1" maxOccurs="1" name="ReadTimeout" type="xs:int" />
+          <xs:element minOccurs="1" maxOccurs="1" name="WriteTimeout" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Start">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="pathArray" type="tns:ArrayOfString" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="ArrayOfString">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="StartResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="StartResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StartByPath">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="fileName" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StartByPathResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="StartByPathResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CheckConfigFileImport">
+    <xs:complexType />
+  </xs:element>
+  <xs:element name="CheckConfigFileImportResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="CheckConfigFileImportResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LoadAllDeviceAddress">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="ipAddress" type="xs:string" />
+        <xs:element minOccurs="1" maxOccurs="1" name="busIndex" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="ArrayOfUnsignedByte">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="unsignedByte" type="xs:unsignedByte" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="LoadAllDeviceAddressResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="LoadAllDeviceAddressResult" type="tns:ArrayOfUnsignedByte" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DisPlay900u">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="xgateIp" type="xs:string" />
+        <xs:element minOccurs="1" maxOccurs="1" name="busIndex" type="xs:unsignedByte" />
+        <xs:element minOccurs="1" maxOccurs="1" name="deviceAddress" type="xs:unsignedByte" />
+        <xs:element minOccurs="1" maxOccurs="1" name="m3Address" type="xs:unsignedByte" />
+        <xs:element minOccurs="1" maxOccurs="1" name="m3Index" type="xs:int" />
+        <xs:element minOccurs="0" maxOccurs="1" name="display900UItem" type="tns:Display900UItem" />
+        <xs:element minOccurs="1" maxOccurs="1" name="color" type="tns:LightColor" />
+        <xs:element minOccurs="1" maxOccurs="1" name="relateWithM3" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="Display900UItem">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="BatchCode" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Name" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Description" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="Direction" type="tns:Direction" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Unit" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="SubLocation" type="xs:unsignedByte" />
+      <xs:element minOccurs="0" maxOccurs="1" name="SubLocationText" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="LongSubLocation" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="Count" type="xs:unsignedShort" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:simpleType name="Direction">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="None" />
+      <xs:enumeration value="Center" />
+      <xs:enumeration value="Top" />
+      <xs:enumeration value="TopRight" />
+      <xs:enumeration value="Right" />
+      <xs:enumeration value="BottomRight" />
+      <xs:enumeration value="Bottom" />
+      <xs:enumeration value="BottomLeft" />
+      <xs:enumeration value="Left" />
+      <xs:enumeration value="TopLeft" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="DisPlay900uResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="DisPlay900uResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Clear900u">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="xgateIp" type="xs:string" />
+        <xs:element minOccurs="1" maxOccurs="1" name="busIndex" type="xs:unsignedByte" />
+        <xs:element minOccurs="1" maxOccurs="1" name="deviceAddress" type="xs:unsignedByte" />
+        <xs:element minOccurs="1" maxOccurs="1" name="m3Address" type="xs:unsignedByte" />
+        <xs:element minOccurs="1" maxOccurs="1" name="m3Index" type="xs:int" />
+        <xs:element minOccurs="1" maxOccurs="1" name="relateWithM3" type="xs:boolean" />
+        <xs:element minOccurs="1" maxOccurs="1" name="IsByOrder" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Clear900uResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="Clear900uResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DisplayMany900u">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="1" maxOccurs="1" name="state" type="xs:int" />
+        <xs:element minOccurs="0" maxOccurs="1" name="ip" type="xs:string" />
+        <xs:element minOccurs="1" maxOccurs="1" name="busIndex" type="xs:int" />
+        <xs:element minOccurs="0" maxOccurs="1" name="devices" type="tns:ArrayOfTear" />
+        <xs:element minOccurs="0" maxOccurs="1" name="m3AddressArray" type="tns:ArrayOfInt" />
+        <xs:element minOccurs="0" maxOccurs="1" name="m3IndexArray" type="tns:ArrayOfInt" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DisplayMany900uResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="DisplayMany900uResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetLocations">
+    <xs:complexType />
+  </xs:element>
+  <xs:complexType name="EntityBaseOfInt32" abstract="true">
+    <xs:sequence>
+      <xs:element minOccurs="1" maxOccurs="1" name="Id" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ServiceEntityBaseOfInt32">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:EntityBaseOfInt32">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="1" name="CreatedUserCode" type="xs:string" />
+          <xs:element minOccurs="0" maxOccurs="1" name="CreatedUserName" type="xs:string" />
+          <xs:element minOccurs="1" maxOccurs="1" name="CreatedTime" type="xs:dateTime" />
+          <xs:element minOccurs="0" maxOccurs="1" name="UpdatedUserCode" type="xs:string" />
+          <xs:element minOccurs="0" maxOccurs="1" name="UpdatedUserName" type="xs:string" />
+          <xs:element minOccurs="1" maxOccurs="1" name="UpdatedTime" nillable="true" type="xs:dateTime" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:complexType name="Location">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:ServiceEntityBaseOfInt32">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="1" name="Code" type="xs:string" />
+          <xs:element minOccurs="0" maxOccurs="1" name="Row" type="xs:string" />
+          <xs:element minOccurs="0" maxOccurs="1" name="Column" type="xs:string" />
+          <xs:element minOccurs="1" maxOccurs="1" name="Depth" type="xs:int" />
+          <xs:element minOccurs="1" maxOccurs="1" name="Height" type="xs:int" />
+          <xs:element minOccurs="1" maxOccurs="1" name="Enabled" nillable="true" type="xs:boolean" />
+          <xs:element minOccurs="1" maxOccurs="1" name="IsLocked" nillable="true" type="xs:boolean" />
+          <xs:element minOccurs="0" maxOccurs="1" name="SuggestMaterialCode" type="xs:string" />
+          <xs:element minOccurs="0" maxOccurs="1" name="Remark" type="xs:string" />
+          <xs:element minOccurs="0" maxOccurs="1" name="WareHouseCode" type="xs:string" />
+          <xs:element minOccurs="0" maxOccurs="1" name="AreaCode" type="xs:string" />
+          <xs:element minOccurs="0" maxOccurs="1" name="ShelfCode" type="xs:string" />
+          <xs:element minOccurs="0" maxOccurs="1" name="XGateIP" type="xs:string" />
+          <xs:element minOccurs="1" maxOccurs="1" name="DeviceAddress" type="xs:int" />
+          <xs:element minOccurs="0" maxOccurs="1" name="SkuSubCode" type="xs:string" />
+          <xs:element minOccurs="1" maxOccurs="1" name="DeviceType" nillable="true" type="xs:int" />
+          <xs:element minOccurs="1" maxOccurs="1" name="ChannelId" nillable="true" type="xs:int" />
+          <xs:element minOccurs="1" maxOccurs="1" name="RowCount" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:complexType name="ArrayOfLocation">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Location" nillable="true" type="tns:Location" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="GetLocationsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="GetLocationsResult" type="tns:ArrayOfLocation" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StartOrder">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="AreaCode" type="xs:string" />
+        <xs:element minOccurs="0" maxOccurs="1" name="ProofId" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StartOrderResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="StartOrderResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FinishOrder">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="AreaCode" type="xs:string" />
+        <xs:element minOccurs="0" maxOccurs="1" name="ProofId" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FinishOrderResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="FinishOrderResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FinishOneLocation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="AreaCode" type="xs:string" />
+        <xs:element minOccurs="0" maxOccurs="1" name="OperatorId" type="xs:string" />
+        <xs:element minOccurs="1" maxOccurs="1" name="RealPickValue" type="xs:int" />
+        <xs:element minOccurs="1" maxOccurs="1" name="IsNeedOffLight" type="xs:boolean" />
+        <xs:element minOccurs="0" maxOccurs="1" name="OperatorCode" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FinishOneLocationResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="FinishOneLocationResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StopAreaOrder">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="AreaCode" type="xs:string" />
+        <xs:element minOccurs="0" maxOccurs="1" name="ProofId" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StopAreaOrderResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="StopAreaOrderResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ContinueAreaOrder">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="AreaCode" type="xs:string" />
+        <xs:element minOccurs="0" maxOccurs="1" name="ProofId" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ContinueAreaOrderResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="ContinueAreaOrderResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

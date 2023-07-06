@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "作废拆盘条码",
+  "usingComponents": {
+    "uni-card": "/components/uni-card/uni-card"
+  }
+}

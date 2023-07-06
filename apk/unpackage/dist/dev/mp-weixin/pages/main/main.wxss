@@ -1,0 +1,71 @@
+
+.dis {
+		display: block;
+}
+.end-cont {
+		display: none;
+}
+.circular {
+		display: flex;
+		width: 35%;
+		height: 230rpx;
+		margin: 30rpx auto;
+		margin-left: 30rpx;
+		background: #FFFFFF;
+		border-radius: 50%;
+		text-align: center;
+		align-items: center;
+		justify-content: center;
+}
+.description {
+		display: flex;
+		width: 60%;
+		margin: 50rpx auto;
+		margin-left: 50rpx;
+		text-align: left;
+		align-items: auto;
+		justify-content: left;
+}
+.module {
+		width: 90%;
+		height: 300rpx;
+		display: flex;
+		margin: 40rpx auto;
+		background: #b2d5cf;
+		border-radius: 30rpx;
+		/* 从左到右 */
+		background-image: linear-gradient(to right, #7777d5 , #adabd5); 
+	    /* 从上到下 */
+/* 	    background-image: linear-gradient(#e66465, #9198e5); */
+		 /* 从左上角到右下角 */
+		/* background-image: linear-gradient(to bottom right, red, yellow); */
+}
+.tag-body {
+
+		display: flex;
+
+		flex-direction: row;
+		justify-content: flex-start;
+		flex-wrap: wrap;
+		/* 		padding: 0rpx; */
+		margin-top: 20rpx;
+		text-align: left;
+		justify-content: left;
+		align-items: auto;
+}
+.tag-view {
+
+		display: flex;
+
+		flex-direction: column;
+		/* margin: 10rpx 15rpx; */
+		margin-right: 10rpx;
+		margin-top: 10rpx;
+		justify-content: center;
+		height: 50rpx;
+		text-align: center;
+		align-items: center;
+/* 		background: blue;
+		border: 0rpx; */
+}
+

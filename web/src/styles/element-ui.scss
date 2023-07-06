@@ -1,0 +1,193 @@
+// cover some element-ui styles
+
+.el-breadcrumb__inner,
+.el-breadcrumb__inner a {
+  font-weight: 400 !important;
+}
+
+.el-upload {
+  input[type="file"] {
+    display: none !important;
+  }
+}
+
+.el-upload__input {
+  display: none;
+}
+
+.cell {
+  .el-tag {
+    margin-right: 0px;
+  }
+}
+
+.small-padding {
+  .cell {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
+.fixed-width {
+  .el-button--mini {
+    padding: 7px 10px;
+    width: 60px;
+  }
+}
+
+.status-col {
+  .cell {
+    padding: 0 10px;
+    text-align: center;
+
+    .el-tag {
+      margin-right: 0px;
+    }
+  }
+}
+
+// to fixed https://github.com/ElemeFE/element/issues/2461
+.el-dialog {
+  transform: none;
+  left: 0;
+  position: relative;
+  margin: 0 auto;
+}
+
+// refine element ui upload
+.upload-container {
+  .el-upload {
+    width: 100%;
+
+    .el-upload-dragger {
+      width: 100%;
+      height: 200px;
+    }
+  }
+}
+
+// dropdown
+.el-dropdown-menu {
+  a {
+    display: block
+  }
+}
+
+// fix date-picker ui bug in filter-item
+.el-range-editor.el-input__inner {
+  display: inline-flex !important;
+}
+
+/* 用来设置当前页面element全局table的内间距 */
+.el-table__row td{
+   padding: 0.3;
+}
+/* 用来设置当前页面element全局table 选中某行时的背景色*/
+.el-table__body tr.current-row>td{
+background-color:rgb(163, 189, 245) !important;
+/* color: #f19944; */  /* 设置文字颜色，可以选择不设置 */
+}
+/* 用来设置当前页面element全局table 鼠标移入某行时的背景色*/
+.el-table--enable-row-hover .el-table__body tr:hover>td {
+background-color: #EAF2FF;
+/* color: #f19944; */ /* 设置文字颜色，可以选择不设置 */
+}
+
+
+
+.el-tree-node.is-current > .el-tree-node__content {
+ 
+  background-color: rgb(163, 189, 245)!important;
+  // color: #f19944; /* 设置文字颜色，可以选择不设置 */
+
+}
+
+
+
+.el-progress{
+  width:100%;		
+}
+.el-progress__text{
+  color:black;
+  font-size: 17px;
+}
+.el-progress-bar__outer{
+  height: 20px!important;
+  border: 1px solid #78335f;
+  background-color:white;//transparent
+}
+
+/* 渐变进度条 */
+.el-bg-inner-running .el-progress-bar__inner{
+  background-color: unset;
+  background-image: linear-gradient(to right, #3587d8 , #6855ff);
+}
+.el-bg-inner-error .el-progress-bar__inner{
+  background-image: linear-gradient(to right, #3587d8 , #fb3a7e);
+}
+.el-bg-inner-done .el-progress-bar__inner{
+  background-image: linear-gradient(to right, #3587d8 , #53ff54);
+}
+
+
+
+
+.el-popper[x-placement^=bottom], .el-popper[x-placement^=right]{
+  &.select-popover{ // 可搜索可多选下拉组件
+  margin-top: 2px;
+  background: #fff;
+  box-shadow: none;
+  padding: 0;
+  .popper__arrow{
+    display: none;
+  }  
+  .search-module {
+    position: relative;
+    padding: 4px 8px;
+    .search-text {
+      width: 100%;
+      height: 30px;
+      // text-indent: 10px;
+      padding: 6px 12px;
+      font-size: 14px;
+      border: 1px solid #cfcfcf;
+      border-radius: 4px;
+      box-shadow: none;
+      outline: none;
+    }
+  }
+
+  input::-webkit-input-placeholder {
+    font-size: 14px;
+  }  
+  .list-module {
+    max-height: 200px;
+    overflow-y: auto;
+
+    li {
+      &._self-hide {
+        display: none;
+      }
+      cursor: pointer;
+      padding: 0 15px;
+      height : 36px;
+      line-height : 36px;
+      color: #555;
+      &:hover{
+        background: #ddeeff;
+      }   
+      &.isactive {       
+        background-color: #f5f5f5;
+      }
+    }
+  }
+}
+/deep/ .popover-item{
+  border-bottom: 1px solid #EEEEEE;
+  height:70px;
+  line-height:30px;
+  &:last-child{
+    border-bottom: none;
+  }
+}
+}

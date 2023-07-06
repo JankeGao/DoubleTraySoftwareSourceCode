@@ -1,0 +1,858 @@
+{
+    "title": "SVG控件",
+    "icon": "el-icon-more",
+    "opened": false,
+    "items": [
+      {
+        "text": "边框A",
+        "icon": "borderA.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 100,
+                    "h": 100
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "borderA.svg"
+            }
+        }
+      },{
+        "text": "边框B",
+        "icon": "borderB.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 100,
+                    "h": 100
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "borderB.svg"
+            }
+        }
+      },{
+      "text": "边框C",
+      "icon": "borderC.svg",
+      "isFontIcon": false,
+      "info": {
+          "type": "svg-image",
+          "action": [],
+          "dataBind": {
+              "sn": "",
+              "title": "",
+              "biz": "",
+              "queryParam": {}
+          },
+          "style": {
+              "position": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 100,
+                  "h": 100
+              },
+              "backColor": "transparent",
+              "zIndex": 1,
+              "url": "borderC.svg"
+          }
+      }
+      },{
+    "text": "边框D",
+    "icon": "borderD.svg",
+    "isFontIcon": false,
+    "info": {
+        "type": "svg-image",
+        "action": [],
+        "dataBind": {
+            "sn": "",
+            "title": "",
+            "biz": "",
+            "queryParam": {}
+        },
+        "style": {
+            "position": {
+                "x": 0,
+                "y": 0,
+                "w": 100,
+                "h": 100
+            },
+            "backColor": "transparent",
+            "zIndex": 1,
+            "url": "borderD.svg"
+        }
+    }
+      },{
+          "text": "线条A",
+          "icon": "lineA.svg",
+          "isFontIcon": false,
+          "info": {
+              "type": "svg-image",
+              "action": [],
+              "dataBind": {
+                  "sn": "",
+                  "title": "",
+                  "biz": "",
+                  "queryParam": {}
+              },
+              "style": {
+                  "position": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 200,
+                      "h": 200
+                  },
+                  "backColor": "transparent",
+                  "zIndex": 1,
+                  "url": "lineA.svg"
+              }
+          }
+      },{
+        "text": "区域A",
+        "icon": "areaA.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "areaA.svg"
+            }
+        }
+      },{
+        "text": "区域B",
+        "icon": "areaB.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "areaB.svg"
+            }
+        }
+      },{
+        "text": "区域C",
+        "icon": "areaC.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "areaC.svg"
+            }
+        }
+      },{
+        "text": "区域D",
+        "icon": "areaD.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "areaD.svg"
+            }
+        }
+      },{
+        "text": "货物A",
+        "icon": "materialA.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "materialA.svg"
+            }
+        }
+      },{
+        "text": "货物B",
+        "icon": "materialB.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "materialB.svg"
+            }
+        }
+      },{
+        "text": "货物C",
+        "icon": "materialC.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "materialC.svg"
+            }
+        }
+      },{
+        "text": "过道A",
+        "icon": "roadawayA.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "roadawayA.svg"
+            }
+        }
+      },{
+        "text": "搬货车A",
+        "icon": "unloadA.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "unloadA.svg"
+            }
+        }
+      },{
+        "text": "搬货车B",
+        "icon": "unloadB.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "unloadB.svg"
+            }
+        }
+      },{
+        "text": "搬货车C",
+        "icon": "unloadC.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "unloadC.svg"
+            }
+        }
+      },{
+        "text": "货架A",
+        "icon": "locationA.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "locationA.svg"
+            }
+        }
+      },{
+        "text": "货架B",
+        "icon": "locationB.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "locationB.svg"
+            }
+        }
+      },{
+        "text": "货架C",
+        "icon": "locationC.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "locationC.svg"
+            }
+        }
+      },{
+        "text": "货架D",
+        "icon": "locationD.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "locationD.svg"
+            }
+        }
+      },{
+        "text": "货架E",
+        "icon": "locationE.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "locationE.svg"
+            }
+        }
+      },{
+        "text": "货车A",
+        "icon": "carA.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "carA.svg"
+            }
+        }
+      },{
+        "text": "货车B",
+        "icon": "carB.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "carB.svg"
+            }
+        }
+      },{
+        "text": "人员A",
+        "icon": "manA.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "manA.svg"
+            }
+        }
+      },{
+        "text": "人员B",
+        "icon": "manB.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "manB.svg"
+            }
+        }
+      },{
+        "text": "设备A",
+        "icon": "equipmentA.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "equipmentA.svg"
+            }
+        }
+      },{
+        "text": "设备B",
+        "icon": "equipmentB.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "equipmentB.svg"
+            }
+        }
+      },{
+        "text": "补货车",
+        "icon": "addMaterial.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "addMaterial.svg"
+            }
+        }
+      },{
+        "text": "取货车",
+        "icon": "pickUp.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "pickUp.svg"
+            }
+        }
+      },{
+        "text": "办公",
+        "icon": "office.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "office.svg"
+            }
+        }
+      },{
+        "text": "办公桌",
+        "icon": "officeTable.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "officeTable.svg"
+            }
+        }
+      },{
+        "text": "办公椅",
+        "icon": "officeChair.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "officeChair.svg"
+            }
+        }
+      },{
+        "text": "运动",
+        "icon": "sport.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "sport.svg"
+            }
+        }
+      },{
+        "text": "加工",
+        "icon": "process.svg",
+        "isFontIcon": false,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "process.svg"
+            }
+        }
+      }
+]
+}

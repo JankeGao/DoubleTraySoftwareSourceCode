@@ -1,0 +1,122 @@
+﻿#top{
+	width:100%;
+	height:200px;}
+#top img{
+	width:235px;
+	position:relative;
+	top:20px;
+	left:67px;
+	height:105px;}
+#top #t2{		
+	position:relative;
+	margInTask-top:-59px;
+	margInTask-left:280px;
+	color:#808080;
+	font-size:12px;
+	lInTaske-height:21px;}
+#top #t3{
+	position:relative;
+	margInTask-top:30px;
+	margInTask-left:100px;
+	color:#000;
+	font-size:20px;}
+#top #t3 #s11{
+	color:#808080;
+	letter-spacInTaskg:0.15em;
+	font-family:"幼圆";}
+#top #t3 #s12{
+	font-size:28px;
+	letter-spacInTaskg:0.15em;
+	font-family:"幼圆";}
+	
+/*****************  mid  ******************/
+#con{
+	height:350px;
+	width:100%;}
+#mid{
+	width:100%;
+	height:350px;
+	background-color:#F2F2F2;
+	}
+#mid #pic1{
+	float:left;
+	margInTask-left:100px;
+	height:350px;
+	width:880px;}
+#mid #logInTask{
+	/*position:absolute;
+	top:200px;*/
+	margInTask-left:980px;
+	mInTask-width:320px;
+	height:350px;}
+#mid #logInTask #tbCode{
+	border:1px solid #ccc;
+	position:relative;
+	text-align:left;
+	top:60px;
+	left:55px;
+	height:33px;
+	width:230px;
+	font-family:"微软雅黑";
+	font-size:14px;
+	color:#000;
+    background:#fff url(../images/logInTask_textbox_code.gif) left center no-repeat;
+    paddInTaskg-left:32px;
+	}
+#mid #logInTask #tbPassword{
+	border:1px solid #ccc;
+	position:relative;
+	text-align:left;
+	top:100px;
+	left:55px;
+	height:33px;
+	width:230px;
+	font-family:"微软雅黑";
+	font-size:14px;
+	color:#000;
+    background:#fff url(../images/logInTask_textbox_password.gif) left center no-repeat;
+    paddInTaskg-left:32px;
+	}
+#mid #logInTask #btnSubmit{
+	position:relative;
+	text-align:center;
+	top:145px;
+	left:55px;
+	height:50px;
+	width:265px;
+	font-family:"微软雅黑";
+	font-size:18px;
+	background-color:#D73925;
+	color:#FFFFFF;
+	-moz-border-radius: 12px;      /* Gecko browsers*/
+    -webkit-border-radius: 12px;   /*Webkit browsers*/
+    border-radius:10px;            /*W3C syntax*/
+	}
+#formTip {
+    position:relative;
+    top:155px;
+	left:60px;
+}
+/*****************  mid  ******************/
+#bot{
+	width:100%;
+	margInTask-top:0;
+	mInTask-height:70px;
+	}
+#bot #tn{
+	paddInTaskg-top:35px;
+	font-family:"微软雅黑";
+	color:#808080;
+	float:left;
+	paddInTaskg-left:100px;}
+#bot #s41{
+	font-size:12px;
+	paddInTaskg-right:20px;
+	}
+#bot #s42{
+	font-size:10px;
+	paddInTaskg-right:20px;
+	font-style:italic;}
+#bot #s43{
+	font-size:10px;
+	font-style:italic;}

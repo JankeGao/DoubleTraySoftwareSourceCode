@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HPC.BaseService</id>
+    <version>1.3</version>
+    <title>HPC.BaseService</title>
+    <authors>DCTech</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DCTech 基础服务组件，提供系统基础模块功能的封装</description>
+    <summary>DCTech BaseService 组件</summary>
+    <copyright>Copyright © DCTech 2018-2019</copyright>
+    <language>zh-CN</language>
+    <tags>DCTech</tags>
+  </metadata>
+  <files>
+    <file src="bin\$configuration$\$id$.pdb" target="lib\net45\" />
+  </files>
+</package>

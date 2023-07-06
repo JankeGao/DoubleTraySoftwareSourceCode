@@ -1,0 +1,92 @@
+﻿<UserControl x:Class="wms.Client.View.AlarmView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:wms.Client.View"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:template="clr-namespace:wms.Client.Template"
+             xmlns:template1="clr-namespace:wms.Client.UiCore.Template"
+             xmlns:converter="clr-namespace:wms.Client.UiCore.Converter"
+             xmlns:validationRules="clr-namespace:wms.Client.UiCore.ValidationRules"
+             xmlns:service="clr-namespace:wms.Client.Service"
+             mc:Ignorable="d"
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <service:GlobalData x:Key="globalData"/>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <StackPanel Orientation="Horizontal">
+                    <Button
+                        Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                        Width="120"
+                        Margin="5"
+                        ToolTip="Resource name: MaterialDesignRaisedLightButton"
+                        Command="{Binding RestAllCommand}">
+                        复位全部报警
+                    </Button>
+                    <!-- 人员登录图标-->
+                    <StackPanel Margin="15 0 0 0" Orientation="Horizontal" HorizontalAlignment="Right">
+                        <materialDesign:Chip
+                            Content="{Binding Source={StaticResource globalData},Path=UserName}"
+                            IsDeletable="True"
+                            DeleteCommand="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type Grid}}, Path=DataContext.LoginOutCommand}"
+                            DeleteCommandParameter="{Binding Source={StaticResource globalData},Path=UserName}"
+                            ToolTip="Just a tool tip"
+                            DeleteToolTip="Your friendly neighbor delete button">
+                            <materialDesign:Chip.Icon>
+                                <Image
+                                    Source="{Binding Source={StaticResource globalData},Path=PictureUrl}"></Image>
+                            </materialDesign:Chip.Icon>
+                        </materialDesign:Chip>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+
+            <DataGrid Grid.Row="1"
+                          CanUserSortColumns="True" Background="{StaticResource DefaultBackGround}"
+                          CanUserAddRows="False" AutoGenerateColumns="False" ItemsSource="{Binding DeviceAlarmList}"
+                          IsReadOnly="True">
+                <DataGrid.InputBindings>
+                    <MouseBinding MouseAction="LeftDoubleClick"
+                                      CommandParameter="{Binding RelativeSource={RelativeSource Mode=FindAncestor, 
+                        AncestorType=DataGrid}, Path=SelectedItem}"
+                                      Command="{Binding SelectItemCommand}" />
+                </DataGrid.InputBindings>
+                <DataGrid.ColumnHeaderStyle>
+                    <!--使每一列的头部标题居中-->
+                    <Style TargetType="DataGridColumnHeader">
+                        <Setter Property="HorizontalContentAlignment" Value="Center">
+                        </Setter>
+                    </Style>
+                </DataGrid.ColumnHeaderStyle>
+                <DataGrid.Columns>
+                    <DataGridTemplateColumn Header="状态">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Margin="5 0 0 0"
+                                            Width="80"
+                                            Content="{Binding StatusDescription}"
+                                            Style="{StaticResource MaterialDesignRaisedLightButton}" ToolTip="报警">
+                                </Button>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <!--<DataGridTextColumn Binding="{Binding StatusDescription}" Header="状态" />-->
+                    <DataGridTextColumn Binding="{Binding AlarmStatusDescription}" Header="报警内容" />
+                    <DataGridTextColumn Binding="{Binding CreatedTime,StringFormat={}{0:yyyy-MM-dd hh:mm}}" Header="发生时间" />
+                    <DataGridTextColumn Binding="{Binding UpdatedTime,StringFormat={}{0:yyyy-MM-dd hh:mm}}" Header="结束时间" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Grid>
+</UserControl>

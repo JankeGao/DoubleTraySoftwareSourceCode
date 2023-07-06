@@ -1,0 +1,103 @@
+﻿<#@ template language="C#" debug="True" hostspecific="True" #>
+<#@ output extension=".cs" #>
+<#@ assembly name="System.Data" #>
+<#@ assembly name="System.xml" #>
+<#@ assembly name="System.Configuration" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ import namespace="System.Data.SqlClient" #>
+<#@ import namespace="System.Data" #>
+<#@ include file="ModelAuto.ttinclude"#>
+<# var manager = new Manager(Host, GenerationEnvironment, true) { OutputPath = Path.GetDirectoryName(Host.TemplateFile)}; #>
+<# 
+    string connectionString =  "Data Source=CH-PC;Initial Catalog=DeltaRTFrameworkDB;User ID=sa;Password=123456;"; 
+    SqlConnection conn = new SqlConnection(connectionString); 
+    conn.Open(); 
+    System.Data.DataTable schema = conn.GetSchema("TABLES"); 
+    string selectQuery = "select * from @tableName"; 
+    SqlCommand command = new SqlCommand(selectQuery,conn); 
+    SqlDataAdapter ad = new SqlDataAdapter(command); 
+    System.Data.DataSet ds = new DataSet();
+ 
+    string propQuery = "SELECT 表名=sobj.name,字段名=scol.name,字段说明=sprop.[value] FROM syscolumns as scol inner join sys.sysobjects as sobj on scol.id=sobj.id and sobj.xtype='U' and sobj.name<>'dtproperties' left join sys.extended_properties as sprop on scol.id=sprop.major_id and scol.colid=sprop.minor_id where sobj.name='@tableName' and scol.name='@columnName'"; 
+    SqlCommand command2 = new SqlCommand(propQuery,conn); 
+    SqlDataAdapter ad2 = new SqlDataAdapter(command2); 
+    System.Data.DataSet ds2 = new DataSet();
+ #>
+
+<# 
+    foreach(System.Data.DataRow row in schema.Rows) 
+    {  #>   
+
+     <# 
+		string tableName=row["TABLE_NAME"].ToString();
+		string entityName=tableName.Substring(3);
+        manager.StartBlock(entityName+".cs");
+     #>
+// -----------------------------------------------------------------------
+//  <copyright file="<#=entityName#>.cs" company="Hcf.Framework">
+//      Copyright (c) Hcf.Framework. All rights reserved.
+//  </copyright>
+//  <last-editor>陈慧</last-editor>
+//  <last-date><#=DateTime.Now.ToString()#></last-date>
+// -----------------------------------------------------------------------
+using System;
+using DeltaRT.Core.Data;
+using DeltaRT.Core.Data.Infrastructure;
+using DeltaRT.Core.Data.Attributes;
+		    <# 
+		    ds.Tables.Clear();
+            command.CommandText = selectQuery.Replace("@tableName",tableName); 
+            ad.FillSchema(ds, SchemaType.Mapped, tableName);
+			List<string> list=new List<string>();
+			if(ds.Tables[0].Columns.Contains("Creater"))
+			{
+				list.Add("ICreater");
+            }
+			if(ds.Tables[0].Columns.Contains("CreateTime"))
+			{
+				list.Add("ICreateTime");
+            }
+
+
+			var DataColumn= ds.Tables[0].Columns["Id"];
+			StringBuilder sb=new StringBuilder(":EntityBase<"+SqlServerDbTypeMap.GetCsharpType(DataColumn.DataType.Name.ToLower())+">");
+			if(list.Count>0)
+			{
+				sb.AppendFormat(",{0}",string.Join(",",list));
+            }
+		#>
+
+namespace DeltaRT.Web.Entitys
+{
+
+	/// <summary>
+	/// 数据表实体类：<#= entityName #> 
+	/// </summary>
+	public class <#= entityName #> <#=sb#>
+	{    
+            <#
+            foreach (DataColumn dc in ds.Tables[0].Columns)
+            { 
+            #>
+            <# 
+			if(dc.ColumnName=="Id") continue;
+             ds2.Tables.Clear();
+             command2.CommandText = propQuery.Replace("@tableName",tableName); 
+             command2.CommandText = command2.CommandText.Replace("@columnName",dc.ColumnName); 
+             ad2.Fill(ds2);
+            #> 
+		/// <summary>
+		/// <#=  dc.ColumnName #>
+		/// </summary>                       
+		public <#= SqlServerDbTypeMap.GetCsharpType(dc.DataType.Name.ToLower())  #> <#= dc.ColumnName #> {get;set;}   
+		<# }  #>   
+	}    
+}
+
+    <# manager.EndBlock(); #>
+
+<# } #> 
+
+<#
+    manager.Process(true);
+#>

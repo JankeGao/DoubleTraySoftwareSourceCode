@@ -1,0 +1,62 @@
+﻿@{
+    ViewBag.Title = "系统异常";
+    string grid = "gridSysException";
+    string toolbar = "toolbarSysException";
+}
+<div id="@toolbar">
+    @Html.FunctionButton().Setting(sets =>
+    {
+        sets.FunctionCode = "Query";
+        sets.OnClick = "query()";
+    }).Create()
+    @Html.FunctionButton().Setting(sets =>
+    {
+        sets.ScriptCommand = ScriptCommandEnum.Detail;
+        sets.FunctionCode = "Detail";
+        sets.DataGrid.Id = "#" + grid;
+        sets.Window.Fit = true;
+        sets.Window.Url = Url.Action("Detail");
+    }).Create()
+</div>
+<table id="@grid"></table>
+
+<script type="text/javascript">
+
+    function query() {
+        rt.query('#@grid', [
+            {
+                field: 'CreateTime',
+                type: 'datebox',
+                editable: false,
+                op: ['less', 'greater']
+            }
+        ]);
+    }
+
+    $(function () {
+
+        rt.datagrid({
+            datagrid:'#@grid',
+            toolbar: '#@toolbar',
+            url: '@Url.Action("GetPageRecords")',
+            sortName: "CreatedTime",
+            sortOrder: "desc",
+            remoteFilter: true,
+            columns: [[
+                { field: 'Id', width: 250, title: '编码' },
+                { field: 'StatusCode', width: 60, title: '状态码' },
+                { field: 'Ip', width: 150, title: 'IP地址' },
+                { field: 'Name', width: 200, title: '异常名称' },
+                { field: 'InnerException', width: 150, title: '内部消息' },
+                { field: 'Message', width: 200, title: '异常信息' },
+                { field: 'Source', width: 200, title: '来源' },
+                { field: 'Method', width: 200, title: '操作方法' },
+                { field: 'Data', width: 200, title: '程序集' },
+                { field: 'CreatedUserName', width: 100, title: '创建人' },
+                { field: 'CreatedTime', width: 150, title: '创建时间' }
+            ]]
+        });
+
+        
+    });
+</script>

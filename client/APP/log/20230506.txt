@@ -1,0 +1,15 @@
+2023-05-06 14:33:01:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-05-06 14:37:19:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-05-06 14:45:09:捕获未处理异常:未能找到路径“E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\App\bin”的一部分。
+2023-05-06 14:50:45:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-05-06 15:02:31:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-05-06 15:02:43:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-05-06 15:02:57:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-05-06 15:03:00:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-05-06 15:03:31:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-05-06 15:03:53:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-05-06 15:05:49:捕获未处理异常:未能找到路径“E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\App\bin”的一部分。
+2023-05-06 15:09:36:捕获未处理异常:未能找到路径“E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\App\bin”的一部分。
+2023-05-06 15:19:06:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-05-06 15:19:17:捕获未处理异常:无法对“Bussiness.Dtos.InTaskMaterialDto”类型的只读属性“StatusCaption”进行 TwoWay 或 OneWayToSource 绑定。
+2023-05-06 15:25:04:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。

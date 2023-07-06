@@ -1,0 +1,67 @@
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Release\PLCServer.exe.config
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Release\PLCServer.exe
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Release\PLCServer.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Release\Communication.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Release\HP.Data.Entity.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Release\Newtonsoft.Json.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Release\System.Buffers.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Release\System.Memory.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Release\System.Numerics.Vectors.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\obj\Release\PLCServer.MainForm.resources
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\obj\Release\PLCServer.Properties.Resources.resources
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\obj\Release\PLCServer.csproj.GenerateResource.cache
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\obj\Release\PLCServer.csproj.CopyComplete
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\obj\Release\PLCServer.exe
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\obj\Release\PLCServer.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\obj\Release\PLCServer.csprojAssemblyReference.cache
+E:\IWMS\PLC\bin\Release\PLCServer.exe.config
+E:\IWMS\PLC\bin\Release\PLCServer.exe
+E:\IWMS\PLC\bin\Release\PLCServer.pdb
+E:\IWMS\PLC\bin\Release\Communication.dll
+E:\IWMS\PLC\bin\Release\HP.Data.Entity.dll
+E:\IWMS\PLC\bin\Release\Newtonsoft.Json.dll
+E:\IWMS\PLC\bin\Release\System.Buffers.dll
+E:\IWMS\PLC\bin\Release\System.Memory.dll
+E:\IWMS\PLC\obj\Release\PLCServer.csproj.AssemblyReference.cache
+E:\IWMS\PLC\obj\Release\PLCServer.csproj.SuggestedBindingRedirects.cache
+E:\IWMS\PLC\obj\Release\PLCServer.MainForm.resources
+E:\IWMS\PLC\obj\Release\PLCServer.Properties.Resources.resources
+E:\IWMS\PLC\obj\Release\PLCServer.csproj.GenerateResource.cache
+E:\IWMS\PLC\obj\Release\PLCServer.csproj.CoreCompileInputs.cache
+E:\IWMS\PLC\obj\Release\PLCServer.csproj.CopyComplete
+E:\IWMS\PLC\obj\Release\PLCServer.exe
+E:\IWMS\PLC\obj\Release\PLCServer.pdb
+E:\Festo\PLC\bin\Release\PLCServer.exe.config
+E:\Festo\PLC\bin\Release\PLCServer.exe
+E:\Festo\PLC\bin\Release\PLCServer.pdb
+E:\Festo\PLC\bin\Release\Communication.dll
+E:\Festo\PLC\bin\Release\HP.Data.Entity.dll
+E:\Festo\PLC\bin\Release\Newtonsoft.Json.dll
+E:\Festo\PLC\bin\Release\System.Buffers.dll
+E:\Festo\PLC\bin\Release\System.Memory.dll
+E:\Festo\PLC\obj\Release\PLCServer.csproj.AssemblyReference.cache
+E:\Festo\PLC\obj\Release\PLCServer.csproj.SuggestedBindingRedirects.cache
+E:\Festo\PLC\obj\Release\PLCServer.MainForm.resources
+E:\Festo\PLC\obj\Release\PLCServer.Properties.Resources.resources
+E:\Festo\PLC\obj\Release\PLCServer.csproj.GenerateResource.cache
+E:\Festo\PLC\obj\Release\PLCServer.csproj.CoreCompileInputs.cache
+E:\Festo\PLC\obj\Release\PLCServer.csproj.CopyComplete
+E:\Festo\PLC\obj\Release\PLCServer.exe
+E:\Festo\PLC\obj\Release\PLCServer.pdb
+E:\SoftwareSourceCode\PLC\bin\Release\PLCServer.exe.config
+E:\SoftwareSourceCode\PLC\bin\Release\PLCServer.exe
+E:\SoftwareSourceCode\PLC\bin\Release\PLCServer.pdb
+E:\SoftwareSourceCode\PLC\bin\Release\Communication.dll
+E:\SoftwareSourceCode\PLC\bin\Release\HP.Data.Entity.dll
+E:\SoftwareSourceCode\PLC\bin\Release\Newtonsoft.Json.dll
+E:\SoftwareSourceCode\PLC\bin\Release\System.Buffers.dll
+E:\SoftwareSourceCode\PLC\bin\Release\System.Memory.dll
+E:\SoftwareSourceCode\PLC\obj\Release\PLCServer.csproj.AssemblyReference.cache
+E:\SoftwareSourceCode\PLC\obj\Release\PLCServer.csproj.SuggestedBindingRedirects.cache
+E:\SoftwareSourceCode\PLC\obj\Release\PLCServer.MainForm.resources
+E:\SoftwareSourceCode\PLC\obj\Release\PLCServer.Properties.Resources.resources
+E:\SoftwareSourceCode\PLC\obj\Release\PLCServer.csproj.GenerateResource.cache
+E:\SoftwareSourceCode\PLC\obj\Release\PLCServer.csproj.CoreCompileInputs.cache
+E:\SoftwareSourceCode\PLC\obj\Release\PLCServer.csproj.CopyComplete
+E:\SoftwareSourceCode\PLC\obj\Release\PLCServer.exe
+E:\SoftwareSourceCode\PLC\obj\Release\PLCServer.pdb

@@ -1,0 +1,54 @@
+2018-12-14 11:40:37=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:38=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:38=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:38=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:38=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:38=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:39=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:39=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:39=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:39=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:39=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:39=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:39=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:39=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:39=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:40=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:40=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:41=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:41=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:41=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:41=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:41=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:41=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:41=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:40:41=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:43:02=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 52
+2018-12-14 11:46:25=>UDP 发送数据【5504861A242D00010100】->System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PreviewDemo.DASUDP.SendCommand(String cmd, String ip, Int32 Port) 位置 f:\项目\人脸识别\海康\CH-HCNetSDKV5.3.6.30_build20180816_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\DASUDP.cs:行号 57

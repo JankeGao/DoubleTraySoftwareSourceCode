@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9AA75B52-2D79-490C-9A70-6E0DAB96DE8E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HPC.BaseService</RootNamespace>
+    <AssemblyName>HPC.BaseService</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Autofac, Version=4.6.2.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autofac.4.6.2\lib\net45\Autofac.dll</HintPath>
+    </Reference>
+    <Reference Include="HP.Core, Version=1.3.2.3, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\HP.Core.2.2.0\lib\net45\HP.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="HP.Data.Entity, Version=1.3.2.3, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\HP.Data.Entity.1.0.2\lib\net45\HP.Data.Entity.dll</HintPath>
+    </Reference>
+    <Reference Include="HP.Data.Orm, Version=1.3.2.3, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\HP.Data.Orm.1.1.0\lib\net45\HP.Data.Orm.dll</HintPath>
+    </Reference>
+    <Reference Include="HP.Utility, Version=1.3.2.3, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\HP.Utility.1.0.0\lib\net45\HP.Utility.dll</HintPath>
+    </Reference>
+    <Reference Include="HP.Web.Mvc, Version=1.3.2.3, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\HP.Web.Mvc.1.0.0\lib\net45\HP.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\ConvertDataTableToList.cs" />
+    <Compile Include="Contracts\IAuthorizationContract.cs" />
+    <Compile Include="Contracts\ICodeRuleContract.cs" />
+    <Compile Include="Contracts\IDepartmentContract.cs" />
+    <Compile Include="Contracts\IDictionaryContract.cs" />
+    <Compile Include="Contracts\IEntityInfoContract.cs" />
+    <Compile Include="Contracts\IExceptionContract .cs" />
+    <Compile Include="Contracts\IIdentityContract.cs" />
+    <Compile Include="Contracts\IOperationLogContract.cs" />
+    <Compile Include="Contracts\ILabelContract.cs" />
+    <Compile Include="Contracts\IRegionContract.cs" />
+    <Compile Include="Dtos\AuthInputDto.cs" />
+    <Compile Include="Dtos\AuthUserMapInputDto.cs" />
+    <Compile Include="Dtos\CodeRuleInputDto.cs" />
+    <Compile Include="Dtos\DepartmentTree.cs" />
+    <Compile Include="Dtos\DictionartTypeTreeOutputDto.cs" />
+    <Compile Include="Dtos\DictionaryTree.cs" />
+    <Compile Include="Dtos\DictionaryTypeTree.cs" />
+    <Compile Include="Dtos\FunctionAuthInputDto.cs" />
+    <Compile Include="Dtos\FunctionAuthOutputDto.cs" />
+    <Compile Include="Dtos\FunctionInputDto.cs" />
+    <Compile Include="Dtos\LabelMapInputDto.cs" />
+    <Compile Include="Dtos\LoginInfo.cs" />
+    <Compile Include="Dtos\ModelCodeInputDto.cs" />
+    <Compile Include="Dtos\ModuleAuthOutputDto.cs" />
+    <Compile Include="Dtos\ModuleEntityMapInputDto.cs" />
+    <Compile Include="Dtos\ModuleEntityMapOutputDto.cs" />
+    <Compile Include="Dtos\ModuleInputDto.cs" />
+    <Compile Include="Dtos\ModuleOutputDto.cs" />
+    <Compile Include="Dtos\ModuleTreeOutputDto.cs" />
+    <Compile Include="Dtos\RoleUsersMapInputDto.cs" />
+    <Compile Include="Dtos\ServiceCodeInputDto.cs" />
+    <Compile Include="Dtos\UserGroupUsersMapInputDto.cs" />
+    <Compile Include="Dtos\UserInputDto.cs" />
+    <Compile Include="Dtos\LogsOutputDto.cs" />
+    <Compile Include="Dtos\RoleOutputDto.cs" />
+    <Compile Include="Dtos\UserOutputDto.cs" />
+    <Compile Include="Dtos\UserPasswordInputDto.cs" />
+    <Compile Include="Dtos\UserRolesMapInputDto.cs" />
+    <Compile Include="Dtos\UserUserGroupsMapInputDto.cs" />
+    <Compile Include="Enums\AlignEnum.cs" />
+    <Compile Include="Enums\AssemblyTypeEnum.cs" />
+    <Compile Include="Enums\DataRuleSpecialWordEnum.cs" />
+    <Compile Include="Enums\EntityDataAuthTypeEnum.cs" />
+    <Compile Include="Enums\SexEnum.cs" />
+    <Compile Include="Enums\StatusEnum.cs" />
+    <Compile Include="Enums\UserStatusEnum.cs" />
+    <Compile Include="Enums\ValidateTypeEnum.cs" />
+    <Compile Include="Models\ClassInfo.cs" />
+    <Compile Include="Models\DataAuth.cs" />
+    <Compile Include="Models\Department.cs" />
+    <Compile Include="Models\Dictionary.cs" />
+    <Compile Include="Models\DictionaryType.cs" />
+    <Compile Include="Models\FunctionTemplate.cs" />
+    <Compile Include="Models\LabelMap.cs" />
+    <Compile Include="Models\Label.cs" />
+    <Compile Include="Models\Register.cs" />
+    <Compile Include="Models\UserLogin.cs" />
+    <Compile Include="Models\ModelTableMapping.cs" />
+    <Compile Include="Models\Module.cs" />
+    <Compile Include="Models\ModuleAuth.cs" />
+    <Compile Include="Models\ModuleEntityMap.cs" />
+    <Compile Include="Models\Region.cs" />
+    <Compile Include="Models\Role.cs" />
+    <Compile Include="Models\RoleUserMap.cs" />
+    <Compile Include="Models\User.cs" />
+    <Compile Include="Models\UserGroup.cs" />
+    <Compile Include="Models\UserGroupUserMap.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\CacheResource.cs" />
+    <Compile Include="Resources\CatalogResource.cs" />
+    <Compile Include="Resources\ModuleResource.cs" />
+    <Compile Include="Resources\SessionResource.cs" />
+    <Compile Include="Services\AuthorizationService.Authorization.cs" />
+    <Compile Include="Services\AuthorizationService.cs" />
+    <Compile Include="Services\AuthorizationService.DataAuth.cs" />
+    <Compile Include="Services\AuthorizationService.DataRule.cs" />
+    <Compile Include="Services\AuthorizationService.Function.cs" />
+    <Compile Include="Services\AuthorizationService.FunctionAuth.cs" />
+    <Compile Include="Services\AuthorizationService.FunctionTemplate.cs" />
+    <Compile Include="Services\AuthorizationService.Module.cs" />
+    <Compile Include="Services\AuthorizationService.ModuleAuth.cs" />
+    <Compile Include="Services\DepartmentService.cs" />
+    <Compile Include="Services\DictionaryService.cs" />
+    <Compile Include="Services\DictionaryService.Type.cs" />
+    <Compile Include="Services\EntityInfoService.cs" />
+    <Compile Include="Services\ExceptionService.cs" />
+    <Compile Include="Services\IdentityService.cs" />
+    <Compile Include="Services\IdentityService.Role.cs" />
+    <Compile Include="Services\IdentityService.RoleUserMap.cs" />
+    <Compile Include="Services\IdentityService.User.cs" />
+    <Compile Include="Services\IdentityService.UserGroup.cs" />
+    <Compile Include="Services\IdentityService.UserGroupUserMap.cs" />
+    <Compile Include="Services\LabelService.cs" />
+    <Compile Include="Services\OperationLogService.cs" />
+    <Compile Include="Services\RegionService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="HPC.BaseService.nuspec" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

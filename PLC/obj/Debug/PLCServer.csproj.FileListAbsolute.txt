@@ -1,0 +1,176 @@
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\bin\Debug\ISS.config
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\bin\Debug\PLCServer.exe.config
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\bin\Debug\PLCServer.exe
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\bin\Debug\PLCServer.pdb
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\bin\Debug\System.Buffers.dll
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\bin\Debug\System.Memory.dll
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\bin\Debug\System.Numerics.Vectors.dll
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\obj\Debug\PLCServer.exe.config
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\obj\Debug\PLCServer.MainForm.resources
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\obj\Debug\PLCServer.Properties.Resources.resources
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\obj\Debug\PLCServer.csproj.GenerateResource.cache
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\obj\Debug\PLCServer.csproj.CoreCompileInputs.cache
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\obj\Debug\PLCServer.csproj.CopyComplete
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\obj\Debug\PLCServer.exe
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\obj\Debug\PLCServer.pdb
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\obj\Debug\PLCServer.csprojAssemblyReference.cache
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\bin\Debug\HslCommunication.dll
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\bin\Debug\HslCommunication.pdb
+E:\OtherSVN\Project\朗杰WMS\PLCServer\PLCServer\bin\Debug\HslCommunication.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Debug\PLCServer.exe.config
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Debug\PLCServer.exe
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Debug\PLCServer.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Debug\Communication.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Debug\System.Buffers.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Debug\System.Memory.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Debug\System.Numerics.Vectors.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\obj\Debug\PLCServer.MainForm.resources
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\obj\Debug\PLCServer.Properties.Resources.resources
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\obj\Debug\PLCServer.csproj.GenerateResource.cache
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\obj\Debug\PLCServer.csproj.CopyComplete
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\obj\Debug\PLCServer.exe
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\obj\Debug\PLCServer.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\obj\Debug\PLCServer.csprojAssemblyReference.cache
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Debug\HP.Data.Entity.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\PLCServer\PLCServer\bin\Debug\Newtonsoft.Json.dll
+E:\OtherSVN\Project\朗杰WMS\PLC\bin\Debug\PLCServer.exe.config
+E:\OtherSVN\Project\朗杰WMS\PLC\bin\Debug\PLCServer.exe
+E:\OtherSVN\Project\朗杰WMS\PLC\bin\Debug\PLCServer.pdb
+E:\OtherSVN\Project\朗杰WMS\PLC\bin\Debug\Communication.dll
+E:\OtherSVN\Project\朗杰WMS\PLC\bin\Debug\HP.Data.Entity.dll
+E:\OtherSVN\Project\朗杰WMS\PLC\bin\Debug\Newtonsoft.Json.dll
+E:\OtherSVN\Project\朗杰WMS\PLC\bin\Debug\System.Buffers.dll
+E:\OtherSVN\Project\朗杰WMS\PLC\bin\Debug\System.Memory.dll
+E:\OtherSVN\Project\朗杰WMS\PLC\bin\Debug\System.Numerics.Vectors.dll
+E:\OtherSVN\Project\朗杰WMS\PLC\bin\Debug\System.Web.Mvc.dll
+E:\OtherSVN\Project\朗杰WMS\PLC\bin\Debug\System.Web.Razor.dll
+E:\OtherSVN\Project\朗杰WMS\PLC\bin\Debug\System.Web.WebPages.Razor.dll
+E:\OtherSVN\Project\朗杰WMS\PLC\bin\Debug\System.Web.WebPages.dll
+E:\OtherSVN\Project\朗杰WMS\PLC\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\OtherSVN\Project\朗杰WMS\PLC\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\OtherSVN\Project\朗杰WMS\PLC\obj\Debug\PLCServer.MainForm.resources
+E:\OtherSVN\Project\朗杰WMS\PLC\obj\Debug\PLCServer.Properties.Resources.resources
+E:\OtherSVN\Project\朗杰WMS\PLC\obj\Debug\PLCServer.csproj.GenerateResource.cache
+E:\OtherSVN\Project\朗杰WMS\PLC\obj\Debug\PLCServer.csproj.CoreCompileInputs.cache
+E:\OtherSVN\Project\朗杰WMS\PLC\obj\Debug\PLCServer.csproj.CopyComplete
+E:\OtherSVN\Project\朗杰WMS\PLC\obj\Debug\PLCServer.exe
+E:\OtherSVN\Project\朗杰WMS\PLC\obj\Debug\PLCServer.pdb
+E:\OtherSVN\Project\朗杰WMS\PLC\obj\Debug\PLCServer.csprojAssemblyReference.cache
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\PLC\bin\Debug\PLCServer.exe.config
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\PLC\bin\Debug\PLCServer.exe
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\PLC\bin\Debug\PLCServer.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\PLC\bin\Debug\Communication.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\PLC\bin\Debug\HP.Data.Entity.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\PLC\bin\Debug\Newtonsoft.Json.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\PLC\bin\Debug\System.Buffers.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\PLC\bin\Debug\System.Memory.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\PLC\obj\Debug\PLCServer.MainForm.resources
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\PLC\obj\Debug\PLCServer.Properties.Resources.resources
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\PLC\obj\Debug\PLCServer.csproj.GenerateResource.cache
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\PLC\obj\Debug\PLCServer.csproj.CoreCompileInputs.cache
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\PLC\obj\Debug\PLCServer.csproj.CopyComplete
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\PLC\obj\Debug\PLCServer.exe
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\PLC\obj\Debug\PLCServer.pdb
+E:\IWMS\PLC\bin\Debug\PLCServer.exe.config
+E:\IWMS\PLC\bin\Debug\PLCServer.exe
+E:\IWMS\PLC\bin\Debug\PLCServer.pdb
+E:\IWMS\PLC\bin\Debug\Communication.dll
+E:\IWMS\PLC\bin\Debug\HP.Data.Entity.dll
+E:\IWMS\PLC\bin\Debug\Newtonsoft.Json.dll
+E:\IWMS\PLC\bin\Debug\System.Buffers.dll
+E:\IWMS\PLC\bin\Debug\System.Memory.dll
+E:\IWMS\PLC\obj\Debug\PLCServer.csproj.AssemblyReference.cache
+E:\IWMS\PLC\obj\Debug\PLCServer.csproj.SuggestedBindingRedirects.cache
+E:\IWMS\PLC\obj\Debug\PLCServer.MainForm.resources
+E:\IWMS\PLC\obj\Debug\PLCServer.Properties.Resources.resources
+E:\IWMS\PLC\obj\Debug\PLCServer.csproj.GenerateResource.cache
+E:\IWMS\PLC\obj\Debug\PLCServer.csproj.CoreCompileInputs.cache
+E:\IWMS\PLC\obj\Debug\PLCServer.csproj.CopyComplete
+E:\IWMS\PLC\obj\Debug\PLCServer.exe
+E:\IWMS\PLC\obj\Debug\PLCServer.pdb
+E:\Festo\PLC\bin\Debug\PLCServer.exe.config
+E:\Festo\PLC\bin\Debug\PLCServer.exe
+E:\Festo\PLC\bin\Debug\PLCServer.pdb
+E:\Festo\PLC\bin\Debug\Communication.dll
+E:\Festo\PLC\bin\Debug\HP.Data.Entity.dll
+E:\Festo\PLC\bin\Debug\Newtonsoft.Json.dll
+E:\Festo\PLC\bin\Debug\System.Buffers.dll
+E:\Festo\PLC\bin\Debug\System.Memory.dll
+E:\Festo\PLC\obj\Debug\PLCServer.csproj.AssemblyReference.cache
+E:\Festo\PLC\obj\Debug\PLCServer.csproj.SuggestedBindingRedirects.cache
+E:\Festo\PLC\obj\Debug\PLCServer.MainForm.resources
+E:\Festo\PLC\obj\Debug\PLCServer.Properties.Resources.resources
+E:\Festo\PLC\obj\Debug\PLCServer.csproj.GenerateResource.cache
+E:\Festo\PLC\obj\Debug\PLCServer.csproj.CoreCompileInputs.cache
+E:\Festo\PLC\obj\Debug\PLCServer.csproj.CopyComplete
+E:\Festo\PLC\obj\Debug\PLCServer.exe
+E:\Festo\PLC\obj\Debug\PLCServer.pdb
+E:\SoftwareSourceCode\PLC\bin\Debug\PLCServer.exe.config
+E:\SoftwareSourceCode\PLC\bin\Debug\PLCServer.exe
+E:\SoftwareSourceCode\PLC\bin\Debug\PLCServer.pdb
+E:\SoftwareSourceCode\PLC\bin\Debug\Communication.dll
+E:\SoftwareSourceCode\PLC\bin\Debug\HP.Data.Entity.dll
+E:\SoftwareSourceCode\PLC\bin\Debug\Newtonsoft.Json.dll
+E:\SoftwareSourceCode\PLC\bin\Debug\System.Buffers.dll
+E:\SoftwareSourceCode\PLC\bin\Debug\System.Memory.dll
+E:\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.AssemblyReference.cache
+E:\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.SuggestedBindingRedirects.cache
+E:\SoftwareSourceCode\PLC\obj\Debug\PLCServer.MainForm.resources
+E:\SoftwareSourceCode\PLC\obj\Debug\PLCServer.Properties.Resources.resources
+E:\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.GenerateResource.cache
+E:\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.CoreCompileInputs.cache
+E:\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.CopyComplete
+E:\SoftwareSourceCode\PLC\obj\Debug\PLCServer.exe
+E:\SoftwareSourceCode\PLC\obj\Debug\PLCServer.pdb
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\PLCServer.exe.config
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\PLCServer.exe
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\PLCServer.pdb
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\Communication.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\HP.Data.Entity.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\Newtonsoft.Json.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\System.Buffers.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\System.Memory.dll
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.AssemblyReference.cache
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.SuggestedBindingRedirects.cache
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.MainForm.resources
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.Properties.Resources.resources
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.GenerateResource.cache
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.CoreCompileInputs.cache
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.CopyComplete
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.exe
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.pdb
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\PLCServer.exe.config
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\PLCServer.exe
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\PLCServer.pdb
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\Communication.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\HP.Data.Entity.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\Newtonsoft.Json.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\System.Buffers.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\System.Memory.dll
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.AssemblyReference.cache
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.SuggestedBindingRedirects.cache
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.MainForm.resources
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.Properties.Resources.resources
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.GenerateResource.cache
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.CoreCompileInputs.cache
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.CopyComplete
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.exe
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.pdb
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\PLCServer.exe.config
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\PLCServer.exe
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\PLCServer.pdb
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\Communication.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\HP.Data.Entity.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\Newtonsoft.Json.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\System.Buffers.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\PLC\bin\Debug\System.Memory.dll
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.AssemblyReference.cache
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.SuggestedBindingRedirects.cache
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.MainForm.resources
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.Properties.Resources.resources
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.GenerateResource.cache
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.CoreCompileInputs.cache
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.csproj.CopyComplete
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.exe
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\PLC\obj\Debug\PLCServer.pdb

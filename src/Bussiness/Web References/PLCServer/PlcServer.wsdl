@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="PlcServer" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:30060/?xsd=xsd0" namespace="http://tempuri.org/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IPlcServer_StartRunningContainer_InputMessage">
+    <wsdl:part name="parameters" element="tns:StartRunningContainer" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_StartRunningContainer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:StartRunningContainerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_HopperSetting_InputMessage">
+    <wsdl:part name="parameters" element="tns:HopperSetting" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_HopperSetting_OutputMessage">
+    <wsdl:part name="parameters" element="tns:HopperSettingResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_EmergencyDoorSetting_InputMessage">
+    <wsdl:part name="parameters" element="tns:EmergencyDoorSetting" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_EmergencyDoorSetting_OutputMessage">
+    <wsdl:part name="parameters" element="tns:EmergencyDoorSettingResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_GetPlcDeivceStatus_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPlcDeivceStatus" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_GetPlcDeivceStatus_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPlcDeivceStatusResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_GetAlarmInformation_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAlarmInformation" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_GetAlarmInformation_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAlarmInformationResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_ResetAlarm_InputMessage">
+    <wsdl:part name="parameters" element="tns:ResetAlarm" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_ResetAlarm_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ResetAlarmResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_StartRunningC3000Container_InputMessage">
+    <wsdl:part name="parameters" element="tns:StartRunningC3000Container" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_StartRunningC3000Container_OutputMessage">
+    <wsdl:part name="parameters" element="tns:StartRunningC3000ContainerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_GetC3000DeivceStatus_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetC3000DeivceStatus" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_GetC3000DeivceStatus_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetC3000DeivceStatusResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_StartRunningHanelContainer_InputMessage">
+    <wsdl:part name="parameters" element="tns:StartRunningHanelContainer" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_StartRunningHanelContainer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:StartRunningHanelContainerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_GetHanelStatus_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetHanelStatus" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_GetHanelStatus_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetHanelStatusResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_FinishHanellContainer_InputMessage">
+    <wsdl:part name="parameters" element="tns:FinishHanellContainer" />
+  </wsdl:message>
+  <wsdl:message name="IPlcServer_FinishHanellContainer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FinishHanellContainerResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IPlcServer">
+    <wsdl:operation name="StartRunningContainer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlcServer/StartRunningContainer" message="tns:IPlcServer_StartRunningContainer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlcServer/StartRunningContainerResponse" message="tns:IPlcServer_StartRunningContainer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="HopperSetting">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlcServer/HopperSetting" message="tns:IPlcServer_HopperSetting_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlcServer/HopperSettingResponse" message="tns:IPlcServer_HopperSetting_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EmergencyDoorSetting">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlcServer/EmergencyDoorSetting" message="tns:IPlcServer_EmergencyDoorSetting_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlcServer/EmergencyDoorSettingResponse" message="tns:IPlcServer_EmergencyDoorSetting_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPlcDeivceStatus">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlcServer/GetPlcDeivceStatus" message="tns:IPlcServer_GetPlcDeivceStatus_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlcServer/GetPlcDeivceStatusResponse" message="tns:IPlcServer_GetPlcDeivceStatus_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAlarmInformation">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlcServer/GetAlarmInformation" message="tns:IPlcServer_GetAlarmInformation_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlcServer/GetAlarmInformationResponse" message="tns:IPlcServer_GetAlarmInformation_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ResetAlarm">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlcServer/ResetAlarm" message="tns:IPlcServer_ResetAlarm_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlcServer/ResetAlarmResponse" message="tns:IPlcServer_ResetAlarm_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="StartRunningC3000Container">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlcServer/StartRunningC3000Container" message="tns:IPlcServer_StartRunningC3000Container_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlcServer/StartRunningC3000ContainerResponse" message="tns:IPlcServer_StartRunningC3000Container_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetC3000DeivceStatus">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlcServer/GetC3000DeivceStatus" message="tns:IPlcServer_GetC3000DeivceStatus_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlcServer/GetC3000DeivceStatusResponse" message="tns:IPlcServer_GetC3000DeivceStatus_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="StartRunningHanelContainer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlcServer/StartRunningHanelContainer" message="tns:IPlcServer_StartRunningHanelContainer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlcServer/StartRunningHanelContainerResponse" message="tns:IPlcServer_StartRunningHanelContainer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetHanelStatus">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlcServer/GetHanelStatus" message="tns:IPlcServer_GetHanelStatus_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlcServer/GetHanelStatusResponse" message="tns:IPlcServer_GetHanelStatus_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FinishHanellContainer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlcServer/FinishHanellContainer" message="tns:IPlcServer_FinishHanellContainer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlcServer/FinishHanellContainerResponse" message="tns:IPlcServer_FinishHanellContainer_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IPlcServer" type="tns:IPlcServer">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="StartRunningContainer">
+      <soap:operation soapAction="http://tempuri.org/IPlcServer/StartRunningContainer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="HopperSetting">
+      <soap:operation soapAction="http://tempuri.org/IPlcServer/HopperSetting" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EmergencyDoorSetting">
+      <soap:operation soapAction="http://tempuri.org/IPlcServer/EmergencyDoorSetting" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPlcDeivceStatus">
+      <soap:operation soapAction="http://tempuri.org/IPlcServer/GetPlcDeivceStatus" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAlarmInformation">
+      <soap:operation soapAction="http://tempuri.org/IPlcServer/GetAlarmInformation" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ResetAlarm">
+      <soap:operation soapAction="http://tempuri.org/IPlcServer/ResetAlarm" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="StartRunningC3000Container">
+      <soap:operation soapAction="http://tempuri.org/IPlcServer/StartRunningC3000Container" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetC3000DeivceStatus">
+      <soap:operation soapAction="http://tempuri.org/IPlcServer/GetC3000DeivceStatus" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="StartRunningHanelContainer">
+      <soap:operation soapAction="http://tempuri.org/IPlcServer/StartRunningHanelContainer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetHanelStatus">
+      <soap:operation soapAction="http://tempuri.org/IPlcServer/GetHanelStatus" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FinishHanellContainer">
+      <soap:operation soapAction="http://tempuri.org/IPlcServer/FinishHanellContainer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="PlcServer">
+    <wsdl:port name="BasicHttpBinding_IPlcServer" binding="tns:BasicHttpBinding_IPlcServer">
+      <soap:address location="http://localhost:30060/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

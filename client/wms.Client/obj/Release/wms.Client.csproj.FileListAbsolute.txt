@@ -1,0 +1,663 @@
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\wms.Client.exe.config
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\wms.Client.exe
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\wms.Client.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Microsoft.Win32.Primitives.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\netstandard.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.AppContext.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Collections.Concurrent.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Collections.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Collections.NonGeneric.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Collections.Specialized.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.ComponentModel.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.ComponentModel.EventBasedAsync.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.ComponentModel.Primitives.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.ComponentModel.TypeConverter.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Console.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Data.Common.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Diagnostics.Contracts.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Diagnostics.Debug.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Diagnostics.FileVersionInfo.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Diagnostics.Process.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Diagnostics.StackTrace.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Diagnostics.Tools.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Diagnostics.TraceSource.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Diagnostics.Tracing.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Drawing.Primitives.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Dynamic.Runtime.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Globalization.Calendars.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Globalization.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Globalization.Extensions.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.IO.Compression.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.IO.Compression.ZipFile.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.IO.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.IO.FileSystem.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.IO.FileSystem.DriveInfo.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.IO.FileSystem.Primitives.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.IO.FileSystem.Watcher.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.IO.IsolatedStorage.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.IO.MemoryMappedFiles.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.IO.Pipes.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.IO.UnmanagedMemoryStream.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Linq.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Linq.Expressions.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Linq.Parallel.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Linq.Queryable.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Net.Http.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Net.NameResolution.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Net.NetworkInformation.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Net.Ping.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Net.Primitives.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Net.Requests.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Net.Security.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Net.Sockets.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Net.WebHeaderCollection.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Net.WebSockets.Client.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Net.WebSockets.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.ObjectModel.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Reflection.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Reflection.Extensions.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Reflection.Primitives.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Resources.Reader.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Resources.ResourceManager.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Resources.Writer.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Runtime.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Runtime.Extensions.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Runtime.Handles.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Runtime.InteropServices.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Runtime.Numerics.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Runtime.Serialization.Formatters.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Runtime.Serialization.Json.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Runtime.Serialization.Primitives.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Runtime.Serialization.Xml.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Security.Claims.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Security.Cryptography.Algorithms.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Security.Cryptography.Csp.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Security.Cryptography.Encoding.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Security.Cryptography.Primitives.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Security.Cryptography.X509Certificates.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Security.Principal.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Security.SecureString.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Text.Encoding.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Text.Encoding.Extensions.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Text.RegularExpressions.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Threading.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Threading.Overlapped.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Threading.Tasks.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Threading.Tasks.Parallel.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Threading.Thread.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Threading.ThreadPool.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Threading.Timer.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.ValueTuple.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Xml.ReaderWriter.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Xml.XDocument.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Xml.XmlDocument.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Xml.XmlSerializer.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Xml.XPath.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Xml.XPath.XDocument.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Autofac.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Autofac.Extras.CommonServiceLocator.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Bussiness.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\CommonServiceLocator.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Dragablz.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\GalaSoft.MvvmLight.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\GalaSoft.MvvmLight.Extras.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\GalaSoft.MvvmLight.Platform.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\HP.AutoMapper.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\HP.Core.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\HP.Data.Entity.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\HP.Data.Orm.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\HP.Utility.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\HPC.BaseService.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\LiveCharts.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\LiveCharts.Wpf.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\MaterialDesignColors.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Microsoft.Toolkit.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Newtonsoft.Json.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Quartz.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\RestSharp.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Seagull.BarTender.Print.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\ShowMeTheXAML.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\SqlSugar.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Windows.Interactivity.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\NPOI.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\NPOI.OOXML.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\aliyun-net-sdk-core.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\aliyun-net-sdk-dysmsapi.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\HP.Web.Mvc.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Register.exe
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\AutoMapper.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Oracle.ManagedDataAccess.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Data.SQLite.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\MySql.Data.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\NPOI.OpenXmlFormats.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\NPOI.OpenXml4Net.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Bussiness.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Bussiness.dll.config
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\HPC.BaseService.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\HPC.BaseService.dll.config
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\HP.AutoMapper.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\HP.Core.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\HP.Data.Entity.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\HP.Data.Orm.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\HP.Utility.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Autofac.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Autofac.Extras.CommonServiceLocator.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Dragablz.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Dragablz.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\GalaSoft.MvvmLight.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\GalaSoft.MvvmLight.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\GalaSoft.MvvmLight.Extras.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\GalaSoft.MvvmLight.Platform.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\LiveCharts.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\LiveCharts.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\LiveCharts.Wpf.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\LiveCharts.Wpf.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\MaterialDesignColors.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\MaterialDesignThemes.Wpf.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\MaterialDesignThemes.Wpf.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Microsoft.Toolkit.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Microsoft.Toolkit.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Newtonsoft.Json.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Quartz.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Quartz.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\RestSharp.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\NPOI.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\HP.Web.Mvc.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Register.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\AutoMapper.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\System.Data.SQLite.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\bin\Release\Bussiness.XmlSerializers.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\wms.Client.csprojAssemblyReference.cache
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\Template\MsgView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\Template\SplashScreenView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\Template\SwitchModeBar.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\Template\ToolbarContainer.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\DemoCharts\DemoChart.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\DemoCharts\MaterialCards.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\DemoCharts\PieChartExample.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\MainWindow.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\Template\MsgView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\Template\SplashScreenView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\Template\SwitchModeBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\Template\ToolbarContainer.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\DemoCharts\DemoChart.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\DemoCharts\HomeAbout.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\DemoCharts\MaterialCards.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\DemoCharts\PieChartExample.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\DemoCharts\StackedAreaExample.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\MainLeftMenu.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\MainNotice.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\MainPopupBox.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\MainTabControl.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\MsgBox.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\NotFoundView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\SplashScreen.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\UcDataPager.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\UserColorBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\UserDetailToolBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\UserOperateBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\UserToolBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\FaceInfoView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\DictionaryView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\GroupView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\AlarmView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\StockView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\ManualOutView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\CheckMainView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\ReceiveTaskView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\OutTaskView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\TempInView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\ManualInView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\InTaskView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\Login.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\MenuView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\GuideWindow.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\BarCodeView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\UserLoginWindow.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\SkinWindow.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\StepView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\UserView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\App.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\wms.Client_MarkupCompile.cache
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\wms.Client_MarkupCompile.lref
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\App.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\MainWindow.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\Template\DataPager.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\BorderDictionary.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\ButtonStyle.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\DemoCharts\HomeAbout.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\DemoCharts\StackedAreaExample.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\ExpanderDictionary.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\MainLeftMenu.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\MainNotice.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\MainPopupBox.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\MainTabControl.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\MsgBox.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\NotFoundView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\ScrollViewDictionary.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\SplashScreen.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\DemoCharts\IconButtonStyle.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\DemoCharts\SolidStyle.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\DemoCharts\TabControlStyles.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\DemoCharts\TextBlockStyles.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\DemoCharts\WindowStyle.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\UcDataPager.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\UserColorBar.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\UserDetailToolBar.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\UserOperateBar.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\UiCore\Template\UserToolBar.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\FaceInfoView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\DictionaryView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\GroupView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\AlarmView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\StockView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\ManualOutView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\CheckMainView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\ReceiveTaskView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\OutTaskView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\TempInView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\ManualInView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\InTaskView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\Login.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\MenuView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\GuideWindow.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\BarCodeView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\UserLoginWindow.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\SkinWindow.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\StepView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\View\UserView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\wms.Client.g.resources
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\wms.Client.Properties.Resources.resources
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\wms.Client.csproj.GenerateResource.cache
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\wms.Client.csproj.CopyComplete
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\wms.Client.exe
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Release\wms.Client.pdb
+E:\IWMS\client\wms.Client\bin\Release\App.config
+E:\IWMS\client\wms.Client\bin\Release\wms.Client.exe.config
+E:\IWMS\client\wms.Client\bin\Release\wms.Client.exe
+E:\IWMS\client\wms.Client\bin\Release\wms.Client.pdb
+E:\IWMS\client\wms.Client\bin\Release\Autofac.dll
+E:\IWMS\client\wms.Client\bin\Release\Autofac.Extras.CommonServiceLocator.dll
+E:\IWMS\client\wms.Client\bin\Release\BouncyCastle.Crypto.dll
+E:\IWMS\client\wms.Client\bin\Release\Bussiness.dll
+E:\IWMS\client\wms.Client\bin\Release\CommonServiceLocator.dll
+E:\IWMS\client\wms.Client\bin\Release\Dragablz.dll
+E:\IWMS\client\wms.Client\bin\Release\GalaSoft.MvvmLight.dll
+E:\IWMS\client\wms.Client\bin\Release\GalaSoft.MvvmLight.Extras.dll
+E:\IWMS\client\wms.Client\bin\Release\GalaSoft.MvvmLight.Platform.dll
+E:\IWMS\client\wms.Client\bin\Release\Google.Protobuf.dll
+E:\IWMS\client\wms.Client\bin\Release\HP.AutoMapper.dll
+E:\IWMS\client\wms.Client\bin\Release\HP.Core.dll
+E:\IWMS\client\wms.Client\bin\Release\HP.Data.Entity.dll
+E:\IWMS\client\wms.Client\bin\Release\HP.Data.Orm.dll
+E:\IWMS\client\wms.Client\bin\Release\HP.Utility.dll
+E:\IWMS\client\wms.Client\bin\Release\HP.Web.Mvc.dll
+E:\IWMS\client\wms.Client\bin\Release\HPC.BaseService.dll
+E:\IWMS\client\wms.Client\bin\Release\K4os.Compression.LZ4.dll
+E:\IWMS\client\wms.Client\bin\Release\K4os.Compression.LZ4.Streams.dll
+E:\IWMS\client\wms.Client\bin\Release\K4os.Hash.xxHash.dll
+E:\IWMS\client\wms.Client\bin\Release\LiveCharts.dll
+E:\IWMS\client\wms.Client\bin\Release\LiveCharts.Wpf.dll
+E:\IWMS\client\wms.Client\bin\Release\MaterialDesignColors.dll
+E:\IWMS\client\wms.Client\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\IWMS\client\wms.Client\bin\Release\Microsoft.Toolkit.dll
+E:\IWMS\client\wms.Client\bin\Release\MySql.Data.dll
+E:\IWMS\client\wms.Client\bin\Release\Newtonsoft.Json.dll
+E:\IWMS\client\wms.Client\bin\Release\Quartz.dll
+E:\IWMS\client\wms.Client\bin\Release\RestSharp.dll
+E:\IWMS\client\wms.Client\bin\Release\Seagull.BarTender.Print.dll
+E:\IWMS\client\wms.Client\bin\Release\SearchableTextBox.dll
+E:\IWMS\client\wms.Client\bin\Release\ShowMeTheXAML.dll
+E:\IWMS\client\wms.Client\bin\Release\SqlSugar.dll
+E:\IWMS\client\wms.Client\bin\Release\System.Buffers.dll
+E:\IWMS\client\wms.Client\bin\Release\System.Memory.dll
+E:\IWMS\client\wms.Client\bin\Release\System.Numerics.Vectors.dll
+E:\IWMS\client\wms.Client\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\IWMS\client\wms.Client\bin\Release\System.Windows.Interactivity.dll
+E:\IWMS\client\wms.Client\bin\Release\Ubiety.Dns.Core.dll
+E:\IWMS\client\wms.Client\bin\Release\ZstdNet.dll
+E:\IWMS\client\wms.Client\bin\Release\Autofac.xml
+E:\IWMS\client\wms.Client\bin\Release\Autofac.Extras.CommonServiceLocator.xml
+E:\IWMS\client\wms.Client\bin\Release\BouncyCastle.Crypto.xml
+E:\IWMS\client\wms.Client\bin\Release\Dragablz.pdb
+E:\IWMS\client\wms.Client\bin\Release\Dragablz.xml
+E:\IWMS\client\wms.Client\bin\Release\GalaSoft.MvvmLight.pdb
+E:\IWMS\client\wms.Client\bin\Release\GalaSoft.MvvmLight.xml
+E:\IWMS\client\wms.Client\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+E:\IWMS\client\wms.Client\bin\Release\GalaSoft.MvvmLight.Extras.xml
+E:\IWMS\client\wms.Client\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+E:\IWMS\client\wms.Client\bin\Release\GalaSoft.MvvmLight.Platform.xml
+E:\IWMS\client\wms.Client\bin\Release\Google.Protobuf.pdb
+E:\IWMS\client\wms.Client\bin\Release\Google.Protobuf.xml
+E:\IWMS\client\wms.Client\bin\Release\K4os.Compression.LZ4.xml
+E:\IWMS\client\wms.Client\bin\Release\K4os.Compression.LZ4.Streams.xml
+E:\IWMS\client\wms.Client\bin\Release\K4os.Hash.xxHash.xml
+E:\IWMS\client\wms.Client\bin\Release\LiveCharts.pdb
+E:\IWMS\client\wms.Client\bin\Release\LiveCharts.xml
+E:\IWMS\client\wms.Client\bin\Release\LiveCharts.Wpf.pdb
+E:\IWMS\client\wms.Client\bin\Release\LiveCharts.Wpf.xml
+E:\IWMS\client\wms.Client\bin\Release\MaterialDesignColors.pdb
+E:\IWMS\client\wms.Client\bin\Release\MaterialDesignThemes.Wpf.pdb
+E:\IWMS\client\wms.Client\bin\Release\MaterialDesignThemes.Wpf.xml
+E:\IWMS\client\wms.Client\bin\Release\Microsoft.Toolkit.pdb
+E:\IWMS\client\wms.Client\bin\Release\Microsoft.Toolkit.xml
+E:\IWMS\client\wms.Client\bin\Release\MySql.Data.xml
+E:\IWMS\client\wms.Client\bin\Release\Newtonsoft.Json.xml
+E:\IWMS\client\wms.Client\bin\Release\Quartz.pdb
+E:\IWMS\client\wms.Client\bin\Release\Quartz.xml
+E:\IWMS\client\wms.Client\bin\Release\RestSharp.xml
+E:\IWMS\client\wms.Client\bin\Release\System.Buffers.xml
+E:\IWMS\client\wms.Client\bin\Release\System.Memory.xml
+E:\IWMS\client\wms.Client\bin\Release\System.Numerics.Vectors.xml
+E:\IWMS\client\wms.Client\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\IWMS\client\wms.Client\obj\Release\wms.Client.csproj.AssemblyReference.cache
+E:\IWMS\client\wms.Client\obj\Release\wms.Client.csproj.SuggestedBindingRedirects.cache
+E:\IWMS\client\wms.Client\obj\Release\Template\MsgView.baml
+E:\IWMS\client\wms.Client\obj\Release\Template\SplashScreenView.baml
+E:\IWMS\client\wms.Client\obj\Release\Template\SwitchModeBar.baml
+E:\IWMS\client\wms.Client\obj\Release\Template\ToolbarContainer.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\DemoChart.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\MaterialCards.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\PieChartExample.baml
+E:\IWMS\client\wms.Client\obj\Release\MainWindow.g.cs
+E:\IWMS\client\wms.Client\obj\Release\Template\MsgView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\Template\SplashScreenView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\Template\SwitchModeBar.g.cs
+E:\IWMS\client\wms.Client\obj\Release\Template\ToolbarContainer.g.cs
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\DemoChart.g.cs
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\HomeAbout.g.cs
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\MaterialCards.g.cs
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\PieChartExample.g.cs
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\StackedAreaExample.g.cs
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\MainLeftMenu.g.cs
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\MainNotice.g.cs
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\MainPopupBox.g.cs
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\MainTabControl.g.cs
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\MsgBox.g.cs
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\NotFoundView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\SplashScreen.g.cs
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\UcDataPager.g.cs
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\UserColorBar.g.cs
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\UserDetailToolBar.g.cs
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\UserOperateBar.g.cs
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\UserToolBar.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\ContainerSettingView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\FaceInfoView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\DictionaryView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\GroupView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\AlarmView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\StockView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\ManualOutView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\CheckMainView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\ReceiveTaskView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\OutTaskView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\TempInView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\ManualInView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\InTaskView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\Login.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\MenuView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\GuideWindow.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\BarCodeView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\UserLoginWindow.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\ImageWindow.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\SkinWindow.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\StepView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\View\UserView.g.cs
+E:\IWMS\client\wms.Client\obj\Release\App.g.cs
+E:\IWMS\client\wms.Client\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\IWMS\client\wms.Client\obj\Release\wms.Client_MarkupCompile.cache
+E:\IWMS\client\wms.Client\obj\Release\wms.Client_MarkupCompile.lref
+E:\IWMS\client\wms.Client\obj\Release\App.baml
+E:\IWMS\client\wms.Client\obj\Release\MainWindow.baml
+E:\IWMS\client\wms.Client\obj\Release\Template\SetBarDictionary.baml
+E:\IWMS\client\wms.Client\obj\Release\Template\DataPager.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\BorderDictionary.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\ButtonStyle.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\HomeAbout.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\StackedAreaExample.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\ExpanderDictionary.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\MainLeftMenu.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\MainNotice.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\MainPopupBox.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\MainTabControl.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\MsgBox.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\NotFoundView.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\ScrollViewDictionary.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\SplashScreen.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\IconButtonStyle.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\SolidStyle.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\TabControlStyles.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\TextBlockStyles.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\WindowStyle.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\UcDataPager.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\UserColorBar.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\UserDetailToolBar.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\UserOperateBar.baml
+E:\IWMS\client\wms.Client\obj\Release\UiCore\Template\UserToolBar.baml
+E:\IWMS\client\wms.Client\obj\Release\View\ContainerSettingView.baml
+E:\IWMS\client\wms.Client\obj\Release\View\FaceInfoView.baml
+E:\IWMS\client\wms.Client\obj\Release\View\DictionaryView.baml
+E:\IWMS\client\wms.Client\obj\Release\View\GroupView.baml
+E:\IWMS\client\wms.Client\obj\Release\View\AlarmView.baml
+E:\IWMS\client\wms.Client\obj\Release\View\StockView.baml
+E:\IWMS\client\wms.Client\obj\Release\View\ManualOutView.baml
+E:\IWMS\client\wms.Client\obj\Release\View\CheckMainView.baml
+E:\IWMS\client\wms.Client\obj\Release\View\ReceiveTaskView.baml
+E:\IWMS\client\wms.Client\obj\Release\View\OutTaskView.baml
+E:\IWMS\client\wms.Client\obj\Release\View\TempInView.baml
+E:\IWMS\client\wms.Client\obj\Release\View\ManualInView.baml
+E:\IWMS\client\wms.Client\obj\Release\View\InTaskView.baml
+E:\IWMS\client\wms.Client\obj\Release\View\Login.baml
+E:\IWMS\client\wms.Client\obj\Release\View\MenuView.baml
+E:\IWMS\client\wms.Client\obj\Release\View\GuideWindow.baml
+E:\IWMS\client\wms.Client\obj\Release\View\BarCodeView.baml
+E:\IWMS\client\wms.Client\obj\Release\View\UserLoginWindow.baml
+E:\IWMS\client\wms.Client\obj\Release\View\ImageWindow.baml
+E:\IWMS\client\wms.Client\obj\Release\View\SkinWindow.baml
+E:\IWMS\client\wms.Client\obj\Release\View\StepView.baml
+E:\IWMS\client\wms.Client\obj\Release\View\UserView.baml
+E:\IWMS\client\wms.Client\obj\Release\wms.Client.g.resources
+E:\IWMS\client\wms.Client\obj\Release\wms.Client.Properties.Resources.resources
+E:\IWMS\client\wms.Client\obj\Release\wms.Client.csproj.GenerateResource.cache
+E:\IWMS\client\wms.Client\obj\Release\wms.Client.csproj.CoreCompileInputs.cache
+E:\IWMS\client\wms.Client\obj\Release\wms.Client.csproj.CopyComplete
+E:\IWMS\client\wms.Client\obj\Release\wms.Client.exe
+E:\IWMS\client\wms.Client\obj\Release\wms.Client.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\App.config
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\wms.Client.exe.config
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\wms.Client.exe
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\wms.Client.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Autofac.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Autofac.Extras.CommonServiceLocator.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\BouncyCastle.Crypto.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Bussiness.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\CommonServiceLocator.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Dragablz.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\GalaSoft.MvvmLight.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\GalaSoft.MvvmLight.Extras.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\GalaSoft.MvvmLight.Platform.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Google.Protobuf.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\HP.AutoMapper.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\HP.Core.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\HP.Data.Entity.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\HP.Data.Orm.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\HP.Utility.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\HP.Web.Mvc.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\HPC.BaseService.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\K4os.Compression.LZ4.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\K4os.Compression.LZ4.Streams.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\K4os.Hash.xxHash.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\LiveCharts.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\LiveCharts.Wpf.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\MaterialDesignColors.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Microsoft.Toolkit.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\MySql.Data.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Newtonsoft.Json.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Quartz.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\RestSharp.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Seagull.BarTender.Print.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\SearchableTextBox.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\ShowMeTheXAML.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\SqlSugar.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\System.Buffers.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\System.Memory.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\System.Numerics.Vectors.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\System.Windows.Interactivity.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Ubiety.Dns.Core.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\ZstdNet.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Autofac.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Autofac.Extras.CommonServiceLocator.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\BouncyCastle.Crypto.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Dragablz.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Dragablz.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\GalaSoft.MvvmLight.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\GalaSoft.MvvmLight.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\GalaSoft.MvvmLight.Extras.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\GalaSoft.MvvmLight.Platform.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Google.Protobuf.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Google.Protobuf.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\K4os.Compression.LZ4.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\K4os.Compression.LZ4.Streams.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\K4os.Hash.xxHash.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\LiveCharts.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\LiveCharts.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\LiveCharts.Wpf.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\LiveCharts.Wpf.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\MaterialDesignColors.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\MaterialDesignThemes.Wpf.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\MaterialDesignThemes.Wpf.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Microsoft.Toolkit.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Microsoft.Toolkit.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\MySql.Data.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Newtonsoft.Json.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Quartz.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\Quartz.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\RestSharp.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\System.Buffers.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\System.Memory.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\System.Numerics.Vectors.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\wms.Client.csproj.AssemblyReference.cache
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\wms.Client.csproj.SuggestedBindingRedirects.cache
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\Template\MsgView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\Template\SplashScreenView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\Template\SwitchModeBar.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\Template\ToolbarContainer.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\DemoChart.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\MaterialCards.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\PieChartExample.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\MainWindow.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\Template\MsgView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\Template\SplashScreenView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\Template\SwitchModeBar.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\Template\ToolbarContainer.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\DemoChart.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\HomeAbout.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\MaterialCards.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\PieChartExample.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\StackedAreaExample.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\MainLeftMenu.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\MainNotice.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\MainPopupBox.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\MainTabControl.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\MsgBox.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\NotFoundView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\SplashScreen.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\UcDataPager.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\UserColorBar.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\UserDetailToolBar.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\UserOperateBar.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\UserToolBar.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\ContainerSettingView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\FaceInfoView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\DictionaryView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\GroupView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\AlarmView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\StockView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\ManualOutView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\CheckMainView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\ReceiveTaskView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\OutTaskView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\TempInView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\ManualInView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\InTaskView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\Login.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\MenuView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\GuideWindow.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\BarCodeView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\UserLoginWindow.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\ImageWindow.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\SkinWindow.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\StepView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\UserView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\App.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\wms.Client_MarkupCompile.cache
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\wms.Client_MarkupCompile.lref
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\App.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\MainWindow.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\Template\SetBarDictionary.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\Template\DataPager.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\BorderDictionary.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\ButtonStyle.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\HomeAbout.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\StackedAreaExample.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\ExpanderDictionary.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\MainLeftMenu.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\MainNotice.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\MainPopupBox.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\MainTabControl.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\MsgBox.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\NotFoundView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\ScrollViewDictionary.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\SplashScreen.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\IconButtonStyle.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\SolidStyle.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\TabControlStyles.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\TextBlockStyles.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\DemoCharts\WindowStyle.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\UcDataPager.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\UserColorBar.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\UserDetailToolBar.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\UserOperateBar.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\UiCore\Template\UserToolBar.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\ContainerSettingView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\FaceInfoView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\DictionaryView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\GroupView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\AlarmView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\StockView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\ManualOutView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\CheckMainView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\ReceiveTaskView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\OutTaskView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\TempInView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\ManualInView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\InTaskView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\Login.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\MenuView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\GuideWindow.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\BarCodeView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\UserLoginWindow.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\ImageWindow.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\SkinWindow.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\StepView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\View\UserView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\wms.Client.g.resources
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\wms.Client.Properties.Resources.resources
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\wms.Client.csproj.GenerateResource.cache
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\wms.Client.csproj.CoreCompileInputs.cache
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\wms.Client.csproj.CopyComplete
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\wms.Client.exe
+E:\SoftwareSourceCode\client\wms.Client\obj\Release\wms.Client.pdb

@@ -1,0 +1,13 @@
+﻿@model {=EntityFullName}
+@{
+    Layout = null;
+}
+
+<form id="rtform" method="post" class="easyui-form" data-options="novalidate:true" action="@Url.Action("DoEdit", new { id = Model.Id })">
+    <table class="table-form m5">
+        <colgroup>
+{=ColGroup}
+        </colgroup>
+{=TableBody}
+    </table>
+</form>

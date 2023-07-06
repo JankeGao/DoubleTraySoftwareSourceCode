@@ -1,0 +1,78 @@
+
+.content{
+				display: flex;
+				flex-direction: column; 
+				height: 80vh;
+}
+.Scan {
+		height: auto;
+}
+.label {
+		color: black;
+		width: 30%;
+		font-size:35rpx;
+		font-weight: bold;
+		text-align: left;
+		display: inline-block;
+		margin-left: 20rpx;
+		/* display:flex; */
+}
+.input {
+		width: 70%;
+		height: 100%;
+		text-align: left;
+		font-size: 35rpx;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		background: white;
+	    border-bottom: 1rpx solid black;
+		margin-left: 30rpx;
+}
+.inputWrapper {
+		width: 90%;
+
+		display: flex;
+		justify-content: left;
+		align-items: left;
+}
+.btn {
+		width: 100%;
+		height: 80rpx;
+		/* 		border-radius: 50upx;
+				display: flex;
+				justify-content: center;
+				align-items: center; */
+		display: flex;
+}
+.btnValue {
+		color: black;
+		width: 100%;
+		border-radius: 35rpx;
+		height: 80rpx;
+		font-size: 30rpx;
+		font-weight: bold;
+		margin-top: 20rpx;
+		margin-left: 20rpx;
+		margin-right: 10rpx;
+		text-align: center;
+		display: inline-block;
+		/* display:flex; */
+		line-height: 80rpx;
+		overflow:overlay;
+}
+.card {
+		color: black;
+		width: 95%;
+		height: 50vh;
+		font-size: 15px;
+		font-weight: bold;
+		text-align: left;
+		display: inline-block;
+		margin-left: 20rpx;
+		/* display:flex; */
+		line-height: 80rpx;
+		border: 1rpx solid #000000;
+        margin-top: 50rpx;
+}
+

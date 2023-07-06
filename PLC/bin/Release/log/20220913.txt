@@ -1,0 +1,1227 @@
+2022/9/13 15:51:16:未知错误
+2022/9/13 15:51:19:未知错误
+2022/9/13 15:51:23:未知错误
+2022/9/13 15:51:27:未知错误
+2022/9/13 15:51:30:未知错误
+2022/9/13 15:51:34:未知错误
+2022/9/13 15:51:37:未知错误
+2022/9/13 15:51:41:未知错误
+2022/9/13 15:51:44:未知错误
+2022/9/13 15:51:48:未知错误
+2022/9/13 15:51:51:未知错误
+2022/9/13 15:51:55:未知错误
+2022/9/13 15:51:58:未知错误
+2022/9/13 15:52:02:未知错误
+2022/9/13 15:52:06:未知错误
+2022/9/13 15:52:09:未知错误
+2022/9/13 15:52:13:未知错误
+2022/9/13 15:52:16:未知错误
+2022/9/13 15:52:20:未知错误
+2022/9/13 15:52:23:未知错误
+2022/9/13 15:52:27:未知错误
+2022/9/13 15:52:30:未知错误
+2022/9/13 15:52:34:未知错误
+2022/9/13 15:52:37:未知错误
+2022/9/13 15:52:41:未知错误
+2022/9/13 15:52:45:未知错误
+2022/9/13 15:52:48:未知错误
+2022/9/13 15:52:52:未知错误
+2022/9/13 15:52:55:未知错误
+2022/9/13 15:52:59:未知错误
+2022/9/13 15:53:02:未知错误
+2022/9/13 15:53:06:未知错误
+2022/9/13 15:53:09:未知错误
+2022/9/13 15:53:13:未知错误
+2022/9/13 15:53:16:未知错误
+2022/9/13 15:53:20:未知错误
+2022/9/13 15:53:23:未知错误
+2022/9/13 15:53:27:未知错误
+2022/9/13 15:53:31:未知错误
+2022/9/13 15:53:34:未知错误
+2022/9/13 15:53:38:未知错误
+2022/9/13 15:53:41:未知错误
+2022/9/13 15:53:45:未知错误
+2022/9/13 15:53:48:未知错误
+2022/9/13 15:53:52:未知错误
+2022/9/13 15:53:55:未知错误
+2022/9/13 15:53:59:未知错误
+2022/9/13 15:54:02:未知错误
+2022/9/13 15:54:06:未知错误
+2022/9/13 15:54:09:未知错误
+2022/9/13 15:54:13:未知错误
+2022/9/13 15:54:16:未知错误
+2022/9/13 15:54:20:未知错误
+2022/9/13 15:54:24:未知错误
+2022/9/13 15:54:27:未知错误
+2022/9/13 15:54:31:未知错误
+2022/9/13 15:54:34:未知错误
+2022/9/13 15:54:38:未知错误
+2022/9/13 15:54:41:未知错误
+2022/9/13 15:54:45:未知错误
+2022/9/13 15:54:48:未知错误
+2022/9/13 15:54:52:未知错误
+2022/9/13 15:54:55:未知错误
+2022/9/13 15:54:59:未知错误
+2022/9/13 15:55:03:未知错误
+2022/9/13 15:55:06:未知错误
+2022/9/13 15:55:10:未知错误
+2022/9/13 15:55:13:未知错误
+2022/9/13 15:55:17:未知错误
+2022/9/13 15:55:20:未知错误
+2022/9/13 15:55:24:未知错误
+2022/9/13 15:55:27:未知错误
+2022/9/13 15:55:31:未知错误
+2022/9/13 15:55:34:未知错误
+2022/9/13 15:55:38:未知错误
+2022/9/13 15:55:41:未知错误
+2022/9/13 15:55:55:未知错误
+2022/9/13 15:55:59:未知错误
+2022/9/13 15:56:02:未知错误
+2022/9/13 15:56:06:未知错误
+2022/9/13 15:56:09:未知错误
+2022/9/13 15:56:13:未知错误
+2022/9/13 15:56:16:未知错误
+2022/9/13 15:56:20:未知错误
+2022/9/13 15:56:23:未知错误
+2022/9/13 18:50:55:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 18:51:18:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 19:54:32:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 19:54:55:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 19:55:18:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 19:55:42:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 19:56:05:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 19:56:28:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 19:56:51:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 19:57:14:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 19:57:37:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 19:58:00:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 19:58:23:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 19:58:47:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 19:59:10:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 19:59:33:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 19:59:56:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:00:19:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:00:42:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:01:05:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:01:29:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:01:52:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:02:15:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:02:38:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:03:01:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:03:24:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:03:47:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:04:10:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:04:34:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:04:57:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:05:20:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:05:43:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:06:06:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:06:29:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:06:52:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:07:16:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:07:39:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:08:02:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:08:25:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:08:48:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:09:11:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:09:34:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:09:57:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:10:21:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:10:44:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:11:07:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:11:30:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:11:53:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:12:16:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:12:39:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:13:02:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:13:26:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:13:49:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:14:12:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:14:35:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:14:58:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:15:21:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:15:44:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:16:08:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:16:31:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:16:54:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:17:17:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:17:40:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:18:03:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:18:26:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:18:49:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:19:12:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:19:36:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:19:59:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:20:22:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:20:45:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:21:08:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:21:31:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:21:54:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:22:17:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:22:41:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:23:04:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:23:27:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:23:50:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:24:13:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:24:36:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:24:59:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:25:23:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:25:46:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:26:09:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:26:32:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:26:55:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:27:18:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:27:41:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:28:04:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:28:27:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:28:50:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:29:14:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:29:37:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:30:00:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:30:23:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:30:46:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:31:09:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:31:32:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:31:55:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:32:18:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:32:42:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:33:05:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:33:28:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:33:51:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:34:14:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:34:37:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:35:01:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:35:24:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:35:47:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:36:10:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:36:33:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:36:56:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:37:19:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:37:42:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:38:05:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:38:29:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:38:52:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:39:15:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:39:38:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:40:01:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:40:24:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:40:47:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:41:10:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:41:34:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:41:57:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:42:20:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:42:43:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:43:06:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:43:29:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:43:52:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:44:15:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:44:39:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:45:02:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:45:25:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:45:48:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:46:11:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:46:34:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:46:57:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:47:21:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:47:44:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:48:07:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:48:30:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:48:53:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:49:16:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:49:39:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:50:02:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:50:26:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:50:49:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:51:12:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:51:35:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:51:58:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:52:21:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:52:44:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:53:07:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:53:31:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:53:54:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:54:17:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:54:40:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:55:03:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:55:26:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:55:50:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:56:13:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:56:36:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:56:59:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:57:22:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:57:45:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:58:08:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:58:32:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:58:55:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:59:18:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 20:59:41:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:00:04:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:00:27:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:00:50:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:01:14:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:01:37:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:02:00:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:02:23:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:02:46:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:03:09:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:03:32:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:03:55:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:04:19:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:04:42:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:05:05:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:05:28:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:05:51:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:06:14:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:06:37:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:07:01:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:07:24:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:07:47:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:08:10:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:08:33:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:08:56:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:09:19:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:09:43:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:10:06:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:10:29:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:10:52:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:11:15:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:11:38:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:12:01:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:12:25:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:12:48:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:13:11:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:13:34:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:13:57:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:14:20:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:14:43:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:15:07:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:15:30:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:15:53:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:16:16:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:16:39:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:17:02:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:17:25:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:17:49:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:18:12:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:18:35:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:18:58:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:19:21:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:19:44:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:20:07:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:20:30:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:20:54:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:21:17:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:21:40:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:22:03:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:22:26:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:22:49:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:23:12:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:23:35:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:23:59:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:24:22:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:24:45:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:25:08:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:25:31:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:25:54:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:26:17:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:26:40:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:27:04:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:27:27:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:27:50:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:28:13:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:28:36:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:28:59:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:29:22:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:29:45:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:30:09:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:30:32:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:30:55:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:31:18:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:31:41:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:32:04:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:32:27:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:32:51:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:33:14:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:33:37:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:34:00:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:34:23:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:34:46:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:35:09:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:35:33:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:35:56:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:36:19:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:36:42:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:37:05:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:37:29:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:37:52:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:38:15:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:38:38:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:39:01:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:39:24:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:39:48:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:40:11:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:40:34:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:40:57:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:41:20:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:41:43:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:42:06:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:42:29:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:42:52:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:43:16:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:43:39:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:44:02:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:44:25:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:44:48:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:45:11:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:45:35:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:45:58:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:46:21:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:46:44:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:47:07:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:47:30:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:47:53:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:48:16:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:48:40:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:49:03:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:49:26:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:49:49:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:50:12:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:50:35:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:50:58:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:51:21:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:51:44:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:52:08:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:52:31:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:52:54:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:53:17:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:53:40:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:54:03:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:54:26:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:54:50:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:55:13:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:55:36:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:55:59:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:56:22:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:56:45:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:57:08:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:57:31:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:57:55:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:58:18:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:58:41:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:59:04:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:59:27:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 21:59:50:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:00:14:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:00:37:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:01:00:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:01:23:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:01:46:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:02:09:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:02:33:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:02:56:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:03:19:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:03:42:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:04:05:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:04:28:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:04:51:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:05:15:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:05:38:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:06:01:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:06:24:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:06:47:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:07:10:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:07:33:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:07:56:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:08:19:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:08:43:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:09:06:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:09:29:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:09:52:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:10:15:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:10:38:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:11:01:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:11:24:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:11:48:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:12:11:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:12:34:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:12:57:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:13:20:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:13:43:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:14:06:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:14:29:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:14:53:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:15:16:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:15:39:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:16:02:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:16:25:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:16:48:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:17:11:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:17:35:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:17:58:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:18:21:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:18:44:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:19:07:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:19:30:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:19:53:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:20:16:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:20:39:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:21:03:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:21:26:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:21:49:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:22:12:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:22:35:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:22:58:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:23:22:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:23:45:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:24:08:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:24:31:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:24:54:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:25:17:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:25:40:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:26:04:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:26:27:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:26:50:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:27:13:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:27:36:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:27:59:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:28:22:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:28:46:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:29:09:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:29:32:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:29:55:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:30:18:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:30:41:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:31:04:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:31:28:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:31:51:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:32:14:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:32:37:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:33:00:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:33:23:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:33:46:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:34:09:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:34:32:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:34:55:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:35:19:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:35:42:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:36:05:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:36:28:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:36:51:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:37:15:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:37:38:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:38:01:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:38:24:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:38:47:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:39:10:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:39:33:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:39:56:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:40:19:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:40:42:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:41:06:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:41:29:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:41:52:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:42:15:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:42:38:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:43:01:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:43:24:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:43:47:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:44:11:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:44:34:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:44:57:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:45:20:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:45:43:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:46:06:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:46:29:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:46:52:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:47:15:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:47:38:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:48:02:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:48:25:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:48:48:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:49:11:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:49:34:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:49:57:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:50:20:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:50:43:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:51:06:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:51:30:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:51:53:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:52:16:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:52:39:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:53:02:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:53:25:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:53:48:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:54:11:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:54:34:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:54:57:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:55:20:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:55:43:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:56:06:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:56:29:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:56:53:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:57:16:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:57:39:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:58:02:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:58:25:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:58:48:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:59:11:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:59:34:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 22:59:57:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:00:20:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:00:44:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:01:07:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:01:30:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:01:53:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:02:16:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:02:39:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:03:02:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:03:25:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:03:49:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:04:12:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:04:35:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:04:58:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:05:21:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:05:44:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:06:07:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:06:30:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:06:53:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:07:16:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:07:40:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:08:03:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:08:26:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:08:49:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:09:12:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:09:35:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:09:59:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:10:22:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:10:45:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:11:08:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:11:31:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:11:54:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:12:17:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:12:41:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:13:04:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:13:27:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:13:50:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:14:13:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:14:37:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:15:00:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:15:23:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:15:46:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:16:09:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:16:32:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:16:55:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:17:19:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:17:42:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:18:05:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:18:28:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:18:51:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:19:14:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:19:37:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:20:00:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:20:23:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:20:47:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:21:10:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:21:33:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:21:56:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:22:19:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:22:42:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:23:05:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:23:28:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:23:51:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:24:15:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:24:38:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:25:01:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:25:24:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:25:47:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:26:10:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:26:34:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:26:57:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:27:20:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:27:43:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:28:06:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:28:29:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:28:52:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:29:15:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:29:39:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:30:02:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:30:25:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:30:48:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:31:11:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:31:34:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:31:57:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:32:20:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:32:44:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:33:07:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2022/9/13 23:40:05:连接失败：无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。

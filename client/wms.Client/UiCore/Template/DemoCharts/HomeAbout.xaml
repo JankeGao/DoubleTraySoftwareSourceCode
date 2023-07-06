@@ -1,0 +1,55 @@
+﻿<UserControl x:Class="wms.Client.UiCore.Template.DemoCharts.HomeAbout"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:wms.Client.UiCore.Template.DemoCharts"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:demoCharts="clr-namespace:wms.Client.UiCore.Template.DemoCharts"
+             xmlns:service="clr-namespace:wms.Client.Service"
+             mc:Ignorable="d" d:DesignHeight="400" d:DesignWidth="800">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <service:GlobalData x:Key="globalData"/>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid  Margin="5" Background="{StaticResource DefaultBackGround}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" BorderThickness="0 0 0 1" BorderBrush="#E8E8E8">
+            <TextBlock Text="服务器连接状态：" FontSize="30" Foreground="#6C757D" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10 0 0 0"/>
+        </Border>
+        <Border Grid.Row="0" BorderThickness="0 0 0 1" BorderBrush="#E8E8E8">
+            <ToggleButton
+                HorizontalAlignment="Left" VerticalAlignment="Center" Margin="260 0 0 0"
+                Style="{StaticResource MaterialDesignSwitchAccentToggleButton}"
+                ToolTip="设备是否在线"
+                IsChecked="{Binding Source={StaticResource globalData},Path=IsOnLine}" />
+        </Border>
+        <Grid Grid.Row="1" Margin="5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <demoCharts:StackedAreaExample Margin="8" Grid.Row="0  "  Grid.ColumnSpan="2"/>
+                <demoCharts:DemoChart Margin="8" Grid.Row="1"  Grid.ColumnSpan="2"/>
+                <!--<demoCharts:PieChartExample Margin="8" Grid.Column="1" Grid.Row="1"/>-->
+            </Grid>
+            <Grid Grid.Column="1">
+                <demoCharts:MaterialCards />
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

@@ -1,0 +1,57 @@
+{
+    "title": "SVG控件",
+    "icon": "el-icon-more",
+    "opened": false,
+    "items": [{
+        "text": "矩形",
+        "icon": "stop",
+        "isFontIcon": true,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 100,
+                    "h": 100
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "http://127.0.0.1:30020/Assets/static/svg/ellipse2.svg"
+            }
+        }
+    },{
+        "text": "动画演示1",
+        "icon": "stop",
+        "isFontIcon": true,
+        "info": {
+            "type": "svg-image",
+            "action": [],
+            "dataBind": {
+                "sn": "",
+                "title": "",
+                "biz": "",
+                "queryParam": {}
+            },
+            "style": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 200,
+                    "h": 200
+                },
+                "backColor": "transparent",
+                "zIndex": 1,
+                "url": "http://127.0.0.1:30020/Assets/static/svg/demo1.svg"
+            }
+        }
+    }
+]
+}

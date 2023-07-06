@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="StartRunningContainer">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="runningContainer" type="tns:RunningContainer" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="RunningContainer">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="ContainerCode" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="TrayCode" type="xs:int" />
+      <xs:element minOccurs="1" maxOccurs="1" name="XLight" type="xs:int" />
+      <xs:element minOccurs="0" maxOccurs="1" name="IpAddress" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="Port" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="StartRunningContainerResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="StartRunningContainerResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="DataResult">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:DataResultOfObject" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:complexType name="DataResultOfObject">
+    <xs:sequence>
+      <xs:element minOccurs="1" maxOccurs="1" name="Success" type="xs:boolean" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Message" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Data" />
+      <xs:element minOccurs="1" maxOccurs="1" name="ResultType" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="HopperSetting">
+    <xs:complexType />
+  </xs:element>
+  <xs:element name="HopperSettingResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="HopperSettingResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="EmergencyDoorSetting">
+    <xs:complexType />
+  </xs:element>
+  <xs:element name="EmergencyDoorSettingResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="EmergencyDoorSettingResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetPlcDeivceStatus">
+    <xs:complexType />
+  </xs:element>
+  <xs:element name="GetPlcDeivceStatusResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="GetPlcDeivceStatusResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAlarmInformation">
+    <xs:complexType />
+  </xs:element>
+  <xs:element name="GetAlarmInformationResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="GetAlarmInformationResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ResetAlarm">
+    <xs:complexType />
+  </xs:element>
+  <xs:element name="ResetAlarmResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="ResetAlarmResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StartRunningC3000Container">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="runningContainer" type="tns:RunningContainer" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StartRunningC3000ContainerResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="StartRunningC3000ContainerResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetC3000DeivceStatus">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="runningContainer" type="tns:RunningContainer" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetC3000DeivceStatusResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="GetC3000DeivceStatusResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StartRunningHanelContainer">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="runningContainer" type="tns:RunningContainer" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StartRunningHanelContainerResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="StartRunningHanelContainerResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetHanelStatus">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="runningContainer" type="tns:RunningContainer" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetHanelStatusResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="GetHanelStatusResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FinishHanellContainer">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="runningContainer" type="tns:RunningContainer" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FinishHanellContainerResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="FinishHanellContainerResult" type="tns:DataResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,78 @@
+2023-06-12 10:35:42:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-06-12 10:36:50:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-06-12 10:37:29:捕获未处理异常:DialogHost is already open.
+2023-06-12 10:37:29:捕获未处理异常:DialogHost is already open.
+2023-06-12 10:38:20:捕获未处理异常:DialogHost is already open.
+2023-06-12 10:38:20:捕获未处理异常:DialogHost is already open.
+2023-06-12 10:38:51:捕获未处理异常:DialogHost is already open.
+2023-06-12 10:38:51:捕获未处理异常:DialogHost is already open.
+2023-06-12 10:50:04:捕获未处理异常:DialogHost is already open.
+2023-06-12 10:50:04:捕获未处理异常:DialogHost is already open.
+2023-06-12 10:57:52:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-06-12 10:57:54:捕获未处理异常:DialogHost is already open.
+2023-06-12 10:57:54:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:04:38:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:04:38:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:04:44:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:04:44:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:04:54:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:04:54:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:04:56:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-06-12 11:04:59:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:04:59:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:05:02:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:05:02:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:05:04:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:05:04:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:05:12:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:05:12:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:09:30:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-06-12 11:09:34:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:09:34:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:09:44:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:09:44:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:10:19:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:10:19:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:11:41:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-06-12 11:11:44:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:11:44:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:11:55:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:11:55:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:12:01:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:12:01:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:19:24:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-06-12 11:19:30:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:19:30:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:21:29:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:21:29:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:21:57:捕获未处理异常:DialogHost is already open.
+2023-06-12 11:21:57:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:03:41:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:03:41:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:03:47:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:03:47:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:03:52:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:03:52:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:03:53:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-06-12 13:03:55:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:03:55:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:09:00:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-06-12 13:09:03:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:09:03:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:09:21:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:09:21:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:09:25:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:09:25:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:09:51:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:09:51:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:13:34:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:13:34:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:13:44:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:13:44:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:22:23:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-06-12 13:22:28:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:22:28:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:22:48:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:22:48:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:24:54:捕获未处理异常:DialogHost is already open.
+2023-06-12 13:24:54:捕获未处理异常:DialogHost is already open.

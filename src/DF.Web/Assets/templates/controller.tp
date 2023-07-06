@@ -1,0 +1,35 @@
+﻿using System.Web.Mvc;
+using HP.Web.Interceptor;
+using HP.Web.Mvc.Extensions;
+using HP.Web.Mvc.Pagination;
+using HP.Data.Entity.Pagination;
+using HP.Utility.Data;
+{=Using}
+
+namespace HP.Web{=AreaName}.Controllers
+{
+    public class {=Name} : BaseController
+    {
+        /// <summary>
+        /// {=Description}契约
+        /// </summary>
+        public {=Interface} {=EntityName}Contract { set; get; }
+
+        #region 首页
+
+        public ActionResult Index()
+        {
+            return View();
+        }
+
+        [AuthorizationFilter(ActionName = "Index")]
+        public ActionResult GetPageRecords(MvcPageCondition pageCondition)
+        {
+            {=PageRecords}
+        }
+
+        #endregion
+
+{=Functions}
+    }
+}

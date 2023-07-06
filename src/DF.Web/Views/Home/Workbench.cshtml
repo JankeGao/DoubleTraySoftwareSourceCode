@@ -1,0 +1,13 @@
+﻿@using HP.Core.Security
+@using HP.Core.Security.Permissions
+@{
+    ViewBag.Title = "工作台";
+}
+@*当前在线用户：<br />*@
+@{
+    OnlineManager manager = new OnlineManager();
+    foreach (IdentityTicket identity in manager.GetOnlines())
+    {
+        <label class="mr10">@identity.UserData.Code</label>
+    }
+}

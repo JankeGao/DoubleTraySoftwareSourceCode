@@ -1,0 +1,93 @@
+﻿@using DeltaRT.Utility.Extensions
+@model  DeltaRT.Core.Logging.OperationLog
+@{
+    Layout = null;
+    string grid = "gridOperationLogDetail";
+
+    List<KeyValuePair<string, string>> postData = new List<KeyValuePair<string, string>>();
+    if (!string.IsNullOrEmpty(Model.PostData))
+    {
+        foreach (var data in Model.PostData.Split(','))
+        {
+            var kv = data.Split(':');
+            postData.Add(new KeyValuePair<string, string>(kv[0], kv[1]));
+        }
+    }
+}
+
+<div class="easyui-layout menu-layout global-layout" fit="true">
+    <div data-options="region:'north',border:false,height:200">
+        <table class="table-form m5">
+            <colgroup>
+                <col style="width: 70px;"/>
+                <col style="width: 250px;"/>
+                <col style="width: 60px;"/>
+                <col/>
+            </colgroup>
+            <tr>
+                <td>模块：</td>
+                <td>@Model.ModuleName</td>
+                <td>操作名称：</td>
+                <td>@Model.Name</td>
+            </tr>
+            <tr>
+                <td>开始时间：</td>
+                <td>@Model.BeginTime</td>
+                <td>结束时间：</td>
+                <td>@Model.EndTime</td>
+            </tr>
+            <tr>
+                <td>耗时(ms)：</td>
+                <td>@Model.TotalMilliseconds</td>
+                <td>操作人：</td>
+                <td>@(Model.CreatedUserName)(Model.CreateUserId)</td>
+            </tr>
+            <tr>
+                <td>Ip地址：</td>
+                <td>@Model.Ip</td>
+                <td>操作地址：</td>
+                <td>@Model.Url</td>
+            </tr>
+            <tr>
+                <td>结果：</td>
+                <td>
+                    @{
+                        if (Model.Success)
+                        {
+                            <label class="green">成功</label>
+                        }
+                        else
+                        {
+                            <label class="red">失败</label>
+                        }
+                    }
+                </td>
+                <td>结果消息：</td>
+                <td>@Model.Message</td>
+            </tr>
+        </table>
+        <dl class="container">
+            <dt><label>请求数据</label></dt>
+        </dl>
+    </div>
+    <div data-options="region:'center'" border="0" style="padding:5px;padding-top:0;">
+        <table id="@grid"></table>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    $(function () {
+        rt.datagrid({
+            datagrid: '#@grid',
+            pagination: false,
+            data:@(Html.Raw(postData.ToJsonString())),
+            columns: [[
+                { field: 'Key', width: '20%', title: '参数名' },
+                { field: 'Value', width: '80%', title: '参数值' }
+            ]]
+        });
+    });
+
+</script>
+

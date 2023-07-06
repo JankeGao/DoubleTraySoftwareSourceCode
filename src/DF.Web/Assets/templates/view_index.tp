@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "{=ModuleName}";
+    string dg = "rtdatagrid";
+}
+
+<div id="toolbar">
+{=Function}
+</div>
+<table id="@dg"></table>
+
+<div id="rtwindow" class="easyui-dialog" data-options="modal: true,closed:true,width:{=Width},height:{=Height}"></div>
+
+<script type="text/javascript">
+    $(function() {
+
+        rt.datagrid({
+            datagridId: '#@dg',
+            url: '@Url.Action("GetPageRecords")',
+            toolbar: '#toolbar',
+            columns: [
+                [
+{=Fields}
+                ]
+            ]
+        });
+    });
+
+</script>

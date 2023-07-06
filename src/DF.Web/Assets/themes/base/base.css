@@ -1,0 +1,240 @@
+﻿html, body {
+    font-size: 12px;
+    font-family: Arial,宋体;
+    margin: 0 auto;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+iframe {
+    vertical-align: middle;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    font-family: Arial,宋体;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 0;
+}
+
+img {
+    border: 0;
+    outline: none;
+    vertical-align: middle;
+}
+
+input[type=button], input[type=submit], input[type=checkbox], input[type=radio] {
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 12px;
+    color: #414D75;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+:focus {
+    outline: 0;
+}
+
+.fit {
+    width: 100%;
+    height: 100%;
+}
+
+.hp100 {
+    height: 100%;
+}
+
+.wp100 {
+    width: 100%;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.clear {
+    clear: both;
+}
+
+.hand {
+    cursor: pointer;
+}
+
+.fsize14 {
+    font-size: 14px;
+}
+
+.hgauto {
+    height: auto;
+    overflow: hidden;
+}
+
+.center {
+    text-align: center;
+}
+
+/*margin*/
+.m1 {
+    margin: 1px;
+}
+
+.m5 {
+    margin: 5px;
+}
+
+.m10 {
+    margin: 10px;
+}
+
+.ml3 {
+    margin-left: 3px;
+}
+
+.ml5 {
+    margin-left: 5px;
+}
+
+.ml10 {
+    margin-left: 10px;
+}
+
+.ml20 {
+    margin-left: 20px;
+}
+
+.mt5 {
+    margin-top: 5px;
+}
+
+.mr5 {
+    margin-right: 5px;
+}
+
+.mr10 {
+    margin-right: 10px;
+}
+
+.mt10 {
+    margin-top: 10px;
+}
+
+/*padding*/
+.pl5 {
+    padding-left: 5px;
+}
+
+.pl10 {
+    padding-left: 10px;
+}
+
+.p10 {
+    padding: 10px;
+}
+
+.p5 {
+    padding: 5px;
+}
+
+.pt5 {
+    padding-top: 5px;
+}
+
+/*color*/
+.red {
+    color: red;
+}
+
+.orange {
+    color: orange;
+}
+
+.green {
+    color: green;
+}
+
+.darkred {
+    color: darkred;
+}
+
+.deepred {
+    color: #CC0000;
+}
+
+.gray {
+    color: gray;
+}
+
+.fieldset {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.loading {
+    position: absolute;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-color: #fff;
+}
+
+.table-form td {
+    padding-bottom: 5px;
+    min-height: 20px;
+    line-height: 26px;
+}
+/*提示框内容*/
+.btip {
+    border: 1px solid #FFA500;
+    background-color: #F2DD7A;
+    padding: 5px;
+    color: #ED6203;
+}
+
+    .btip ol {
+        padding-left: 2em;
+        margin-bottom: 5px;
+        list-style-type: decimal;
+    }
+
+        .btip ol li {
+            line-height: 20px;
+        }
+
+.btip-icon {
+    background: #F2DD7A url(../../images/note.gif) no-repeat left top;
+    padding-left: 40px;
+}

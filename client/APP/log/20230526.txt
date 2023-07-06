@@ -1,0 +1,23 @@
+2023-05-26 21:57:42:捕获未处理异常:No loaded DialogHost instances.
+2023-05-26 21:57:42:捕获未处理异常:No loaded DialogHost instances.
+2023-05-26 21:57:42:捕获未处理异常:No loaded DialogHost instances.
+2023-05-26 21:58:03:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-05-26 22:00:12:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-05-26 22:03:39:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-05-26 22:07:44:捕获未处理异常:No loaded DialogHost instances.
+2023-05-26 22:07:44:捕获未处理异常:No loaded DialogHost instances.
+2023-05-26 22:07:44:捕获未处理异常:No loaded DialogHost instances.
+2023-05-26 22:26:11:捕获未处理异常:No loaded DialogHost instances.
+2023-05-26 22:26:11:捕获未处理异常:No loaded DialogHost instances.
+2023-05-26 22:26:11:捕获未处理异常:No loaded DialogHost instances.
+2023-05-26 22:26:21:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-05-26 22:26:56:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-05-26 22:29:01:捕获未处理异常:No loaded DialogHost instances.
+2023-05-26 22:29:01:捕获未处理异常:No loaded DialogHost instances.
+2023-05-26 22:29:01:捕获未处理异常:No loaded DialogHost instances.
+2023-05-26 22:30:09:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-05-26 22:31:00:捕获未处理异常:No loaded DialogHost instances.
+2023-05-26 22:31:00:捕获未处理异常:No loaded DialogHost instances.
+2023-05-26 22:31:00:捕获未处理异常:No loaded DialogHost instances.
+2023-05-26 22:31:04:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。
+2023-05-26 22:31:10:捕获线程内未处理异常：未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。

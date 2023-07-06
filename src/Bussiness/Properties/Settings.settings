@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Bussiness.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Bussiness_WmsToPTLServer_ForWmsService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:8733/ForWmsService/</Value>
+    </Setting>
+    <Setting Name="Bussiness_PtlServer_PtlServer" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:30018/</Value>
+    </Setting>
+    <Setting Name="Bussiness_PLCServer_PlcServer" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:30060/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

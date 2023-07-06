@@ -1,0 +1,292 @@
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\HPC.BaseService.dll
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\HPC.BaseService.pdb
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\aliyun-net-sdk-core.dll
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\aliyun-net-sdk-dysmsapi.dll
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\Autofac.dll
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\HP.BaseService.dll
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\HP.Core.dll
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\HP.Data.Entity.dll
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\HP.Data.Orm.dll
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\HP.Utility.dll
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\Newtonsoft.Json.dll
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\Oracle.ManagedDataAccess.dll
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\System.Data.SQLite.dll
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\MySql.Data.dll
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\HP.BaseService.pdb
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\HP.Core.pdb
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\HP.Data.Entity.pdb
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\HP.Data.Orm.pdb
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\HP.Utility.pdb
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\Autofac.xml
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\Newtonsoft.Json.xml
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\System.Data.SQLite.xml
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\obj\Release\HPC.BaseService.csprojResolveAssemblyReference.cache
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.CoreCompileInputs.cache
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\obj\Release\HPC.BaseService.dll
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\obj\Release\HPC.BaseService.pdb
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\HP.Web.Mvc.dll
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\System.Web.Mvc.dll
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\HP.Web.Mvc.pdb
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\System.Web.Mvc.xml
+D:\0 HelloPets\0 HelloPets\Src\trunk\HP.API.BaseService\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\HPC.BaseService.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\HPC.BaseService.pdb
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\aliyun-net-sdk-core.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\aliyun-net-sdk-dysmsapi.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\Autofac.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\HP.BaseService.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\HP.Core.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\HP.Data.Entity.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\HP.Data.Orm.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\HP.Utility.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\HP.Web.Mvc.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\Newtonsoft.Json.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\Oracle.ManagedDataAccess.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\System.Data.SQLite.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\MySql.Data.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\System.Web.Mvc.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\HP.BaseService.pdb
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\HP.Core.pdb
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\HP.Data.Entity.pdb
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\HP.Data.Orm.pdb
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\HP.Utility.pdb
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\HP.Web.Mvc.pdb
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\Autofac.xml
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\Newtonsoft.Json.xml
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\System.Data.SQLite.xml
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\System.Web.Mvc.xml
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\obj\Release\HPC.BaseService.csprojResolveAssemblyReference.cache
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.CoreCompileInputs.cache
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\obj\Release\HPC.BaseService.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\obj\Release\HPC.BaseService.pdb
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\Chloe.dll
+D:\0 HelloPets\0 HelloPets\server\trunk\HP.API.BaseService\bin\Release\Chloe.SqlServer.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\HPC.BaseService.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\HPC.BaseService.pdb
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\aliyun-net-sdk-core.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\aliyun-net-sdk-dysmsapi.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\Autofac.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\HP.Core.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\HP.Data.Entity.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\HP.Data.Orm.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\HP.Utility.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\HP.Web.Mvc.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\Newtonsoft.Json.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\Oracle.ManagedDataAccess.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\System.Data.SQLite.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\MySql.Data.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\System.Web.Mvc.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\HP.Core.pdb
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\HP.Data.Entity.pdb
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\HP.Data.Orm.pdb
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\HP.Utility.pdb
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\HP.Web.Mvc.pdb
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\Autofac.xml
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\Newtonsoft.Json.xml
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\System.Data.SQLite.xml
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\System.Web.Mvc.xml
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\obj\Release\HPC.BaseService.csprojResolveAssemblyReference.cache
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.CoreCompileInputs.cache
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\obj\Release\HPC.BaseService.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\HP.API.BaseService\obj\Release\HPC.BaseService.pdb
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\HPC.BaseService.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\HPC.BaseService.pdb
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\aliyun-net-sdk-core.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\aliyun-net-sdk-dysmsapi.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\Autofac.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\HP.Core.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\HP.Data.Entity.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\HP.Data.Orm.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\HP.Utility.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\HP.Web.Mvc.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\Newtonsoft.Json.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\Oracle.ManagedDataAccess.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\System.Data.SQLite.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\MySql.Data.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\System.Web.Mvc.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\HP.Core.pdb
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\HP.Data.Entity.pdb
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\HP.Data.Orm.pdb
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\HP.Utility.pdb
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\HP.Web.Mvc.pdb
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\Autofac.xml
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\Newtonsoft.Json.xml
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\System.Data.SQLite.xml
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\System.Web.Mvc.xml
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\obj\Release\HPC.BaseService.csprojResolveAssemblyReference.cache
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.CoreCompileInputs.cache
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\obj\Release\HPC.BaseService.dll
+E:\0 淡黄网络\0 SaaS\server\trunk\trunk1.0\HP.API.BaseService\obj\Release\HPC.BaseService.pdb
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\HPC.BaseService.dll
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\HPC.BaseService.pdb
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\aliyun-net-sdk-core.dll
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\aliyun-net-sdk-dysmsapi.dll
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\Autofac.dll
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\HP.Core.dll
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\HP.Data.Entity.dll
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\HP.Data.Orm.dll
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\HP.Utility.dll
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\HP.Web.Mvc.dll
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\Newtonsoft.Json.dll
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\Oracle.ManagedDataAccess.dll
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\System.Data.SQLite.dll
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\MySql.Data.dll
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\System.Web.Mvc.dll
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\HP.Core.pdb
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\HP.Data.Entity.pdb
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\HP.Data.Orm.pdb
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\HP.Utility.pdb
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\HP.Web.Mvc.pdb
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\Autofac.xml
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\Newtonsoft.Json.xml
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\System.Data.SQLite.xml
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\System.Web.Mvc.xml
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\obj\Release\HPC.BaseService.csprojResolveAssemblyReference.cache
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.CoreCompileInputs.cache
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\obj\Release\HPC.BaseService.dll
+E:\0 淡黄网络\0 项目\14 大屏显示\trunk1.0\HP.API.BaseService\obj\Release\HPC.BaseService.pdb
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\HPC.BaseService.dll
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\HPC.BaseService.pdb
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\aliyun-net-sdk-core.dll
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\aliyun-net-sdk-dysmsapi.dll
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\Autofac.dll
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\HP.Core.dll
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\HP.Data.Entity.dll
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\HP.Data.Orm.dll
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\HP.Utility.dll
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\HP.Web.Mvc.dll
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\Newtonsoft.Json.dll
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\Register.exe
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\Oracle.ManagedDataAccess.dll
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\System.Data.SQLite.dll
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\MySql.Data.dll
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\System.Web.Mvc.dll
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\HP.Core.pdb
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\HP.Data.Entity.pdb
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\HP.Data.Orm.pdb
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\HP.Utility.pdb
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\HP.Web.Mvc.pdb
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\Register.pdb
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\Autofac.xml
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\Newtonsoft.Json.xml
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\System.Data.SQLite.xml
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\System.Web.Mvc.xml
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\obj\Release\HPC.BaseService.csprojAssemblyReference.cache
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.CopyComplete
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\obj\Release\HPC.BaseService.dll
+E:\0 淡黄网络\0 项目\0 framework\src 2.0\trunk1.0\HP.API.BaseService\obj\Release\HPC.BaseService.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HPC.BaseService.dll.config
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HPC.BaseService.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HPC.BaseService.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\Autofac.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Core.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Data.Entity.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Data.Orm.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Utility.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Web.Mvc.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\Newtonsoft.Json.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\Register.exe
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\Autofac.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Core.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Data.Entity.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Data.Orm.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Web.Mvc.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\Newtonsoft.Json.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\obj\Release\HPC.BaseService.csprojAssemblyReference.cache
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.CopyComplete
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\obj\Release\HPC.BaseService.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\obj\Release\HPC.BaseService.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\Register.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\Register.exe.config
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HPC.BaseService.dll.config
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HPC.BaseService.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HPC.BaseService.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\Autofac.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Core.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Data.Entity.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Data.Orm.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Utility.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Web.Mvc.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\Newtonsoft.Json.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\Register.exe
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\Register.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\Register.exe.config
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\Autofac.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Core.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Data.Entity.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Data.Orm.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\HP.Web.Mvc.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\bin\Release\Newtonsoft.Json.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\obj\Release\HPC.BaseService.csprojAssemblyReference.cache
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.CoreCompileInputs.cache
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.CopyComplete
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\obj\Release\HPC.BaseService.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\HP.API.BaseService\obj\Release\HPC.BaseService.pdb
+E:\IWMS\src\HP.API.BaseService\bin\Release\HPC.BaseService.dll.config
+E:\IWMS\src\HP.API.BaseService\bin\Release\HPC.BaseService.dll
+E:\IWMS\src\HP.API.BaseService\bin\Release\HPC.BaseService.pdb
+E:\IWMS\src\HP.API.BaseService\bin\Release\Autofac.dll
+E:\IWMS\src\HP.API.BaseService\bin\Release\HP.Core.dll
+E:\IWMS\src\HP.API.BaseService\bin\Release\HP.Data.Entity.dll
+E:\IWMS\src\HP.API.BaseService\bin\Release\HP.Data.Orm.dll
+E:\IWMS\src\HP.API.BaseService\bin\Release\HP.Utility.dll
+E:\IWMS\src\HP.API.BaseService\bin\Release\HP.Web.Mvc.dll
+E:\IWMS\src\HP.API.BaseService\bin\Release\Newtonsoft.Json.dll
+E:\IWMS\src\HP.API.BaseService\bin\Release\Autofac.xml
+E:\IWMS\src\HP.API.BaseService\bin\Release\HP.Core.pdb
+E:\IWMS\src\HP.API.BaseService\bin\Release\HP.Data.Entity.pdb
+E:\IWMS\src\HP.API.BaseService\bin\Release\HP.Data.Orm.pdb
+E:\IWMS\src\HP.API.BaseService\bin\Release\HP.Web.Mvc.pdb
+E:\IWMS\src\HP.API.BaseService\bin\Release\Newtonsoft.Json.xml
+E:\IWMS\src\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.AssemblyReference.cache
+E:\IWMS\src\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.CoreCompileInputs.cache
+E:\IWMS\src\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.CopyComplete
+E:\IWMS\src\HP.API.BaseService\obj\Release\HPC.BaseService.dll
+E:\IWMS\src\HP.API.BaseService\obj\Release\HPC.BaseService.pdb
+E:\Festo\src\HP.API.BaseService\bin\Release\HPC.BaseService.dll.config
+E:\Festo\src\HP.API.BaseService\bin\Release\HPC.BaseService.dll
+E:\Festo\src\HP.API.BaseService\bin\Release\HPC.BaseService.pdb
+E:\Festo\src\HP.API.BaseService\bin\Release\Autofac.dll
+E:\Festo\src\HP.API.BaseService\bin\Release\HP.Core.dll
+E:\Festo\src\HP.API.BaseService\bin\Release\HP.Data.Entity.dll
+E:\Festo\src\HP.API.BaseService\bin\Release\HP.Data.Orm.dll
+E:\Festo\src\HP.API.BaseService\bin\Release\HP.Utility.dll
+E:\Festo\src\HP.API.BaseService\bin\Release\HP.Web.Mvc.dll
+E:\Festo\src\HP.API.BaseService\bin\Release\Newtonsoft.Json.dll
+E:\Festo\src\HP.API.BaseService\bin\Release\Autofac.xml
+E:\Festo\src\HP.API.BaseService\bin\Release\HP.Core.pdb
+E:\Festo\src\HP.API.BaseService\bin\Release\HP.Data.Entity.pdb
+E:\Festo\src\HP.API.BaseService\bin\Release\HP.Data.Orm.pdb
+E:\Festo\src\HP.API.BaseService\bin\Release\HP.Web.Mvc.pdb
+E:\Festo\src\HP.API.BaseService\bin\Release\Newtonsoft.Json.xml
+E:\Festo\src\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.AssemblyReference.cache
+E:\Festo\src\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.CoreCompileInputs.cache
+E:\Festo\src\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.CopyComplete
+E:\Festo\src\HP.API.BaseService\obj\Release\HPC.BaseService.dll
+E:\Festo\src\HP.API.BaseService\obj\Release\HPC.BaseService.pdb
+E:\SoftwareSourceCode\src\HP.API.BaseService\bin\Release\HPC.BaseService.dll.config
+E:\SoftwareSourceCode\src\HP.API.BaseService\bin\Release\HPC.BaseService.dll
+E:\SoftwareSourceCode\src\HP.API.BaseService\bin\Release\HPC.BaseService.pdb
+E:\SoftwareSourceCode\src\HP.API.BaseService\bin\Release\Autofac.dll
+E:\SoftwareSourceCode\src\HP.API.BaseService\bin\Release\HP.Core.dll
+E:\SoftwareSourceCode\src\HP.API.BaseService\bin\Release\HP.Data.Entity.dll
+E:\SoftwareSourceCode\src\HP.API.BaseService\bin\Release\HP.Data.Orm.dll
+E:\SoftwareSourceCode\src\HP.API.BaseService\bin\Release\HP.Utility.dll
+E:\SoftwareSourceCode\src\HP.API.BaseService\bin\Release\HP.Web.Mvc.dll
+E:\SoftwareSourceCode\src\HP.API.BaseService\bin\Release\Newtonsoft.Json.dll
+E:\SoftwareSourceCode\src\HP.API.BaseService\bin\Release\Autofac.xml
+E:\SoftwareSourceCode\src\HP.API.BaseService\bin\Release\HP.Core.pdb
+E:\SoftwareSourceCode\src\HP.API.BaseService\bin\Release\HP.Data.Entity.pdb
+E:\SoftwareSourceCode\src\HP.API.BaseService\bin\Release\HP.Data.Orm.pdb
+E:\SoftwareSourceCode\src\HP.API.BaseService\bin\Release\HP.Web.Mvc.pdb
+E:\SoftwareSourceCode\src\HP.API.BaseService\bin\Release\Newtonsoft.Json.xml
+E:\SoftwareSourceCode\src\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.AssemblyReference.cache
+E:\SoftwareSourceCode\src\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.CoreCompileInputs.cache
+E:\SoftwareSourceCode\src\HP.API.BaseService\obj\Release\HPC.BaseService.csproj.CopyComplete
+E:\SoftwareSourceCode\src\HP.API.BaseService\obj\Release\HPC.BaseService.dll
+E:\SoftwareSourceCode\src\HP.API.BaseService\obj\Release\HPC.BaseService.pdb

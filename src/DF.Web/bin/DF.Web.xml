@@ -1,0 +1,2456 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DF.Web</name>
+    </assembly>
+    <members>
+        <member name="M:DF.Web.DbContextConfig.DbConfigurationAppend">
+            <summary>
+            额外的数据映射
+            </summary>
+        </member>
+        <member name="T:DF.Web.SwaggerConfig">
+            <summary>
+            Swagger配置
+            </summary>
+        </member>
+        <member name="M:DF.Web.SwaggerConfig.Register">
+            <summary>
+            寄存器配置
+            </summary>
+        </member>
+        <member name="T:DF.Web.Areas.BaseApi.Controllers.DepartmentController">
+            <summary>
+            部门管理
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.DepartmentController.GetDepartmentTreeData">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.DepartmentController.GetList(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BaseApi.Controllers.JobObjectController">
+            <summary>
+            定时任务对象管理
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.JobObjectController.GetJobObjects">
+            <summary>
+            查询启用定时任务信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.JobObjectController.GetJobObjectList(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BaseApi.Controllers.JobSchedulerController">
+            <summary>
+            定时任务管理
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BaseApi.Controllers.JobSchedulerController.JobSchedulerContract">
+            <summary>
+            定时任务契约
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.JobSchedulerController.GetJobSchedulers">
+            <summary>
+            查询启用定时任务信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.JobSchedulerController.GetJobSchedulerList(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.JobSchedulerController.PostDoCreate(HP.JobSchedulers.Models.JobScheduler)">
+            <summary>
+            创建
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.JobSchedulerController.PostDoEdit(HP.JobSchedulers.Models.JobScheduler)">
+            <summary>
+            编辑
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.JobSchedulerController.PostDoRemove(HP.JobSchedulers.Models.JobScheduler)">
+            <summary>
+            删除
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.JobSchedulerController.DoStart(HP.JobSchedulers.Models.JobScheduler)">
+            <summary>
+            启动
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.JobSchedulerController.DoStop(HP.JobSchedulers.Models.JobScheduler)">
+            <summary>
+            暂停
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.ExceptionController.GetExceptionList(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.AuthorizationController.GetModuleAuth(System.String,System.Int32)">
+            <summary>
+            功能权限--用户组
+            </summary>
+            <param name="typeCode">类型编码</param>
+            <param name="type">类型</param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.AuthorizationController.GetModuleUserRoleAuth(System.String)">
+            <summary>
+            功能权限--用户组权限-Role
+            </summary>
+            <param name="typeCode">类型编码</param>
+            <param name="type">类型</param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.AuthorizationController.GetEntityDataAuthRules(System.Int32,System.String)">
+            <summary>
+            获取实体数据规则列表
+            </summary>
+            <param name="type">类别</param>
+            <param name="typeCode">类别</param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.LogController.GetLogList(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.CodeRuleController.GetCodeRules">
+            <summary>
+            查询启用编码规则信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.CodeRuleController.GetCodeRuleList(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.CodeRuleController.GetItems(System.String)">
+            <summary>
+            查询启用编码规则信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.CodeRuleController.GetRuleAssemblys">
+            <summary>
+            查询编码规则
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.CodeRuleController.GetResetAssemblys">
+            <summary>
+            查询重置程序集
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.EntityInfoController.GetEntityInfo">
+            <summary>
+            查询启用角色信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.RoleController.GetRole">
+            <summary>
+            查询启用角色信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.RoleController.GetRoleList(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.LoginController.PostLoginTest(HPC.BaseService.Dtos.LoginInfo)">
+            <summary>
+            客户端用户登录
+            </summary>
+            <param name="inputDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.LoginController.GetCheckAuth(System.String)">
+            <summary>
+            验证是否有模块的权限
+            </summary>
+            <param name="moduleCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.UserController.GetUserList(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.UserController.GetUserInfos">
+            <summary>
+            获取用户列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.UserController.GetUserlInfoList(System.String)">
+            <summary>
+            提示获取用户信息
+            </summary>
+            <param name="KeyValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.UserController.GetUserInfo(System.String)">
+            <summary>
+            根据编码获取用户信息
+            </summary>
+            <param name="code"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.UserController.PostDoEditUserArea(HPC.BaseService.Models.User)">
+            <summary>
+            编辑管理区域
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.DictionaryController.GetDictionaryList(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.DictionaryController.GetDictionaryTypeList(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.DictionaryController.GetDictionaryByType(System.String)">
+            <summary>
+            根据类别获取字典编码
+            </summary>
+            <param name="type"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BaseApi.Controllers.DictionaryController.InitDictionTypeTree(System.Collections.Generic.List{HPC.BaseService.Models.DictionaryType},System.String)">
+            <summary>
+            初始化模块功能树
+            </summary>
+            <param name="modules">权限模块</param>
+            <param name="parentCode">上级模块编码</param>
+            <returns></returns>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.AlarmController.StockContract">
+            <summary>
+            物料信息
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.AlarmController.AlarmContract">
+            <summary>
+            物料信息
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.AlarmController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.AlarmController.PostDoCheck">
+            <summary>
+            核查库存是否存在报警
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.AlarmController.GetAlarmList(System.String)">
+            <summary>
+            根据仓库编码获取报警数据
+            </summary>
+            <param name="type"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.AlarmController.DoDownLoadTemp(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            导出信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.BoxController">
+            <summary>
+            载具箱
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.BoxController.BoxContract">
+            <summary>
+            载具箱的信息
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.BoxController.MaterialContract">
+            <summary>
+            物料主数据契约
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.BoxController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.BoxController.GetBoxByCode(System.String)">
+            <summary>
+            获取单个箱子信息
+            </summary>
+            <param name="boxCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.BoxController.GetBoxMaterialMapByCode(System.String)">
+            <summary>
+            获取载具绑定的物料
+            </summary>
+            <param name="boxCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.BoxController.PostDoCreate(Bussiness.Entitys.Box)">
+            <summary>
+            post方式获取箱子数据-添加数据时调用
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.BoxController.PostDoEdit(Bussiness.Entitys.Box)">
+            <summary>
+            更改数据时调用
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.BoxController.PostDoDelete(Bussiness.Entitys.Box)">
+            <summary>
+            删除数据时调用
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.BoxController.GetBoxlierList(System.String)">
+            <summary>
+            get方式获取数据
+            </summary>
+            <param name="KeyValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.BoxController.DoDownLoadTempBox">
+            <summary>
+            从WebAPI下载文件
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.BoxController.DoUpLoadBoxInfo">
+            <summary>
+            导入载具箱的信息
+            </summary>
+            <param></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.BoxController.DoDownLoadTemp">
+            <summary>
+            导出载具箱信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.BoxController.PostDoFileLibraryUpload">
+            <summary>
+            载具箱图片文件上传
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.CheckController.CheckContract">
+            <summary>
+            物料信息
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CheckController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CheckController.PostDoSubmit(Bussiness.Entitys.CheckMain)">
+            <summary>
+            提交盘点单信息
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CheckController.GetCheckDetailPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            查看盘点详情
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CheckController.PostDoHandCheckClient(Bussiness.Dtos.CheckDto)">
+            <summary>
+            客户端执行盘点
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CheckController.PostPDACheckComplete(Bussiness.Dtos.CheckDto)">
+            <summary>
+            PDA-盘点完成
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.CheckListController">
+            <summary>
+            盘点单CheckListController
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.CheckListController.CheckListContract">
+            <summary>
+            盘点单信息
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.CheckListController.WareHouseContract">
+            <summary>
+            仓库信息
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CheckListController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.CheckListController.ContainerRepository">
+            <summary>
+            货柜
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.CheckListController.TrayRepository">
+            <summary>
+            托盘
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.CheckListController.LocationRepository">
+            <summary>
+            储位
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CheckListController.GetWareHouseList">
+            <summary>
+            获取仓库
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CheckListController.GetCheckListDetailPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            查看盘点单详情-搜索
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CheckListController.GetCheckListDetailList(System.String)">
+            <summary>
+            获取盘点单明细
+            </summary>
+            <param name="Code"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CheckListController.GetCheckListContainerList(System.String)">
+            <summary>
+            根据仓库获取货柜
+            </summary>
+            <param name="WareHosueCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CheckListController.GetContainerList">
+            <summary>
+            选择盘点的内容下拉数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CheckListController.PostDoCreate(Bussiness.Entitys.CheckList)">
+            <summary>
+            添加数据时调用
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CheckListController.GetLocationList(System.String,System.String)">
+            <summary>
+            获取托盘编码
+            </summary>
+            <param name="query"></param>
+            <param name="WareHouseCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CheckListController.PostDoCancellatione(Bussiness.Entitys.CheckList)">
+            <summary>
+            作废盘点单
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.StartM300">
+            <summary>
+            开启垂直学习
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetM340">
+            <summary>
+            监视学习状态M340  true时学习结束
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetD300">
+            <summary>
+            读取前部托盘数
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetD301">
+            <summary>
+            读取后部托盘数
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.FinishM341">
+            <summary>
+            结束垂直学习
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.StartM400">
+            <summary>
+            开启水平学习
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetM440">
+            <summary>
+            监视学习状态M340  true时学习结束
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.FinishM441">
+            <summary>
+            结束水平学习
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.StartM450">
+            <summary>
+            开启自动门学习
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetM490">
+            <summary>
+            监视学习状态M340  true时学习结束
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.FinishM491">
+            <summary>
+            结束自动门学习
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.StartM350">
+            <summary>
+            开启托盘扫描
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetM390">
+            <summary>
+            获取托盘扫描状态
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetD390">
+            <summary>
+            读取托盘扫描前部托盘数
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetD391">
+            <summary>
+            读取托盘扫描后部托盘数
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.StartM391">
+            <summary>
+            开启托盘扫描  开始定义
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetM392">
+            <summary>
+            获取开始定义 后状态
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.WriteD392(Bussiness.Common.RunningContainer)">
+            <summary>
+            写入托盘号
+            </summary>
+            <param name="runningContainer"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.ConfirmM393">
+            <summary>
+            确认 写入托盘号完毕
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.ConfirmM394">
+            <summary>
+             确认完毕后 下一个
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetM395">
+            <summary>
+             获取下一个 状态
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.ConfirmM396">
+            <summary>
+            结束托盘扫描
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.WriteD650(Bussiness.Common.RunningContainer)">
+            <summary>
+            写入托盘号
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetM650">
+            <summary>
+            获取M650状态
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetD651">
+            <summary>
+            获取D651 托盘所在托架号
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.StartM651">
+            <summary>
+            启动M651
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetD652">
+            <summary>
+            获取物料高度
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.WriteD700(Bussiness.Common.RunningContainer)">
+            <summary>
+            添加托盘
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.StartM700">
+            <summary>
+            启动M700
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetM701">
+            <summary>
+            获取M701状态 true 空间足够 
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.ConfirmM702">
+            <summary>
+            确认存入
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.WriteD750(Bussiness.Common.RunningContainer)">
+            <summary>
+            写入需要删除的托盘
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.StartM750">
+            <summary>
+            启动M750
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetD751">
+            <summary>
+            获取托盘所在货架号
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.StartM751">
+            <summary>
+            启动M751
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetM752">
+            <summary>
+            监视托盘
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.ConfirmM753">
+            <summary>
+            确认删除
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.ConfirmM754">
+            <summary>
+            取消删除
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.StartM800">
+            <summary>
+            开始整理
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetM801">
+            <summary>
+            监视整理是否完成
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.GetD800">
+            <summary>
+            获取空间利用率
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContainerInitializationController.ConfirmM802">
+            <summary>
+            写入需要删除的托盘
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.ContrainerRunController">
+            <summary>
+            货柜控制
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.ContrainerRunController.ContrainerRunContract">
+            <summary>
+            货柜控制
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContrainerRunController.StartRunningContainer(Bussiness.Entitys.RunningContainer)">
+            <summary>
+            运行货柜
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContrainerRunController.HopperSetting(Bussiness.Entitys.RunningContainer)">
+            <summary>
+            路径行程设定
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContrainerRunController.EmergencyDoorSetting(Bussiness.Entitys.RunningContainer)">
+            <summary>
+            安全门行程设定
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContrainerRunController.ResetAlarm(Bussiness.Entitys.RunningContainer)">
+            <summary>
+            复位全部报警
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContrainerRunController.GetPlcDeivceStatus(Bussiness.Entitys.RunningContainer)">
+            <summary>
+            获取设备状态
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContrainerRunController.GetAlarmInformation(Bussiness.Entitys.RunningContainer)">
+            <summary>
+            获取报警信息
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ContrainerRunController.StartScanBarcodeKeyDown(Bussiness.Entitys.RunningContainer)">
+            <summary>
+            扫描传递物料单重
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.CRRCDataController">
+            <summary>
+            获取tb_wms_in表中的数据
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CRRCDataController.Get">
+            <summary>
+            获取tb_wms_in表中的数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.CustomerController.CustomerContract">
+            <summary>
+            客户信息
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CustomerController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            获取分页数据
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CustomerController.PostDoCreate(Bussiness.Entitys.Customer)">
+            <summary>
+            创建新客户
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CustomerController.PostDoEdit(Bussiness.Entitys.Customer)">
+            <summary>
+            修改客户信息
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CustomerController.PostDoDelete(Bussiness.Entitys.Customer)">
+            <summary>
+            根据ID删除客户信息
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CustomerController.GetCustomersList(System.String)">
+            <summary>
+            根据查询条件获取客户信息
+            </summary>
+            <param name="KeyValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CustomerController.DoDownLoadTemp">
+            <summary>
+            下载客户表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CustomerController.DoUpLoadCustomerInfo">
+            <summary>
+            导入客户的信息
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.CustomerController.ExportClientData(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            导出客户信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.DashboardController.InContract">
+            <summary>
+            入库
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.DashboardController.OutContract">
+            <summary>
+            旧版出库
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.DashboardController.CheckContract">
+            <summary>
+            盘点
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.DashboardController.NumAlarmContract">
+            <summary>
+            物料信息
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.DashboardController.GetTodayIn">
+            <summary>
+            获取本日入库单数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.DashboardController.GetTodayOut">
+            <summary>
+            获取本日出库单数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.DashboardController.GetTodayCheck">
+            <summary>
+            获取本日盘点单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.DashboardController.GetTodayAlarm">
+            <summary>
+            获取库存预警
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.DashboardController.GetWeekIns">
+            <summary>
+            获取当周每一天入库单价数
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.DashboardController.GetTopOutMaterials">
+            <summary>
+            获取当月领用物料Top5
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.DashboardController.GetTopOutMaterialsClient">
+            <summary>
+            获取当月领用物料Top5
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.DashboardController.GetTopInMaterials">
+            <summary>
+            获取当月入库物料Top5
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.DashboardController.GetTopInMaterialsClient">
+            <summary>
+            获取当月入库物料Top5
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.DashboardController.GetMonthOutMaterials">
+            <summary>
+            获取每月出库单量
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.DeviceAlarmController">
+            <summary>
+            设备报警
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.DeviceAlarmController.DeviceAlarmContract">
+            <summary>
+            
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:DF.Web.Areas.BussinessApi.Controllers.DeviceAlarmController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)" -->
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.DeviceAlarmController.PostDoCreate(Bussiness.Entitys.DeviceAlarm)">
+            <summary>
+            post方式数据-添加数据时调用
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.DeviceAlarmController.PostDoEdit(Bussiness.Entitys.DeviceAlarm)">
+            <summary>
+            复位
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.DeviceAlarmController.DoDownLoadTemp(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            导出信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.DeviceInfoController">
+            <summary>
+            设备信息管理
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.DeviceInfoController.DeviceInfoContract">
+            <summary>
+            设备信息
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.DeviceInfoController.WareHouseContract">
+            <summary>
+            仓库
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.DeviceInfoController.MaterialContract">
+            <summary>
+            物料信息
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.DeviceInfoController.GetDeviceInfo(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            获取数据
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.DeviceInfoController.GetDevices(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            获取数据
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.DeviceInfoController.PostDoCreate(Bussiness.Entitys.DeviceInfo)">
+            <summary>
+            创建
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.DeviceInfoController.PostDoEdit(Bussiness.Entitys.Container)">
+            <summary>
+            编辑
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.EquipmentTypeController">
+            <summary>
+            主要的api借口
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.EquipmentTypeController.EquipmentTypeContract">
+            <summary>
+            设备型号的信息
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.EquipmentTypeController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.EquipmentTypeController.PostDoCreate(Bussiness.Entitys.EquipmentType)">
+            <summary>
+            添加数据
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.EquipmentTypeController.PostDoEdit(Bussiness.Entitys.EquipmentType)">
+            <summary>
+            编辑信息
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.EquipmentTypeController.PostDoDelete(Bussiness.Entitys.EquipmentType)">
+            <summary>
+            删除数据时调用
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.EquipmentTypeController.DoDownLoadTemp">
+            <summary>
+            从WebAPI下载文件，设备型号模板的下载
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.EquipmentTypeController.DoUpLoadInfo">
+            <summary>
+            导入设备型号的信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.EquipmentTypeController.ExportInformation">
+            <summary>
+            导出设备型号信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.EquipmentTypeController.PostDoFileLibraryUpload">
+            <summary>
+            设备型号图片文件上传
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.FileLibraryController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.FileLibraryController.FileLibraryContract">
+            <summary>
+            文件库契约
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.FileLibraryController.GetFileLibraryListOrPages(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            获取文件库List或分页
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.FileLibraryController.PostDoFileLibraryUpload">
+            <summary>
+            文件库文件上传
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.FileLibraryController.PostDoFaceLibraryUpload">
+            <summary>
+            人脸照片上传
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.FileLibraryController.PostDoFaceLibraryUpload1">
+            <summary>
+            人脸照片上传
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.FileLibraryController.PostDoRemove(Bussiness.Entitys.FileLibrary)">
+            <summary>
+            删除文件
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.HistoryInController">
+            <summary>
+            历史入库信息
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.HistoryInController.HistoryInContract">
+            <summary>
+            历史入库信息
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.HistoryInController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.HistoryInController.DoDownLoadTemp(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            导出历史入库信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.HistoryOutController">
+            <summary>
+            历史入库信息
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.HistoryOutController.HistoryOutContract">
+            <summary>
+            历史出库信息
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.HistoryOutController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.HistoryOutController.DoDownLoadTemp(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            导出历史出库信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.MouldInformationController">
+            <summary>
+            模具信息
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.MouldInformationController.MouldInformationContract">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MouldInformationController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MouldInformationController.PostDoCreate(Bussiness.Entitys.MouldInformation)">
+            <summary>
+            post方式-添加数据时调用
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MouldInformationController.PostDoEdit(Bussiness.Entitys.MouldInformation)">
+            <summary>
+            更改数据时调用
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MouldInformationController.PostDoDelete(Bussiness.Entitys.MouldInformation)">
+            <summary>
+            删除数据时调用
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.OutTaskController">
+            <summary>
+            出库任务管理 
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.OutTaskController.OutTaskContract">
+            <summary>
+            出库数据库操作
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.OutTaskController.OutContract">
+            <summary>
+            出库数据库操作
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutTaskController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutTaskController.GetOutTaskMaterialList(System.String)">
+            <summary>
+            获取出库任务物料信息
+            </summary>
+            <param name="OutTaskCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutTaskController.GetOutTaskMaterialStatusList(System.String)">
+            <summary>
+            获取出库任务物料信息
+            </summary>
+            <param name="OutTaskCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutTaskController.PostTaskMaterialLabelList(Bussiness.Dtos.OutTaskMaterialDto)">
+            <summary>
+            获取推荐物料信息
+            </summary>
+            <param name="KeyValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutTaskController.PostDoCreate(Bussiness.Entitys.Out)">
+            <summary>
+            创建出库任务
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutTaskController.PostDoDelete(Bussiness.Entitys.OutTask)">
+            <summary>
+            删除出库任务单
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutTaskController.ConfirmHandPicked(Bussiness.Dtos.OutTaskMaterialDto)">
+            <summary>
+            手动执行下架
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutTaskController.PostDoStartContrainer(Bussiness.Dtos.OutTaskMaterialDto)">
+            <summary>
+            启动货架
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutTaskController.PostRestoreContrainer(Bussiness.Dtos.OutTaskMaterialDto)">
+            <summary>
+            存入货柜
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutTaskController.PostClientStockList(Bussiness.Dtos.OutTaskMaterialLabelDto)">
+            <summary>
+            获取库位码信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutTaskController.PostDoSendOrder(Bussiness.Entitys.OutTask)">
+            <summary>
+            发送亮灯任务
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutTaskController.PostManualOutList(Bussiness.Dtos.OutTaskDto)">
+            <summary>
+            客户端手动出库
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.InTaskController">
+            <summary>
+            入库任务管理
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.InTaskController.InTaskContract">
+            <summary>
+            入库数据库操作
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.InTaskController.MaterialContract">
+            <summary>
+            物料管理接口
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.InTaskController.WareHouseContract">
+            <summary>
+            仓库管理接口
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.InTaskController.SupplyContract">
+             <summary>
+            供应商管理接口
+             </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InTaskController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InTaskController.GetInTaskMaterialList(System.String)">
+            <summary>
+            获取入库任务物料信息
+            </summary>
+            <param name="inTaskCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InTaskController.GetInTaskMaterialStatusList(System.String)">
+            <summary>
+            获取入库任务物料信息
+            </summary>
+            <param name="inTaskCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InTaskController.GetMaterialList(System.String)">
+            <summary>
+            获取物料信息
+            </summary>
+            <param name="KeyValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InTaskController.PostDoCreate(Bussiness.Entitys.In)">
+            <summary>
+            创建入库任务
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InTaskController.GetWareHouseList">
+            <summary>
+            获取仓库信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InTaskController.PostDoDelete(Bussiness.Entitys.InTask)">
+            <summary>
+            删除入库任务单
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InTaskController.GetLocationList(Bussiness.Entitys.InTaskMaterial)">
+            <summary>
+            获取库位码信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InTaskController.PostClientLocationList(Bussiness.Dtos.InTaskMaterialDto)">
+            <summary>
+            获取库位码信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InTaskController.PostDoHandShelf(Bussiness.Dtos.InTaskMaterialDto)">
+            <summary>
+            手动执行上架
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InTaskController.PostDoStartContrainer(Bussiness.Dtos.InTaskMaterialDto)">
+            <summary>
+            启动货架
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InTaskController.PostRestoreContrainer(Bussiness.Dtos.InTaskMaterialDto)">
+            <summary>
+            存入货柜
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InTaskController.PostDoSendOrder(Bussiness.Entitys.InTask)">
+            <summary>
+            发送亮灯任务
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InTaskController.PostManualInList(Bussiness.Dtos.InTaskDto)">
+            <summary>
+            客户端手动上架
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.InController">
+            <summary>
+            入库管理
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.InController.InContract">
+            <summary>
+            入库数据库操作
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InController.PostDoCreate(Bussiness.Entitys.In)">
+            <summary>
+            创建入库单
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InController.GetInterfaceIn">
+            <summary>
+            接口同步入库单
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InController.PostDoDelete(Bussiness.Entitys.In)">
+            <summary>
+            删除入库单
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InController.PostDoUpdate(Bussiness.Entitys.In)">
+            <summary>
+            编辑入库单
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InController.PostDoCancel(Bussiness.Entitys.In)">
+            <summary>
+            作废入库单
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InController.PostDoShelf(Bussiness.Entitys.In)">
+            <summary>
+            执行亮灯操作
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InController.GetNeedShelfPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            获取待上架物料条码
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InController.GetLocationList(System.String,System.String)">
+            <summary>
+            获取库位码信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InController.PostDoHandShelf(Bussiness.Entitys.InMaterial)">
+            <summary>
+            手动执行上架
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InController.GetInMaterialByLabel(System.String)">
+            <summary>
+            获取物料条码信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InController.PostDoSendOrder(Bussiness.Entitys.In)">
+            <summary>
+            发送亮灯任务
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InController.DoUpLoadInInfo">
+            <summary>
+            导入入库信息
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.InController.DoDownLoadTemp">
+            <summary>
+            从WebAPI下载文件
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.LabelController">
+            <summary>
+            标签管理
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.LabelController.LabelContract">
+            <summary>
+            标签信息
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.LabelController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.LabelController.GetLabelByCode(System.String)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.LabelController.PostDoCreateBatchLabel(Bussiness.Dtos.LabelDto)">
+            <summary>
+            生成条码
+            </summary>
+            <param name="entityDto">入库物料行项目</param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.LabelController.PostQueryHistoryLabel(Bussiness.Entitys.Label)">
+            <summary>
+            查询历史标签信息
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.MaterialController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.MaterialController.MaterialContract">
+            <summary>
+            物料信息
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.MaterialController.WareHouseContract">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.MaterialController.BoxRepository">
+            <summary>
+            载具箱仓储
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MaterialController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MaterialController.PostDoCreate(Bussiness.Dtos.MaterialDto)">
+            <summary>
+            创建
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MaterialController.PostDoEdit(Bussiness.Dtos.MaterialDto)">
+            <summary>
+            编辑
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MaterialController.PostDoDelete(Bussiness.Entitys.Material)">
+            <summary>
+            删除
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MaterialController.DoDownLoad(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            导出物料信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MaterialController.DoDownLoadTemp">
+            <summary>
+            从WebAPI下载文件
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MaterialController.DoUpLoadMaterialInfo">
+            <summary>
+            导入入库信息
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.MobileLocationController">
+            <summary>
+            移库查看
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.MobileLocationController.WareHouseContract">
+            <summary>
+            仓库信息
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.MobileLocationController.StockContract">
+            <summary>
+            库存信息
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MobileLocationController.GetWareHouseList">
+            <summary>
+            获取仓库信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MobileLocationController.GetMaterialLabelListByWareHouseCode(System.String)">
+            <summary>
+            根据仓库编码获取物料条码信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MobileLocationController.GetAreaTreeData(System.String)">
+            <summary>
+            获取仓库下的区域库位信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MobileLocationController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            获取首页分页数据
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MobileLocationController.GetLocationPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MobileLocationController.CreateMobileLocation(Bussiness.Entitys.MobileLocation)">
+            <summary>
+            创建库位移动单
+            </summary>
+            <param name="moblieLocation"></param>
+            <returns></returns>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.NumAlarmController.StockContract">
+            <summary>
+            库存信息
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.NumAlarmController.NumAlarmContract">
+            <summary>
+            库存上下限预警信息
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.NumAlarmController.PostDoCheck">
+            <summary>
+            核查库存是否存在报警
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.NumAlarmController.DoDownLoadTemp(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            导出信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.OutController.OutContract">
+            <summary>
+            入库数据库操作
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutController.PostDoCancel(Bussiness.Entitys.Out)">
+            <summary>
+            作废入库单
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutController.GetInterfaceOut">
+            <summary>
+            接口同步入库单
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutController.GetLocationList(System.String)">
+            <summary>
+            获取库位码信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutController.GetCombineOutMaterialList(System.String)">
+            <summary>
+            获取合并拣货信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutController.DoUpLoadOutInfo">
+            <summary>
+            导入出库信息
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.OutController.DoDownLoadTemp">
+            <summary>
+            从WebAPI下载文件
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.ReceiveController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.ReceiveController.ReceiveContract">
+            <summary>
+            领用单数据库操作
+            </summary>
+            
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.ReceiveController.MaterialContract">
+            <summary>
+            获取物料信息
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.ReceiveController.MouldInformationContract">
+            <summary>
+            模具
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.ReceiveController.SequenceContract">
+             <summary>
+            自动生成编码
+             </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.ReceiveController.WareHouseContract">
+            <summary>
+            获取仓库
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.ReceiveController.IdentityContract">
+            <summary>
+            用户
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            获取领用单数据
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveController.GetWareHouseList">
+            <summary>
+            获取仓库信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveController.GetReceiveMaterialList(System.String)">
+            <summary>
+            获取领用明细信息
+            </summary>
+            <param name="Code"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveController.GetMaterialList(System.String)">
+            <summary>
+            获取物料信息
+            </summary>
+            <param name="KeyValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveController.GetInterfaceReceive">
+            <summary>
+            接口同步入库单
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveController.DoUpLoadInInfo">
+            <summary>
+            导入领用单信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveController.PostDoDelete(Bussiness.Entitys.Receive)">
+            <summary>
+            删除
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveController.PostDoCreate(Bussiness.Entitys.Receive)">
+            <summary>
+            添加数据时调用
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveController.PostDoUpdate(Bussiness.Entitys.Receive)">
+            <summary>
+            编辑领用单
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveController.PostDoCancellatione(Bussiness.Entitys.Receive)">
+            <summary>
+            作废领用单
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveController.DoDownLoadTemp">
+            <summary>
+            从WebAPI下载文件领用单模板
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.ReceiveTaskController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.ReceiveTaskController.ReceiveTaskContract">
+            <summary>
+            领用任务数据库操作
+            </summary>
+            
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.ReceiveTaskController.WareHouseContract">
+            <summary>
+            获取仓库
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveTaskController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            获取领用任务数据
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveTaskController.GetHistoryPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            获取领用任务数据
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveTaskController.GetReceiveTaskDetailList(System.String)">
+            <summary>
+            获取领用任务明细信息
+            </summary>
+            <param name="Code"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveTaskController.GetWareHouseList">
+            <summary>
+            获取仓库信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveTaskController.PostDoCreate(Bussiness.Entitys.Receive)">
+            <summary>
+            添加数据时调用
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveTaskController.PostDoDelete(Bussiness.Entitys.ReceiveTask)">
+            <summary>
+            删除
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveTaskController.PostHandShelfReceiveTask(Bussiness.Entitys.ReceiveTaskDetail)">
+            <summary>
+            执行
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveTaskController.PostReturn(Bussiness.Entitys.ReceiveTaskDetail)">
+            <summary>
+            归还
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.ReceiveTaskController.DoDownLoadTemp(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            导出历史出库信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.StockController.StockContract">
+            <summary>
+            物料信息
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.StockController.GetMaterialPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.StockController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.StockController.GetLocationStockByLayoutId(System.String)">
+            <summary>
+            获取库位库存信息-设备信息，可视化部分
+            </summary>
+            <param name="layoutId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.StockController.GetInactiveStockPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            获取库存呆滞料信息
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.StockController.GetMaterialStatusPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            获取物料状态信息
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.StockController.GetMaterialStatusList(System.String)">
+            <summary>
+            获取单个物料状态信息
+            </summary>
+            <param name="MaterialCode">查询的物料编码</param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.StockController.GetInventoryStatusPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            获取库存状态信息
+            </summary>
+            <param name="pageCondition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.StockController.DoDownLoadTemp">
+            <summary>
+            从WebAPI下载文件
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.StockController.DoUpLoadInInfo">
+            <summary>
+            导入库存信息
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.StockController.DoDownLoadLabelStock(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            导出区域库位信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.StockController.DoInactiveStock(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            导出呆滞料信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.StockController.DoDownStockAge(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            导出库龄报表信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.StockController.DoDownLoadMaterialStock(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            导出库存信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.MaterialPropertyController.MaterialPropertyContract">
+            <summary>
+            物料属性组信息
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MaterialPropertyController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.MaterialPropertyController.GetMaterialPropertyList">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.SupplyController.SupplyContract">
+            <summary>
+            供应商信息
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.SupplyController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.SupplyController.PostDoCreate(Bussiness.Entitys.Supply)">
+            <summary>
+            创建
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.SupplyController.PostDoEdit(Bussiness.Entitys.Supply)">
+            <summary>
+            编辑
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.SupplyController.PostDoDelete(Bussiness.Entitys.Supply)">
+            <summary>
+            删除
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.SupplyController.GetSupplierList(System.String)">
+            <summary>
+            post
+            </summary>
+            <param name="KeyValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.SupplyController.DoDownLoadTemp">
+            <summary>
+            从WebAPI下载文件
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.SupplyController.DoDownLoadTempSupply(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            导出信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.SupplyController.DoUpLoadSupplyInfo">
+            <summary>
+            导入供应商信息
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DF.Web.Areas.BussinessApi.Controllers.WareHouseController">
+            <summary>
+            仓库
+            </summary>
+        </member>
+        <member name="P:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.WareHouseContract">
+            <summary>
+            物料信息
+            </summary>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.GetWareHouseTreeData(System.Int32)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.GetMaterialPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.GetPageRecords(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            分页数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.GetLocationByLayoutId(System.String)">
+            <summary>
+            根据LayoutId获取库位信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.GetLocationByTrayId(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="layoutId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.GetTrayById(System.Int32)">
+            <summary>
+            根据Id获取托盘信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.GetTrayLayoutById(System.Int32)">
+            <summary>
+            根据Id获取托盘信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.GetWareHouseTreeDataByUserCode(System.String,System.String)">
+            <summary>
+            分页数据-获取不同类别仓库数据信息，根据用户编码
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.GetDoCheckAuth(System.Int32)">
+            <summary>
+            核验人员权限
+            </summary>
+            <param name="trayId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.GetDoCheckAuthClient(System.Int32)">
+            <summary>
+            核验人员权限
+            </summary>
+            <param name="trayId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.PostDoCreateWareHouse(Bussiness.Entitys.WareHouse)">
+            <summary>
+            创建仓库
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.PostDoEditWareHouse(Bussiness.Entitys.WareHouse)">
+            <summary>
+            编辑仓库
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.PostDoDeleteWareHouse(Bussiness.Entitys.WareHouse)">
+            <summary>
+            删除仓库
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.PostDoCreateContainer(Bussiness.Dtos.ContainerDto)">
+            <summary>
+            创建货柜
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.PostDoEditContainer(Bussiness.Entitys.Container)">
+            <summary>
+            编辑货柜
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.PostDoDeleteContainer(Bussiness.Entitys.Container)">
+            <summary>
+            删除货柜
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.AddBatchTrayUserMap(Bussiness.Entitys.TrayUserMap)">
+            <summary>
+            维护货柜权限
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.GetTrayUserMapByTrayId(System.Int32)">
+            <summary>
+            获取托盘权限
+            </summary>
+            <param name="trayId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.PostDoCreateTray(Bussiness.Entitys.Tray)">
+            <summary>
+            创建托盘
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.PostDoEditTray(Bussiness.Entitys.Tray)">
+            <summary>
+            编辑托盘
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.PostDoDeleteTray(Bussiness.Entitys.Tray)">
+            <summary>
+            删除托盘
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.PostDoEditTrayLocation(Bussiness.Entitys.Tray)">
+            <summary>
+            维护托盘储位
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.PostDoDeleteLocation(Bussiness.Entitys.Location)">
+            <summary>
+            删除库位
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.PostDoDeleteLocationByLayoutId(Bussiness.Entitys.Location)">
+            <summary>
+            删除库位--根据layoutId
+            </summary>
+            <param name="layoutId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.GetMaterialList(System.String)">
+            <summary>
+            获取物料信息
+            </summary>
+            <param name="KeyValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.GetWareHouseLocations(System.String)">
+            <summary>
+            获取仓库库位信息——打印
+            </summary>
+            <param name="KeyValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.GetAreaLocations(System.String)">
+            <summary>  
+            获取仓库库位信息——打印
+            </summary>
+            <param name="KeyValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.GetTrayLocations(System.String)">
+            <summary>  
+            获取仓库库位信息——打印
+            </summary>
+            <param name="KeyValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.PostStartContainer(Bussiness.Entitys.Tray)">
+            <summary>
+            启动货柜
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.PostRestoreContainer(Bussiness.Entitys.Location)">
+            <summary>
+            存入货柜
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.DoDownLocaitonInfo(HP.Web.Mvc.Pagination.MvcPageCondition)">
+            <summary>
+            导出区域库位信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.GetLocationListByWareHouseCodeAndShelfCode(System.String)">
+            <summary>
+            获取当前仓库的所有货柜、托盘、库位信息
+            </summary>
+            <param name="wareHouseCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DF.Web.Areas.BussinessApi.Controllers.WareHouseController.DoUpLoadInInfo">
+            <summary>
+            导入物料储位信息
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="P:DF.Web.Models.ToDo.Title">
+            <summary>
+            标题
+            </summary>
+        </member>
+        <member name="P:DF.Web.Models.ToDo.Description">
+            <summary>
+            描述
+            </summary>
+        </member>
+        <member name="P:DF.Web.Models.ToDo.Lvl">
+            <summary>
+            等级
+            </summary>
+        </member>
+        <member name="P:DF.Web.Models.ToDo.Status">
+            <summary>
+            状态
+            </summary>
+        </member>
+        <member name="T:DF.Web.WebApiConfig.JsonContentNegotiator">
+            <summary>
+            webapi 返回XML转Json
+            增加一个实现IContentNegotiator 接口的类 JsonContentNegotiator
+            </summary>
+        </member>
+    </members>
+</doc>

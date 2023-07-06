@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg class="icon" width="200px" height="200.00px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<script>
+<![CDATA[
+window.onload = timer()
+		function timer(){
+			setInterval("setColor()",100)
+		}
+		
+	      function setColor()
+	      {
+          var colo = document.getElementById("cs").style.fill;
+          if(colo === 'rgb(138, 138, 138)') {
+            document.getElementById("cs").style.fill = '#d4237a';
+          } else {
+            document.getElementById("cs").style.fill = '#8a8a8a';
+          }
+	          
+	      }
+]]>
+</script>
+<path id="cs" fill="#000000" d="M902.4 32v83.2H121.6V32H32v960h89.6v-147.2h780.8v147.2h89.6V32h-89.6z m0 172.8v230.4H121.6V204.8h780.8zM121.6 755.2V524.8h780.8v230.4H121.6zM198.4 275.2h153.6v89.6H198.4zM435.2 275.2h153.6v89.6H435.2zM672 275.2h153.6v89.6h-153.6zM198.4 601.6h153.6v89.6H198.4zM435.2 601.6h153.6v89.6H435.2zM672 601.6h153.6v89.6h-153.6z" />
+</svg>

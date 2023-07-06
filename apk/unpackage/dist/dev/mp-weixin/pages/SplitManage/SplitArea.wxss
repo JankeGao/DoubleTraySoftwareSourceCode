@@ -1,0 +1,12 @@
+
+.title {
+	font-size: 32rpx;
+	color: #666;
+}
+.box {
+	margin: 20rpx;
+}
+button {
+	font-size: 24rpx;
+}
+

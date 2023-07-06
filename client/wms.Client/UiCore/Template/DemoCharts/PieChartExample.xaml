@@ -1,0 +1,66 @@
+﻿<UserControl x:Class="wms.Client.UiCore.Template.DemoCharts.PieChartExample"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d"  Width="auto" Height="auto">
+    
+    <Grid>
+        <Border  CornerRadius="5" Background="White"/>
+        <Grid  Margin="5">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <StackPanel Margin="5 0 0 0"  VerticalAlignment="Center">
+                <TextBlock Text="出库物料统计" FontSize="22" VerticalAlignment="Center" Foreground="#6C757D"/>
+                <!--<TextBlock Text="Year 2018" FontSize="15"  Foreground="#6C757D"/>-->
+            </StackPanel>
+            <materialDesign:PopupBox HorizontalAlignment="Right" Foreground="#6C757D" PlacementMode="BottomAndAlignRightEdges" StaysOpen="False" />
+            <lvc:PieChart Grid.Row="1" LegendLocation="Right" Series="{Binding SeriesPie}">
+                <lvc:PieChart.AxisY>
+                    <lvc:Axis Title="Calificaciones"/>
+                </lvc:PieChart.AxisY>
+                <lvc:PieChart.AxisX>
+                    <lvc:Axis Labels="{Binding Labels}" Title="Alumnos">
+                    </lvc:Axis>
+                </lvc:PieChart.AxisX>
+            </lvc:PieChart>
+
+            <!--<lvc:PieChart Grid.Row="1"  LegendLocation="Top" DataClick="Chart_OnDataClick" Hoverable="False" DataTooltip="{x:Null}" Series="{Binding SeriesCollection}">
+                --><!--<lvc:PieSeries Title="{Binding Name1}" Values="{Binding Value1}" DataLabels="True"
+                               LabelPoint="{Binding PointLabel}"/>-->
+                <!--<lvc:PieChart.Series>
+                    <lvc:PieSeries Title="{Binding Name1}" Values="{Binding Value1}" DataLabels="True"
+                               LabelPoint="{Binding PointLabel}"/>
+                    <lvc:PieSeries Title="{Binding Name2}" Values="{Binding Value2}" DataLabels="True" 
+                               LabelPoint="{Binding PointLabel}"/>
+                    --><!--<lvc:PieSeries Title="{Binding Name3}" Values="{Binding Value3}" DataLabels="True" 
+                               LabelPoint="{Binding PointLabel}"/>
+                    <lvc:PieSeries Title="{Binding Name4}" Values="{Binding Value4}" DataLabels="True" 
+                               LabelPoint="{Binding PointLabel}"/>
+                    <lvc:PieSeries Title="{Binding Name5}" Values="{Binding Value5}" DataLabels="True" 
+                                   LabelPoint="{Binding PointLabel}"/>--><!--
+                </lvc:PieChart.Series>-->
+                <!--<ItemsControl ItemsSource="{Binding ModuleTopOutGroups}">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <WrapPanel Orientation="Horizontal" />
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <WrapPanel Orientation="Vertical" Margin="10">
+                                <lvc:PieSeries Title="{Binding Name}" Values="{Binding Value}" DataLabels="True" 
+                                               LabelPoint="{Binding PointLabel}"/>
+                            </WrapPanel>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>--><!--
+            </lvc:PieChart>-->
+
+        </Grid>
+    </Grid>
+</UserControl>

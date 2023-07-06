@@ -1,0 +1,45 @@
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\Bussiness.dll.config
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\Bussiness.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\Bussiness.pdb
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\Autofac.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\HP.Core.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\HP.Data.Orm.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\HP.Utility.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\HPC.BaseService.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\Newtonsoft.Json.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\NPOI.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\NPOI.OOXML.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\NPOI.OpenXml4Net.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\Autofac.xml
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\HP.Core.pdb
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\HP.Data.Orm.pdb
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\Newtonsoft.Json.xml
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\bin\Debug\NPOI.xml
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\obj\Debug\EZY.Bussiness.csproj.CopyComplete
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\obj\Debug\Bussiness.dll
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\obj\Debug\Bussiness.pdb
+E:\0 淡黄网络\0 项目\0 ezy-wms\src 2.0\ezywms2.0\EZYWMS\Bussiness\obj\Debug\EZY.Bussiness.csprojAssemblyReference.cache
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Bussiness.dll.config
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Bussiness.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Bussiness.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Autofac.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Core.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Data.Orm.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Utility.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HPC.BaseService.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Newtonsoft.Json.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\NPOI.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\NPOI.OOXML.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\NPOI.OpenXml4Net.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Autofac.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Core.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\HP.Data.Orm.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Newtonsoft.Json.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\NPOI.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\obj\Debug\EZY.Bussiness.csproj.CopyComplete
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\obj\Debug\Bussiness.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\obj\Debug\Bussiness.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\bin\Debug\Register.exe
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\Bussiness\obj\Debug\EZY.Bussiness.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "拆盘条码确认",
+  "usingComponents": {
+    "uni-card": "/components/uni-card/uni-card",
+    "t-table": "/components/t-table/t-table",
+    "t-th": "/components/t-table/t-th",
+    "t-tr": "/components/t-table/t-tr",
+    "t-td": "/components/t-table/t-td"
+  }
+}

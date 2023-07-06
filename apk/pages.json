@@ -1,0 +1,109 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+/* 				"navigationBarTitleText": "登陆",
+				 "navigationBarTextStyle":"custom" */
+				 "navigationStyle":"custom"
+			}
+		}
+        ,{
+            "path" : "pages/main/main",
+            "style" : {
+				"navigationBarTitleText": "功能模块"
+			}
+        }
+        ,{
+            "path" : "pages/Shelf/Shelf",
+            "style" : {
+				"navigationBarTitleText": "上架"
+			}
+        }
+        ,{
+            "path" : "pages/ShelfDown/ShelfDown",
+          "style" : {
+          	"navigationBarTitleText": "拣货单"
+          }
+        }
+        ,{
+            "path" : "pages/ShelfDown/PickArea",
+            "style" : {
+				"navigationBarTitleText": "拣货区域"
+			}
+        }
+        ,{
+            "path" : "pages/ShelfDown/CancelPickMaterialLabel",
+            "style" : {
+				"navigationBarTitleText": "作废拣货条码"
+			}
+        }
+        ,{
+            "path" : "pages/StockMove/StockMove",
+            "style" : {
+				"navigationBarTitleText": "移库"
+			}
+			
+        }
+        ,{
+            "path" : "pages/StockDelete/StockDelete",
+           "style" : {
+           	"navigationBarTitleText": "直接下架"
+           }
+        }
+        ,{
+            "path" : "pages/PickLabelConfirm/PickLabelConfirm",
+            "style" : {
+				 	"navigationBarTitleText": "复核"
+			}
+        }
+        ,{
+            "path" : "pages/PickLabelConfirm/Confirm",
+            "style" : {
+				"navigationBarTitleText": "复核"
+			}
+        }
+        ,{
+            "path" : "pages/SplitManage/SplitDown",
+            "style" : {
+				"navigationBarTitleText": "拆盘下架"
+			}
+        }
+        ,{
+            "path" : "pages/SplitManage/SplitArea",
+            "style" : {
+				"navigationBarTitleText": "拆分区域任务"
+			}
+        }
+        ,{
+            "path" : "pages/SplitManage/CancelSplitMaterialLabel",
+            "style" : {
+				"navigationBarTitleText": "作废拆盘条码"
+			}
+        }
+        ,{
+            "path" : "pages/SplitManage/SplitConfirm",
+            "style" : {
+				"navigationBarTitleText": "拆盘确认"
+			}
+        }
+        ,{
+            "path" : "pages/SplitManage/SplitLabelConfirm",
+            "style" : {
+				"navigationBarTitleText": "拆盘条码确认"
+			}
+        }
+        ,{
+            "path" : "pages/SplitManage/SplitShelf",
+            "style" : {
+				"navigationBarTitleText": "拆盘上架"
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

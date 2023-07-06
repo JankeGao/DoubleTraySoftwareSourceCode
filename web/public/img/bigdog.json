@@ -1,0 +1,3836 @@
+{
+    "data": {
+        "building": {
+            "_xLon": -4.8366978272229995e-26,
+            "_yLat": -4.8366978272229995e-26,
+            "adcode": "",
+            "address": "",
+            "area": 0,
+            "brief": "",
+            "floorsId": "1",
+            "frontAngle": -0.8193910433119063,
+            "groundFloors": 1,
+            "height": 0,
+            "mall": 1666657,
+            "name": "未命名建筑",
+            "name_en": "",
+            "outline": [
+                [
+                    [
+                    ]
+                ]
+            ],
+            "tel": "",
+            "time": "",
+            "type": "0",
+            "underFloors": 0,
+            "version": -1163005939
+        },
+        "floors": [
+            {
+                "_id": 1,
+                "area": 70654,
+                "brief": "大狗创工厂",
+                "funcAreas": [
+                    {
+                        "_id": 1723235,
+                        "area": 1975,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 109,
+                        "center": [
+                            1206,
+                            -743
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "多功能厅",
+                        "name_en": "duogongneng",
+                        "outline": [
+                            [
+                                [
+                                    1026,
+                                    -468,
+                                    1387,
+                                    -471,
+                                    1387,
+                                    -1017,
+                                    1027,
+                                    -1018
+                                ]
+                            ]
+                        ],
+                        "shopNo": "2",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1747583,
+                        "area": 884,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 101,
+                        "center": [
+                            1207,
+                            -1140
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "813",
+                        "name_en": "huiyi",
+                        "outline": [
+                            [
+                                [
+                                    1027,
+                                    -1017,
+                                    1029,
+                                    -1262,
+                                    1387,
+                                    -1266,
+                                    1387,
+                                    -1018
+                                ]
+                            ]
+                        ],
+                        "shopNo": "1",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1725822,
+                        "area": 364,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 109,
+                        "center": [
+                            723,
+                            -994
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "咖啡厅",
+                        "name_en": "coffee",
+                        "outline": [
+                            [
+                                [
+                                    654,
+                                    -862,
+                                    655,
+                                    -1126,
+                                    792,
+                                    -1128,
+                                    792,
+                                    -862
+                                ]
+                            ]
+                        ],
+                        "shopNo": "4",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1741079,
+                        "area": 4313,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 109,
+                        "center": [
+                            288,
+                            -846
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "路演厅",
+                        "name_en": "luyan",
+                        "outline": [
+                            [
+                                [
+                                    -36,
+                                    -1016,
+                                    -38,
+                                    -1123,
+                                    587,
+                                    -1128,
+                                    583,
+                                    -1020,
+                                    584,
+                                    -1020,
+                                    587,
+                                    -726,
+                                    675,
+                                    -726,
+                                    670,
+                                    -470,
+                                    -37,
+                                    -467,
+                                    -37,
+                                    -726,
+                                    -38,
+                                    -726,
+                                    -36,
+                                    -1016
+                                ]
+                            ]
+                        ],
+                        "shopNo": "6",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1739450,
+                        "area": 679,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 109,
+                        "center": [
+                            440,
+                            -1234
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "休息区",
+                        "name_en": "xiuxi",
+                        "outline": [
+                            [
+                                [
+                                    -145,
+                                    -1265,
+                                    1025,
+                                    -1262,
+                                    1027,
+                                    -1206,
+                                    -146,
+                                    -1205
+                                ]
+                            ]
+                        ],
+                        "shopNo": "5",
+                        "sortType": 0,
+                        "type": "400"
+                    },
+                    {
+                        "_id": 1735262,
+                        "area": 546,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            -190,
+                            -555
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "812新邻里科技",
+                        "name_en": "jiaju",
+                        "outline": [
+                            [
+                                [
+                                    -343,
+                                    -467,
+                                    -37,
+                                    -466,
+                                    -38,
+                                    -645,
+                                    -343,
+                                    -646
+                                ]
+                            ]
+                        ],
+                        "shopNo": "7",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 1722767,
+                        "area": 141,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 104,
+                        "center": [
+                            -120,
+                            -688
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "音控室",
+                        "name_en": "yinkong",
+                        "outline": [
+                            [
+                                [
+                                    -202,
+                                    -646,
+                                    -202,
+                                    -731,
+                                    -39,
+                                    -733,
+                                    -38,
+                                    -645
+                                ]
+                            ]
+                        ],
+                        "shopNo": "8",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1726244,
+                        "area": 238,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 105,
+                        "center": [
+                            -388,
+                            -598
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "设备间",
+                        "name_en": "device",
+                        "outline": [
+                            [
+                                [
+                                    -433,
+                                    -467,
+                                    -343,
+                                    -466,
+                                    -343,
+                                    -732,
+                                    -433,
+                                    -731
+                                ]
+                            ]
+                        ],
+                        "shopNo": "11",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1718060,
+                        "area": 822,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 106,
+                        "center": [
+                            -590,
+                            -596
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "卫生间",
+                        "name_en": "wc",
+                        "outline": [
+                            [
+                                [
+                                    -746,
+                                    -464,
+                                    -435,
+                                    -467,
+                                    -433,
+                                    -731,
+                                    -749,
+                                    -725
+                                ]
+                            ]
+                        ],
+                        "shopNo": "10",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1724688,
+                        "area": 2640,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            -447,
+                            -1047
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "811激跃网络科技",
+                        "name_en": "office11",
+                        "outline": [
+                            [
+                                [
+                                    -750,
+                                    -830,
+                                    -143,
+                                    -832,
+                                    -143,
+                                    -1266,
+                                    -753,
+                                    -1264
+                                ]
+                            ]
+                        ],
+                        "shopNo": "9",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 1730818,
+                        "area": 3541,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            -1166,
+                            -886
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "810百佬汇科技",
+                        "name_en": "office10",
+                        "outline": [
+                            [
+                                [
+                                    -1422,
+                                    -590,
+                                    -1209,
+                                    -589,
+                                    -1212,
+                                    -717,
+                                    -1096,
+                                    -715,
+                                    -1096,
+                                    -829,
+                                    -751,
+                                    -832,
+                                    -753,
+                                    -1264,
+                                    -1096,
+                                    -1265,
+                                    -1099,
+                                    -1265,
+                                    -1423,
+                                    -1262,
+                                    -1420,
+                                    -720,
+                                    -1422,
+                                    -590
+                                ]
+                            ]
+                        ],
+                        "shopNo": "12",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 1739592,
+                        "area": 661,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 103,
+                        "center": [
+                            -1252,
+                            -366
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "书画房",
+                        "name_en": "shuahua",
+                        "outline": [
+                            [
+                                [
+                                    -1425,
+                                    -271,
+                                    -1081,
+                                    -271,
+                                    -1081,
+                                    -466,
+                                    -1426,
+                                    -460
+                                ]
+                            ]
+                        ],
+                        "shopNo": "15",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1723086,
+                        "area": 373,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 109,
+                        "center": [
+                            -861,
+                            -350
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "茶水间",
+                        "name_en": "chashui",
+                        "outline": [
+                            [
+                                [
+                                    -982,
+                                    -271,
+                                    -744,
+                                    -274,
+                                    -742,
+                                    -429,
+                                    -980,
+                                    -430
+                                ]
+                            ]
+                        ],
+                        "shopNo": "14",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1748834,
+                        "area": 353,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 109,
+                        "center": [
+                            -1319,
+                            -183
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "办公室",
+                        "name_en": "office211",
+                        "outline": [
+                            [
+                                [
+                                    -1420,
+                                    -97,
+                                    -1218,
+                                    -97,
+                                    -1218,
+                                    -271,
+                                    -1425,
+                                    -269
+                                ]
+                            ]
+                        ],
+                        "shopNo": "17",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1730789,
+                        "area": 362,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 109,
+                        "center": [
+                            -1321,
+                            -8
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "办公室",
+                        "name_en": "office212",
+                        "outline": [
+                            [
+                                [
+                                    -1425,
+                                    80,
+                                    -1221,
+                                    81,
+                                    -1218,
+                                    -97,
+                                    -1422,
+                                    -97
+                                ]
+                            ]
+                        ],
+                        "shopNo": "18",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1720173,
+                        "area": 356,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 109,
+                        "center": [
+                            -1320,
+                            168
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "办公室",
+                        "name_en": "office213",
+                        "outline": [
+                            [
+                                [
+                                    -1420,
+                                    255,
+                                    -1219,
+                                    256,
+                                    -1219,
+                                    80,
+                                    -1425,
+                                    81
+                                ]
+                            ]
+                        ],
+                        "shopNo": "19",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1730943,
+                        "area": 367,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 103,
+                        "center": [
+                            -1321,
+                            346
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "财务",
+                        "name_en": "caiwu",
+                        "outline": [
+                            [
+                                [
+                                    -1426,
+                                    436,
+                                    -1221,
+                                    436,
+                                    -1219,
+                                    256,
+                                    -1422,
+                                    256
+                                ]
+                            ]
+                        ],
+                        "shopNo": "20",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1737070,
+                        "area": 384,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 103,
+                        "center": [
+                            -1322,
+                            530
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "合伙人",
+                        "name_en": "parter",
+                        "outline": [
+                            [
+                                [
+                                    -1423,
+                                    625,
+                                    -1221,
+                                    625,
+                                    -1221,
+                                    436,
+                                    -1426,
+                                    436
+                                ]
+                            ]
+                        ],
+                        "shopNo": "21",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1727920,
+                        "area": 1169,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 103,
+                        "center": [
+                            -1255,
+                            796
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "总经理室",
+                        "name_en": "manager",
+                        "outline": [
+                            [
+                                [
+                                    -1426,
+                                    969,
+                                    -1084,
+                                    967,
+                                    -1085,
+                                    625,
+                                    -1425,
+                                    625
+                                ]
+                            ]
+                        ],
+                        "shopNo": "22",
+                        "sortType": 0,
+                        "type": "108"
+                    },
+                    {
+                        "_id": 1724526,
+                        "area": 90,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 109,
+                        "center": [
+                            -805,
+                            -517
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "前台",
+                        "name_en": "qiantai",
+                        "outline": [
+                            [
+                                [
+                                    -850,
+                                    -466,
+                                    -763,
+                                    -465,
+                                    -762,
+                                    -569,
+                                    -850,
+                                    -568
+                                ]
+                            ]
+                        ],
+                        "shopNo": "13",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1731141,
+                        "area": 344,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 101,
+                        "center": [
+                            -820,
+                            794
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "会议室",
+                        "name_en": "meeting",
+                        "outline": [
+                            [
+                                [
+                                    -874,
+                                    961,
+                                    -770,
+                                    961,
+                                    -768,
+                                    629,
+                                    -871,
+                                    628
+                                ]
+                            ]
+                        ],
+                        "shopNo": "23",
+                        "sortType": 0,
+                        "type": "101"
+                    },
+                    {
+                        "_id": 1742400,
+                        "area": 314,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 103,
+                        "center": [
+                            -810,
+                            1109
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "家具库",
+                        "name_en": "jiaju",
+                        "outline": [
+                            [
+                                [
+                                    -871,
+                                    1243,
+                                    -750,
+                                    1237,
+                                    -751,
+                                    979,
+                                    -871,
+                                    979
+                                ]
+                            ]
+                        ],
+                        "shopNo": "24",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1748940,
+                        "area": 1659,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            -572,
+                            1570
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "802富链科技",
+                        "name_en": "office2",
+                        "outline": [
+                            [
+                                [
+                                    -749,
+                                    1803,
+                                    -386,
+                                    1800,
+                                    -399,
+                                    1342,
+                                    -756,
+                                    1339
+                                ]
+                            ]
+                        ],
+                        "shopNo": "35",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 1738104,
+                        "area": 1632,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            -212,
+                            1569
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "803亿农优鲜生态",
+                        "name_en": "office3",
+                        "outline": [
+                            [
+                                [
+                                    -385,
+                                    1801,
+                                    -24,
+                                    1795,
+                                    -42,
+                                    1342,
+                                    -397,
+                                    1342
+                                ]
+                            ]
+                        ],
+                        "shopNo": "34",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 1718619,
+                        "area": 1644,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            150,
+                            1568
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "804",
+                        "name_en": "office4",
+                        "outline": [
+                            [
+                                [
+                                    -24,
+                                    1795,
+                                    333,
+                                    1795,
+                                    331,
+                                    1342,
+                                    -38,
+                                    1342
+                                ]
+                            ]
+                        ],
+                        "shopNo": "33",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 1730585,
+                        "area": 1620,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            510,
+                            1567
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "805简体网络",
+                        "name_en": "office5",
+                        "outline": [
+                            [
+                                [
+                                    335,
+                                    1795,
+                                    684,
+                                    1797,
+                                    691,
+                                    1339,
+                                    331,
+                                    1339
+                                ]
+                            ]
+                        ],
+                        "shopNo": "32",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 1740469,
+                        "area": 4683,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            1134,
+                            1455
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "806蝶霈电子商务",
+                        "name_en": "office6",
+                        "outline": [
+                            [
+                                [
+                                    684,
+                                    1797,
+                                    1395,
+                                    1800,
+                                    1396,
+                                    1801,
+                                    1396,
+                                    1800,
+                                    1404,
+                                    1800,
+                                    1396,
+                                    1795,
+                                    1401,
+                                    1342,
+                                    1404,
+                                    1235,
+                                    1402,
+                                    1235,
+                                    1402,
+                                    974,
+                                    1037,
+                                    975,
+                                    1037,
+                                    1240,
+                                    950,
+                                    1241,
+                                    950,
+                                    1339,
+                                    1099,
+                                    1339,
+                                    691,
+                                    1339,
+                                    691,
+                                    1342,
+                                    684,
+                                    1797
+                                ]
+                            ]
+                        ],
+                        "shopNo": "31",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 1731575,
+                        "area": 908,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            496,
+                            1109
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "807哈泥农旅开发",
+                        "name_en": "office7",
+                        "outline": [
+                            [
+                                [
+                                    322,
+                                    1240,
+                                    669,
+                                    1240,
+                                    673,
+                                    979,
+                                    324,
+                                    979
+                                ]
+                            ]
+                        ],
+                        "shopNo": "29",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 1734086,
+                        "area": 906,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            148,
+                            1110
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "808和志科技",
+                        "name_en": "office8",
+                        "outline": [
+                            [
+                                [
+                                    -27,
+                                    1241,
+                                    321,
+                                    1240,
+                                    324,
+                                    979,
+                                    -24,
+                                    981
+                                ]
+                            ]
+                        ],
+                        "shopNo": "28",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 1740067,
+                        "area": 796,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            -177,
+                            1110
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "809",
+                        "name_en": "office9",
+                        "outline": [
+                            [
+                                [
+                                    -331,
+                                    1241,
+                                    -26,
+                                    1242,
+                                    -24,
+                                    980,
+                                    -327,
+                                    979
+                                ]
+                            ]
+                        ],
+                        "shopNo": "27",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 1749265,
+                        "area": 269,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 109,
+                        "center": [
+                            -382,
+                            1111
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "设备间",
+                        "name_en": "device",
+                        "outline": [
+                            [
+                                [
+                                    -433,
+                                    1243,
+                                    -333,
+                                    1242,
+                                    -328,
+                                    979,
+                                    -433,
+                                    981
+                                ]
+                            ]
+                        ],
+                        "shopNo": "26",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1749225,
+                        "area": 781,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 106,
+                        "center": [
+                            -591,
+                            1107
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "卫生间",
+                        "name_en": "wc",
+                        "outline": [
+                            [
+                                [
+                                    -744,
+                                    1233,
+                                    -436,
+                                    1233,
+                                    -435,
+                                    982,
+                                    -750,
+                                    982
+                                ]
+                            ]
+                        ],
+                        "shopNo": "24",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 1731385,
+                        "area": 322,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 109,
+                        "center": [
+                            789,
+                            1057
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "电梯厅#2",
+                        "name_en": "dianti2",
+                        "outline": [
+                            [
+                                [
+                                    675,
+                                    1129,
+                                    904,
+                                    1126,
+                                    907,
+                                    989,
+                                    673,
+                                    987
+                                ]
+                            ]
+                        ],
+                        "shopNo": "124",
+                        "sortType": 0,
+                        "type": "400"
+                    },
+                    {
+                        "_id": 1729557,
+                        "area": 352,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 109,
+                        "center": [
+                            787,
+                            -545
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "电梯厅#1",
+                        "name_en": "dianti1",
+                        "outline": [
+                            [
+                                [
+                                    673,
+                                    -467,
+                                    901,
+                                    -470,
+                                    904,
+                                    -625,
+                                    673,
+                                    -619
+                                ]
+                            ]
+                        ],
+                        "shopNo": "123",
+                        "sortType": 0,
+                        "type": "400"
+                    },
+                    {
+                        "_id": 1992138,
+                        "area": 756,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            -1258,
+                            1682
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "801-4 稻成科技",
+                        "name_en": "daocheng",
+                        "outline": [
+                            [
+                                [
+                                    -1414,
+                                    1804,
+                                    -1103,
+                                    1801,
+                                    -1099,
+                                    1557,
+                                    -1417,
+                                    1567
+                                ]
+                            ]
+                        ],
+                        "shopNo": "",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 2011132,
+                        "area": 1514,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            -925,
+                            1569
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "801-B",
+                        "name_en": "801-B",
+                        "outline": [
+                            [
+                                [
+                                    -1091,
+                                    1800,
+                                    -760,
+                                    1797,
+                                    -760,
+                                    1339,
+                                    -1091,
+                                    1343
+                                ]
+                            ]
+                        ],
+                        "shopNo": "",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 2008722,
+                        "area": 281,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            -1320,
+                            1486
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "801-3 华田科技",
+                        "name_en": "801-3",
+                        "outline": [
+                            [
+                                [
+                                    -1420,
+                                    1560,
+                                    -1223,
+                                    1557,
+                                    -1225,
+                                    1414,
+                                    -1417,
+                                    1414
+                                ]
+                            ]
+                        ],
+                        "shopNo": "2008722",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 2009466,
+                        "area": 328,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            -1322,
+                            1326
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "801-2博泰健康管理",
+                        "name_en": "801-2",
+                        "outline": [
+                            [
+                                [
+                                    -1417,
+                                    1414,
+                                    -1422,
+                                    1241,
+                                    -1227,
+                                    1242,
+                                    -1227,
+                                    1410
+                                ]
+                            ]
+                        ],
+                        "shopNo": "2009466",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 2001037,
+                        "area": 325,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            -1299,
+                            1176
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "801-1立刻网络",
+                        "name_en": "801-1",
+                        "outline": [
+                            [
+                                [
+                                    -1423,
+                                    1242,
+                                    -1425,
+                                    1111,
+                                    -1176,
+                                    1111,
+                                    -1177,
+                                    1243
+                                ]
+                            ]
+                        ],
+                        "shopNo": "",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 2005483,
+                        "area": 250,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 109,
+                        "center": [
+                            -1072,
+                            1178
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "资料室",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1168,
+                                    1247,
+                                    -978,
+                                    1242,
+                                    -978,
+                                    1114,
+                                    -1168,
+                                    1111
+                                ]
+                            ]
+                        ],
+                        "shopNo": "",
+                        "sortType": 0,
+                        "type": "400"
+                    },
+                    {
+                        "_id": 2025496,
+                        "area": 670,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 109,
+                        "center": [
+                            -752,
+                            602
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "800-5荣城和创",
+                        "name_en": "800-5杭州荣城和创信息科技有限公司",
+                        "outline": [
+                            [
+                                [
+                                    -871,
+                                    625,
+                                    -871,
+                                    264,
+                                    -629,
+                                    255,
+                                    -631,
+                                    622,
+                                    -871,
+                                    625,
+                                    -757,
+                                    790,
+                                    -629,
+                                    782,
+                                    -629,
+                                    622,
+                                    -755,
+                                    625,
+                                    -757,
+                                    790,
+                                    -871,
+                                    625
+                                ]
+                            ]
+                        ],
+                        "shopNo": "",
+                        "sortType": 0,
+                        "type": "109"
+                    },
+                    {
+                        "_id": 2017366,
+                        "area": 398,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            -751,
+                            172
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "800-2格罗姆科技",
+                        "name_en": "800-2",
+                        "outline": [
+                            [
+                                [
+                                    -871,
+                                    253,
+                                    -877,
+                                    94,
+                                    -626,
+                                    89,
+                                    -629,
+                                    253
+                                ]
+                            ]
+                        ],
+                        "shopNo": "",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 2002995,
+                        "area": 442,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            -757,
+                            -1
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "800-3传加网络科技",
+                        "name_en": "800-3",
+                        "outline": [
+                            [
+                                [
+                                    -877,
+                                    89,
+                                    -886,
+                                    -89,
+                                    -631,
+                                    -92,
+                                    -634,
+                                    85
+                                ]
+                            ]
+                        ],
+                        "shopNo": "",
+                        "sortType": 0,
+                        "type": "300"
+                    },
+                    {
+                        "_id": 1994209,
+                        "area": 522,
+                        "areaStatus": 1,
+                        "brandShop": -1163005939,
+                        "brief": "",
+                        "category": 0,
+                        "center": [
+                            -775,
+                            -180
+                        ],
+                        "dianping_id": -1,
+                        "mateId": 0,
+                        "name": "800-4札记网路科技",
+                        "name_en": "800-4",
+                        "outline": [
+                            [
+                                [
+                                    -921,
+                                    -89,
+                                    -629,
+                                    -94,
+                                    -629,
+                                    -273,
+                                    -922,
+                                    -267
+                                ]
+                            ]
+                        ],
+                        "shopNo": "",
+                        "sortType": 0,
+                        "type": "300"
+                    }
+                ],
+                "height": 20,
+                "imageLayer": [
+                    {
+                        "brief": "",
+                        "file": "C:/Users/Administrator/Desktop/123456.jpg",
+                        "name": "123456.jpg",
+                        "name_en": ""
+                    }
+                ],
+                "name": "F8",
+                "name_en": "F8",
+                "outline": [
+                    [
+                        [
+                            -1518,
+                            -472,
+                            -1526,
+                            -1339,
+                            1481,
+                            -1339,
+                            1465,
+                            -475,
+                            1468,
+                            -392,
+                            -551,
+                            -397,
+                            -554,
+                            892,
+                            1488,
+                            892,
+                            1485,
+                            1884,
+                            -1518,
+                            1890,
+                            -1523,
+                            892,
+                            -1518,
+                            -472
+                        ]
+                    ]
+                ],
+                "pubPoint": [
+                    {
+                        "_id": 1679508,
+                        "brief": "",
+                        "name": "楼梯间2",
+                        "name_en": "GG",
+                        "outline": [
+                            [
+                                [
+                                    859,
+                                    1091
+                                ]
+                            ]
+                        ],
+                        "type": "21003"
+                    },
+                    {
+                        "_id": 1681667,
+                        "brief": "",
+                        "name": "电梯1",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    839,
+                                    -601
+                                ]
+                            ]
+                        ],
+                        "type": "21003"
+                    },
+                    {
+                        "_id": 1672601,
+                        "brief": "",
+                        "name": "出入口",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1254,
+                                    -522
+                                ]
+                            ]
+                        ],
+                        "type": "22006"
+                    },
+                    {
+                        "_id": 1689109,
+                        "brief": "",
+                        "name": "卫生间",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -562,
+                                    -605
+                                ]
+                            ]
+                        ],
+                        "type": "11001"
+                    },
+                    {
+                        "_id": 1667041,
+                        "brief": "",
+                        "name": "卫生间",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -585,
+                                    1108
+                                ]
+                            ]
+                        ],
+                        "type": "11001"
+                    },
+                    {
+                        "_id": 1678144,
+                        "brief": "",
+                        "name": "出入口",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1258,
+                                    1037
+                                ]
+                            ]
+                        ],
+                        "type": "22006"
+                    },
+                    {
+                        "_id": 1738335,
+                        "brief": "",
+                        "name": "futi",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    970,
+                                    -569
+                                ]
+                            ]
+                        ],
+                        "type": "22006"
+                    },
+                    {
+                        "_id": 1739214,
+                        "brief": "",
+                        "name": "futi",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    973,
+                                    1110
+                                ]
+                            ]
+                        ],
+                        "type": "22006"
+                    },
+                    {
+                        "_id": 1437222,
+                        "brief": "",
+                        "name": "您在这里",
+                        "name_en": "youarehere",
+                        "outline": [
+                            [
+                                [
+                                    891,
+                                    -830
+                                ]
+                            ]
+                        ],
+                        "type": "11004"
+                    }
+                ],
+                "wall": [
+                    {
+                        "_id": 1444728,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1423,
+                                    -1260,
+                                    1387,
+                                    -1270
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1434173,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    1387,
+                                    -1270,
+                                    1390,
+                                    -466
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1429040,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    1390,
+                                    -466,
+                                    1030,
+                                    -466
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1421624,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    1030,
+                                    -466,
+                                    1030,
+                                    -777
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1437070,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    1023,
+                                    -842,
+                                    1023,
+                                    -1018
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1424294,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    1023,
+                                    -1018,
+                                    1387,
+                                    -1023
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1437594,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    1022,
+                                    -1018,
+                                    1025,
+                                    -1105
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1426364,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    1029,
+                                    -1179,
+                                    1029,
+                                    -1264
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1431679,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    904,
+                                    -464,
+                                    -749,
+                                    -466
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1443102,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -749,
+                                    -466,
+                                    -749,
+                                    -451
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1418542,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -749,
+                                    -451,
+                                    -655,
+                                    -448
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1433808,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -655,
+                                    -448,
+                                    -657,
+                                    -286
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1438316,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -743,
+                                    -275,
+                                    -740,
+                                    -444
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1436029,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -743,
+                                    -273,
+                                    -616,
+                                    -275
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1431157,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -616,
+                                    -275,
+                                    -619,
+                                    794
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1432013,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -619,
+                                    794,
+                                    -660,
+                                    794
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1437679,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -660,
+                                    794,
+                                    -660,
+                                    978
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1413420,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -660,
+                                    978,
+                                    901,
+                                    979
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1439492,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    907,
+                                    984,
+                                    907,
+                                    1132
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1428606,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    952,
+                                    1240,
+                                    1033,
+                                    1240
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1428754,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    1033,
+                                    1240,
+                                    1034,
+                                    982
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1427328,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    1034,
+                                    979,
+                                    1402,
+                                    978
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1419093,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    1402,
+                                    978,
+                                    1404,
+                                    1801
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1413533,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    1407,
+                                    1807,
+                                    -1411,
+                                    1802
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1413782,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1411,
+                                    1802,
+                                    -1422,
+                                    1105
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1440453,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1422,
+                                    1105,
+                                    -973,
+                                    1105
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1426258,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -973,
+                                    1105,
+                                    -975,
+                                    1245
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1433594,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -975,
+                                    1245,
+                                    -1171,
+                                    1243
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1440515,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1171,
+                                    1243,
+                                    -1173,
+                                    1114
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1416226,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1429,
+                                    971,
+                                    -1429,
+                                    -464
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1430416,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1429,
+                                    -464,
+                                    -1081,
+                                    -467
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1427885,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1081,
+                                    -467,
+                                    -1078,
+                                    -276
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1445105,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1078,
+                                    -276,
+                                    -1135,
+                                    -275
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1417831,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1212,
+                                    -587,
+                                    -1425,
+                                    -587
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1414300,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1425,
+                                    -587,
+                                    -1426,
+                                    -1258
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1439201,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    667,
+                                    -460,
+                                    673,
+                                    -620
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1440930,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    673,
+                                    -697,
+                                    673,
+                                    -728
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1422419,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    673,
+                                    -728,
+                                    590,
+                                    -727
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1444010,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    590,
+                                    -727,
+                                    584,
+                                    -1128
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1424366,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    584,
+                                    -1128,
+                                    -36,
+                                    -1131
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1436193,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -36,
+                                    -1131,
+                                    -34,
+                                    -461
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1424810,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -430,
+                                    -467,
+                                    -433,
+                                    -733
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1427233,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -433,
+                                    -733,
+                                    -343,
+                                    -733
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1442886,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -343,
+                                    -733,
+                                    -343,
+                                    -467
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1429518,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -36,
+                                    -643,
+                                    -204,
+                                    -646
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1438756,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -204,
+                                    -646,
+                                    -202,
+                                    -728
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1441525,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -202,
+                                    -728,
+                                    -36,
+                                    -731
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1413611,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -754,
+                                    -464,
+                                    -749,
+                                    -721
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1422861,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -749,
+                                    -721,
+                                    -691,
+                                    -721
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1412940,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -649,
+                                    -724,
+                                    -587,
+                                    -724
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1433339,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -587,
+                                    -724,
+                                    -589,
+                                    -470
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1415522,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -587,
+                                    -719,
+                                    -494,
+                                    -719
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1440696,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1209,
+                                    -584,
+                                    -1207,
+                                    -718
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1423188,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1207,
+                                    -718,
+                                    -1090,
+                                    -715
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1431589,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1090,
+                                    -715,
+                                    -1088,
+                                    -830
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1427784,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1088,
+                                    -830,
+                                    -1015,
+                                    -833
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1429489,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -952,
+                                    -827,
+                                    -830,
+                                    -829
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1437663,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -791,
+                                    -827,
+                                    -743,
+                                    -829
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1437382,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -743,
+                                    -829,
+                                    -751,
+                                    -1263
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1419161,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -697,
+                                    -833,
+                                    -412,
+                                    -833
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1419359,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -358,
+                                    -833,
+                                    -143,
+                                    -835
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1442162,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -143,
+                                    -835,
+                                    -143,
+                                    -1260
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1445242,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -743,
+                                    -427,
+                                    -979,
+                                    -430
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1435794,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -979,
+                                    -430,
+                                    -982,
+                                    -275
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1428748,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -982,
+                                    -275,
+                                    -969,
+                                    -273
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1418860,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -925,
+                                    -273,
+                                    -748,
+                                    -270
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1445459,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    903,
+                                    -467,
+                                    903,
+                                    -657
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1417881,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1431,
+                                    -270,
+                                    -1215,
+                                    -273
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1428567,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1429,
+                                    -94,
+                                    -1219,
+                                    -97
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1441539,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1429,
+                                    79,
+                                    -1219,
+                                    75
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1437348,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1429,
+                                    257,
+                                    -1215,
+                                    257
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1442668,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1425,
+                                    433,
+                                    -1219,
+                                    430
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1436414,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1426,
+                                    628,
+                                    -1219,
+                                    626
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1413299,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1146,
+                                    622,
+                                    -967,
+                                    626
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1433776,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1025,
+                                    625,
+                                    -1027,
+                                    148
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1436419,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1027,
+                                    148,
+                                    -1150,
+                                    145
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1434887,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -885,
+                                    622,
+                                    -757,
+                                    625
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1430816,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -757,
+                                    625,
+                                    -763,
+                                    971
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1421287,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -761,
+                                    789,
+                                    -619,
+                                    791
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1412879,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1219,
+                                    -269,
+                                    -1218,
+                                    -148
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1413657,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1218,
+                                    -97,
+                                    -1218,
+                                    21
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1416124,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1221,
+                                    81,
+                                    -1219,
+                                    204
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1420060,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1221,
+                                    261,
+                                    -1219,
+                                    385
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1444850,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1219,
+                                    625,
+                                    -1219,
+                                    485
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1426046,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1431,
+                                    975,
+                                    -1081,
+                                    969
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1426153,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1081,
+                                    969,
+                                    -1081,
+                                    628
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1444107,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1425,
+                                    1242,
+                                    -1227,
+                                    1242
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1443619,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1227,
+                                    1242,
+                                    -1227,
+                                    1366
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1435729,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1416,
+                                    1417,
+                                    -1225,
+                                    1411
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1444984,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1225,
+                                    1411,
+                                    -1227,
+                                    1516
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1440584,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1422,
+                                    1569,
+                                    -1225,
+                                    1563
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1427106,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1173,
+                                    1564,
+                                    -1096,
+                                    1564
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1433884,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1097,
+                                    1807,
+                                    -1097,
+                                    1339
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1413453,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -1097,
+                                    1339,
+                                    -815,
+                                    1342
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1434461,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -758,
+                                    1345,
+                                    -755,
+                                    1807
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1434070,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -708,
+                                    1342,
+                                    -394,
+                                    1336
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1438553,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -394,
+                                    1336,
+                                    -385,
+                                    1806
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1415214,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -385,
+                                    1339,
+                                    -97,
+                                    1339
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1433083,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -42,
+                                    1339,
+                                    -30,
+                                    1800
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1437545,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -42,
+                                    1339,
+                                    257,
+                                    1336
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1430673,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    308,
+                                    1343,
+                                    331,
+                                    1343
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1430520,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    331,
+                                    1343,
+                                    333,
+                                    1806
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1415332,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    331,
+                                    1342,
+                                    620,
+                                    1336
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1430698,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    661,
+                                    1339,
+                                    688,
+                                    1339
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1428322,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    688,
+                                    1339,
+                                    682,
+                                    1802
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1428742,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -871,
+                                    1245,
+                                    -869,
+                                    1067
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1418634,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -871,
+                                    1018,
+                                    -871,
+                                    976
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1415704,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -871,
+                                    1240,
+                                    -746,
+                                    1240
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1425972,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -746,
+                                    1240,
+                                    -748,
+                                    976
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1440169,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -742,
+                                    1237,
+                                    -694,
+                                    1237
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1432966,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -573,
+                                    1240,
+                                    -486,
+                                    1240
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1428043,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -436,
+                                    1240,
+                                    -327,
+                                    1240
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1425421,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -327,
+                                    1240,
+                                    -327,
+                                    980
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1414709,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -436,
+                                    1240,
+                                    -436,
+                                    979
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1436493,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -285,
+                                    1243,
+                                    -21,
+                                    1242
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1420405,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -21,
+                                    1242,
+                                    -24,
+                                    979
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1413906,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    36,
+                                    1243,
+                                    331,
+                                    1242
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1433485,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    331,
+                                    1242,
+                                    325,
+                                    982
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1424889,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    385,
+                                    1237,
+                                    673,
+                                    1240
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1427766,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    673,
+                                    1240,
+                                    673,
+                                    980
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1416806,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -655,
+                                    1242,
+                                    -575,
+                                    1242
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1424385,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    -575,
+                                    1242,
+                                    -575,
+                                    982
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    },
+                    {
+                        "_id": 1427455,
+                        "brief": "",
+                        "name": "",
+                        "name_en": "",
+                        "outline": [
+                            [
+                                [
+                                    909,
+                                    980,
+                                    907,
+                                    1132
+                                ]
+                            ]
+                        ],
+                        "type": "0"
+                    }
+                ]
+            }
+        ]
+    }
+}

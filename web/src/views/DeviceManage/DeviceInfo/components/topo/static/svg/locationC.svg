@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg t="1589352224579" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="5177" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200">
+<defs>
+<style type="text/css"></style>
+<script>
+<![CDATA[
+window.onload = timer()
+		function timer(){
+			setInterval("setColor()",100)
+		}
+		
+	      function setColor()
+	      {
+	        document.getElementById("cs").style.fill = color16();
+	      }
+		  function color16(){//十六进制颜色随机
+		  			var r = Math.floor(Math.random()*256);
+		  			var g = Math.floor(Math.random()*256);
+		  			var b = Math.floor(Math.random()*256);
+		  			var color = '#'+r.toString(16)+g.toString(16)+b.toString(16);
+		  			return color;
+		  		}
+]]>
+</script>
+</defs>
+<path id="cs" d="M915.450217 0.014677a37.2048 37.2048 0 0 0-37.2048 37.2048v195.581197h-107.17713V176.82281h-210.940977v55.977864h-89.428051V176.82281H260.099611v55.977864H145.413254V37.219477A37.887457 37.887457 0 0 0 108.549783 0.014677a37.887457 37.887457 0 0 0-37.2048 37.2048v949.575723A37.887457 37.887457 0 0 0 108.549783 1024a37.887457 37.887457 0 0 0 37.2048-37.2048v-198.653153h732.832163v198.653153a37.2048 37.2048 0 0 0 74.4096 0V37.219477A36.522143 36.522143 0 0 0 915.450217 0.014677z m-36.863471 713.71777h-107.518459v-53.247237h-210.940977v53.247237h-89.428051v-53.247237H260.099611v53.247237H145.413254V546.140183h733.173492z m0-240.977879h-107.518459v-58.025835h-210.940977v58.367163h-89.428051v-58.367163H260.099611v58.367163H145.413254V307.210274h733.173492z" p-id="5178" fill="#d4237a">
+</path>
+</svg>

@@ -1,0 +1,1362 @@
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\wms.Client.csprojAssemblyReference.cache
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\Template\MsgView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\Template\SplashScreenView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\Template\SwitchModeBar.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\Template\ToolbarContainer.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\MainWindow.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\MaterialDesignMainWindow.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\Template\MsgView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\Template\SplashScreenView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\Template\SwitchModeBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\Template\ToolbarContainer.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\MainLeftMenu.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\MainNotice.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\MainPopupBox.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\MainTabControl.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\MsgBox.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\NotFoundView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\SplashScreen.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\UcDataPager.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\UserColorBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\UserDetailToolBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\UserOperateBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\UiCore\Template\UserToolBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\View\DictionaryView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\View\GroupView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\View\Login.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\View\MenuView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\View\SkinWindow.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\View\StepView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\View\UserView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\App.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\wms.Client_MarkupCompile.cache
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\trunk1.0\ZFS.Client\obj\Debug\wms.Client_MarkupCompile.lref
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\App\wms.Client.exe.config
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\App\wms.Client.exe
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\App\wms.Client.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\wms.Client.csprojAssemblyReference.cache
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\Template\MsgView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\Template\SplashScreenView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\Template\SwitchModeBar.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\Template\ToolbarContainer.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\MainWindow.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\Template\MsgView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\Template\SplashScreenView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\Template\SwitchModeBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\Template\ToolbarContainer.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\MainLeftMenu.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\MainNotice.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\MainPopupBox.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\MainTabControl.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\MsgBox.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\NotFoundView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\SplashScreen.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\UcDataPager.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\UserColorBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\UserDetailToolBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\UserOperateBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\UserToolBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\FaceInfoView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\DictionaryView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\GroupView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\AlarmView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\StockView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\ManualOutView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\CheckMainView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\ReceiveTaskView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\OutTaskView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\TempInView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\ManualInView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\InTaskView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\Login.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\MenuView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\GuideWindow.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\BarCodeView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\UserLoginWindow.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\SkinWindow.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\StepView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\UserView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\App.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\wms.Client_MarkupCompile.cache
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\wms.Client_MarkupCompile.lref
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\App.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\MainWindow.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\Template\DataPager.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\BorderDictionary.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\ButtonStyle.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\ExpanderDictionary.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\MainLeftMenu.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\MainNotice.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\MainPopupBox.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\MainTabControl.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\MsgBox.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\NotFoundView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\ScrollViewDictionary.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\SplashScreen.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\IconButtonStyle.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\SolidStyle.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\TabControlStyles.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\TextBlockStyles.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\WindowStyle.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\UcDataPager.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\UserColorBar.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\UserDetailToolBar.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\UserOperateBar.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\UiCore\Template\UserToolBar.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\FaceInfoView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\DictionaryView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\GroupView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\AlarmView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\StockView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\ManualOutView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\CheckMainView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\ReceiveTaskView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\OutTaskView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\TempInView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\ManualInView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\InTaskView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\Login.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\MenuView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\GuideWindow.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\BarCodeView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\UserLoginWindow.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\SkinWindow.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\StepView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\View\UserView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\wms.Client.g.resources
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\wms.Client.Properties.Resources.resources
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\wms.Client.csproj.GenerateResource.cache
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\wms.Client.csproj.CopyComplete
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\wms.Client.exe
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\clientTrunk\src\ZFS.Client\obj\Debug\wms.Client.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\Template\MsgView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\Template\SplashScreenView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\Template\SwitchModeBar.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\Template\ToolbarContainer.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\MainWindow.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\Template\MsgView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\Template\SplashScreenView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\Template\SwitchModeBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\Template\ToolbarContainer.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MainLeftMenu.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MainNotice.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MainPopupBox.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MainTabControl.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MsgBox.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\NotFoundView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\SplashScreen.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UcDataPager.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UserColorBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UserDetailToolBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UserOperateBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UserToolBar.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\FaceInfoView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\DictionaryView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\GroupView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\AlarmView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\StockView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\ManualOutView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\CheckMainView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\ReceiveTaskView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\OutTaskView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\TempInView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\ManualInView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\InTaskView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\Login.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\MenuView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\GuideWindow.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\BarCodeView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\UserLoginWindow.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\SkinWindow.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\StepView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\UserView.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\App.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client_MarkupCompile.cache
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client_MarkupCompile.lref
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\App.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\MainWindow.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\Template\DataPager.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\BorderDictionary.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\ButtonStyle.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\ExpanderDictionary.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MainLeftMenu.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MainNotice.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MainPopupBox.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MainTabControl.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MsgBox.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\NotFoundView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\ScrollViewDictionary.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\SplashScreen.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\IconButtonStyle.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\SolidStyle.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\TabControlStyles.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\TextBlockStyles.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\WindowStyle.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UcDataPager.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UserColorBar.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UserDetailToolBar.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UserOperateBar.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UserToolBar.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\FaceInfoView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\DictionaryView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\GroupView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\AlarmView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\StockView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\ManualOutView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\CheckMainView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\ReceiveTaskView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\OutTaskView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\TempInView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\ManualInView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\InTaskView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\Login.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\MenuView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\GuideWindow.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\BarCodeView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\UserLoginWindow.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\SkinWindow.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\StepView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\View\UserView.baml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client.g.resources
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\App\wms.Client.exe.config
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\App\wms.Client.exe
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\App\wms.Client.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client.Properties.Resources.resources
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client.csproj.GenerateResource.cache
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client.csproj.CopyComplete
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client.exe
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client.csprojAssemblyReference.cache
+E:\OtherSVN\Project\朗杰WMS\client\App\App.config
+E:\OtherSVN\Project\朗杰WMS\client\App\wms.Client.exe.config
+E:\OtherSVN\Project\朗杰WMS\client\App\wms.Client.exe
+E:\OtherSVN\Project\朗杰WMS\client\App\wms.Client.pdb
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client.csproj.AssemblyReference.cache
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\Template\MsgView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\Template\SplashScreenView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\Template\SwitchModeBar.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\Template\ToolbarContainer.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\MainWindow.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\Template\MsgView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\Template\SplashScreenView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\Template\SwitchModeBar.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\Template\ToolbarContainer.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MainLeftMenu.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MainNotice.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MainPopupBox.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MainTabControl.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MsgBox.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\NotFoundView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\SplashScreen.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UcDataPager.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UserColorBar.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UserDetailToolBar.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UserOperateBar.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UserToolBar.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\ContainerSettingView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\FaceInfoView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\DictionaryView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\GroupView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\AlarmView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\StockView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\ManualOutView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\CheckMainView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\ReceiveTaskView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\OutTaskView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\TempInView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\ManualInView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\InTaskView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\Login.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\MenuView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\GuideWindow.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\BarCodeView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\UserLoginWindow.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\SkinWindow.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\StepView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\UserView.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\App.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client_Content.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client_MarkupCompile.cache
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client_MarkupCompile.lref
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\App.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\MainWindow.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\Template\SetBarDictionary.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\Template\DataPager.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\BorderDictionary.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\ButtonStyle.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\ExpanderDictionary.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MainLeftMenu.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MainNotice.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MainPopupBox.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MainTabControl.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\MsgBox.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\NotFoundView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\ScrollViewDictionary.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\SplashScreen.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\IconButtonStyle.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\SolidStyle.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\TabControlStyles.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\TextBlockStyles.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\DemoCharts\WindowStyle.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UcDataPager.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UserColorBar.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UserDetailToolBar.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UserOperateBar.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\UiCore\Template\UserToolBar.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\ContainerSettingView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\FaceInfoView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\DictionaryView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\GroupView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\AlarmView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\StockView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\ManualOutView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\CheckMainView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\ReceiveTaskView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\OutTaskView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\TempInView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\ManualInView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\InTaskView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\Login.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\MenuView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\GuideWindow.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\BarCodeView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\UserLoginWindow.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\SkinWindow.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\StepView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\UserView.baml
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client.g.resources
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client.Properties.Resources.resources
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client.csproj.GenerateResource.cache
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client.csproj.CoreCompileInputs.cache
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client.csproj.CopyComplete
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client.exe
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\wms.Client.pdb
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\ImageWindow.g.cs
+E:\OtherSVN\Project\朗杰WMS\client\ZFS.Client\obj\Debug\View\ImageWindow.baml
+F:\朗杰源码1\wms.Client\obj\Debug\Template\MsgView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\Template\SplashScreenView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\Template\SwitchModeBar.baml
+F:\朗杰源码1\wms.Client\obj\Debug\Template\ToolbarContainer.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.baml
+F:\朗杰源码1\wms.Client\obj\Debug\MainWindow.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\Template\MsgView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\Template\SplashScreenView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\Template\SwitchModeBar.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\Template\ToolbarContainer.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\MainLeftMenu.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\MainNotice.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\MainPopupBox.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\MainTabControl.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\MsgBox.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\NotFoundView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\SplashScreen.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\UcDataPager.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\UserColorBar.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\UserDetailToolBar.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\UserOperateBar.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\UserToolBar.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\ContainerSettingView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\FaceInfoView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\DictionaryView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\GroupView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\AlarmView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\StockView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\ManualOutView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\CheckMainView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\ReceiveTaskView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\OutTaskView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\TempInView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\ManualInView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\InTaskView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\Login.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\MenuView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\GuideWindow.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\BarCodeView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\UserLoginWindow.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\ImageWindow.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\SkinWindow.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\StepView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\View\UserView.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\App.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\wms.Client_Content.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\朗杰源码1\wms.Client\obj\Debug\wms.Client_MarkupCompile.cache
+F:\朗杰源码1\wms.Client\obj\Debug\wms.Client_MarkupCompile.lref
+F:\朗杰源码1\wms.Client\obj\Debug\wms.Client.exe
+F:\朗杰源码1\wms.Client\obj\Debug\wms.Client.pdb
+F:\朗杰源码1\App\App.config
+F:\朗杰源码1\App\wms.Client.exe.config
+F:\朗杰源码1\App\wms.Client.exe
+F:\朗杰源码1\App\wms.Client.pdb
+F:\朗杰源码1\wms.Client\obj\Debug\App.baml
+F:\朗杰源码1\wms.Client\obj\Debug\MainWindow.baml
+F:\朗杰源码1\wms.Client\obj\Debug\Template\SetBarDictionary.baml
+F:\朗杰源码1\wms.Client\obj\Debug\Template\DataPager.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\BorderDictionary.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\ButtonStyle.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\ExpanderDictionary.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\MainLeftMenu.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\MainNotice.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\MainPopupBox.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\MainTabControl.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\MsgBox.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\NotFoundView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\ScrollViewDictionary.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\SplashScreen.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\DemoCharts\IconButtonStyle.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\DemoCharts\SolidStyle.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\DemoCharts\TabControlStyles.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\DemoCharts\TextBlockStyles.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\DemoCharts\WindowStyle.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\UcDataPager.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\UserColorBar.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\UserDetailToolBar.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\UserOperateBar.baml
+F:\朗杰源码1\wms.Client\obj\Debug\UiCore\Template\UserToolBar.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\ContainerSettingView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\FaceInfoView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\DictionaryView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\GroupView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\AlarmView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\StockView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\ManualOutView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\CheckMainView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\ReceiveTaskView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\OutTaskView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\TempInView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\ManualInView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\InTaskView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\Login.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\MenuView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\GuideWindow.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\BarCodeView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\UserLoginWindow.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\ImageWindow.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\SkinWindow.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\StepView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\View\UserView.baml
+F:\朗杰源码1\wms.Client\obj\Debug\wms.Client.g.resources
+F:\朗杰源码1\wms.Client\obj\Debug\wms.Client.Properties.Resources.resources
+F:\朗杰源码1\wms.Client\obj\Debug\wms.Client.csproj.GenerateResource.cache
+F:\朗杰源码1\wms.Client\obj\Debug\wms.Client.csproj.CoreCompileInputs.cache
+F:\朗杰源码1\wms.Client\obj\Debug\wms.Client.csproj.CopyComplete
+E:\IWMS\client\wms.Client\obj\Debug\wms.Client.csproj.AssemblyReference.cache
+E:\IWMS\client\wms.Client\obj\Debug\wms.Client.csproj.SuggestedBindingRedirects.cache
+E:\IWMS\client\wms.Client\obj\Debug\Template\MsgView.baml
+E:\IWMS\client\wms.Client\obj\Debug\Template\SplashScreenView.baml
+E:\IWMS\client\wms.Client\obj\Debug\Template\SwitchModeBar.baml
+E:\IWMS\client\wms.Client\obj\Debug\Template\ToolbarContainer.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.baml
+E:\IWMS\client\wms.Client\obj\Debug\MainWindow.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\Template\MsgView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\Template\SplashScreenView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\Template\SwitchModeBar.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\Template\ToolbarContainer.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\MainLeftMenu.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\MainNotice.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\MainPopupBox.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\MainTabControl.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\MsgBox.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\NotFoundView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\SplashScreen.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\UcDataPager.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\UserColorBar.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\UserDetailToolBar.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\UserOperateBar.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\UserToolBar.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\ContainerSettingView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\FaceInfoView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\DictionaryView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\GroupView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\AlarmView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\StockView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\ManualOutView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\CheckMainView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\ReceiveTaskView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\OutTaskView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\TempInView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\ManualInView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\InTaskView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\Login.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\MenuView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\GuideWindow.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\BarCodeView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\UserLoginWindow.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\ImageWindow.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\SkinWindow.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\StepView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\View\UserView.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\App.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\IWMS\client\wms.Client\obj\Debug\wms.Client_MarkupCompile.cache
+E:\IWMS\client\wms.Client\obj\Debug\wms.Client_MarkupCompile.lref
+E:\IWMS\client\wms.Client\obj\Debug\App.baml
+E:\IWMS\client\wms.Client\obj\Debug\MainWindow.baml
+E:\IWMS\client\wms.Client\obj\Debug\Template\SetBarDictionary.baml
+E:\IWMS\client\wms.Client\obj\Debug\Template\DataPager.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\BorderDictionary.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\ButtonStyle.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\ExpanderDictionary.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\MainLeftMenu.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\MainNotice.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\MainPopupBox.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\MainTabControl.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\MsgBox.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\NotFoundView.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\ScrollViewDictionary.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\SplashScreen.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\IconButtonStyle.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\SolidStyle.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\TabControlStyles.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\TextBlockStyles.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\WindowStyle.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\UcDataPager.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\UserColorBar.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\UserDetailToolBar.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\UserOperateBar.baml
+E:\IWMS\client\wms.Client\obj\Debug\UiCore\Template\UserToolBar.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\ContainerSettingView.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\FaceInfoView.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\DictionaryView.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\GroupView.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\AlarmView.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\StockView.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\ManualOutView.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\CheckMainView.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\ReceiveTaskView.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\OutTaskView.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\TempInView.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\ManualInView.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\InTaskView.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\Login.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\MenuView.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\GuideWindow.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\BarCodeView.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\UserLoginWindow.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\ImageWindow.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\SkinWindow.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\StepView.baml
+E:\IWMS\client\wms.Client\obj\Debug\View\UserView.baml
+E:\IWMS\client\wms.Client\obj\Debug\wms.Client.g.resources
+E:\IWMS\client\wms.Client\obj\Debug\wms.Client.Properties.Resources.resources
+E:\IWMS\client\wms.Client\obj\Debug\wms.Client.csproj.GenerateResource.cache
+E:\IWMS\client\wms.Client\obj\Debug\wms.Client.csproj.CoreCompileInputs.cache
+E:\IWMS\client\wms.Client\obj\Debug\wms.Client.exe
+E:\IWMS\client\wms.Client\obj\Debug\wms.Client.pdb
+E:\IWMS\client\App\App.config
+E:\IWMS\client\App\wms.Client.exe.config
+E:\IWMS\client\App\wms.Client.exe
+E:\IWMS\client\App\wms.Client.pdb
+E:\IWMS\client\wms.Client\obj\Debug\wms.Client.csproj.CopyComplete
+E:\SoftwareSourceCode\client\App\App.config
+E:\SoftwareSourceCode\client\App\wms.Client.exe.config
+E:\SoftwareSourceCode\client\App\wms.Client.exe
+E:\SoftwareSourceCode\client\App\wms.Client.pdb
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.AssemblyReference.cache
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.SuggestedBindingRedirects.cache
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\MsgView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SplashScreenView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SwitchModeBar.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\ToolbarContainer.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\MainWindow.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\MsgView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SplashScreenView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SwitchModeBar.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\ToolbarContainer.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainLeftMenu.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainNotice.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainPopupBox.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainTabControl.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MsgBox.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\NotFoundView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\SplashScreen.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UcDataPager.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserColorBar.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserDetailToolBar.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserOperateBar.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserToolBar.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ContainerSettingView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\FaceInfoView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\DictionaryView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GroupView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\AlarmView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StockView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualOutView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\CheckMainView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ReceiveTaskView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\OutTaskView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\TempInView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualInView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\InTaskView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\Login.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\MenuView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GuideWindow.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\BarCodeView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserLoginWindow.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ImageWindow.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\SkinWindow.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StepView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserView.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\App.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client_MarkupCompile.cache
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client_MarkupCompile.lref
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\App.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\MainWindow.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SetBarDictionary.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\DataPager.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\BorderDictionary.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\ButtonStyle.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\ExpanderDictionary.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainLeftMenu.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainNotice.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainPopupBox.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainTabControl.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MsgBox.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\NotFoundView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\ScrollViewDictionary.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\SplashScreen.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\IconButtonStyle.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\SolidStyle.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\TabControlStyles.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\TextBlockStyles.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\WindowStyle.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UcDataPager.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserColorBar.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserDetailToolBar.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserOperateBar.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserToolBar.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ContainerSettingView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\FaceInfoView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\DictionaryView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GroupView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\AlarmView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StockView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualOutView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\CheckMainView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ReceiveTaskView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\OutTaskView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\TempInView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualInView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\InTaskView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\Login.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\MenuView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GuideWindow.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\BarCodeView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserLoginWindow.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ImageWindow.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\SkinWindow.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StepView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserView.baml
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.g.resources
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.Properties.Resources.resources
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.GenerateResource.cache
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.CoreCompileInputs.cache
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.CopyComplete
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.exe
+E:\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\App.config
+E:\SoftwareSourceCode\client\wms.Client\bin\wms.Client.exe.config
+E:\SoftwareSourceCode\client\wms.Client\bin\wms.Client.exe
+E:\SoftwareSourceCode\client\wms.Client\bin\wms.Client.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Autofac.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Autofac.Extras.CommonServiceLocator.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\BouncyCastle.Crypto.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Bussiness.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\CommonServiceLocator.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Dragablz.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\GalaSoft.MvvmLight.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\GalaSoft.MvvmLight.Extras.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\GalaSoft.MvvmLight.Platform.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Google.Protobuf.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\HP.AutoMapper.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\HP.Core.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\HP.Data.Entity.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\HP.Data.Orm.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\HP.Utility.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\HP.Web.Mvc.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\HPC.BaseService.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\K4os.Compression.LZ4.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\K4os.Compression.LZ4.Streams.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\K4os.Hash.xxHash.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\LiveCharts.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\LiveCharts.Wpf.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\MaterialDesignColors.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\MaterialDesignThemes.Wpf.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Microsoft.Toolkit.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\MySql.Data.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Newtonsoft.Json.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Quartz.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\RestSharp.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Seagull.BarTender.Print.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\SearchableTextBox.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\ShowMeTheXAML.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\SqlSugar.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\System.Buffers.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\System.Memory.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\System.Numerics.Vectors.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\System.Windows.Interactivity.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Ubiety.Dns.Core.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\ZstdNet.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\Autofac.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Autofac.Extras.CommonServiceLocator.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\BouncyCastle.Crypto.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Dragablz.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Dragablz.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\GalaSoft.MvvmLight.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\GalaSoft.MvvmLight.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\GalaSoft.MvvmLight.Extras.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\GalaSoft.MvvmLight.Extras.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\GalaSoft.MvvmLight.Platform.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\GalaSoft.MvvmLight.Platform.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Google.Protobuf.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Google.Protobuf.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\K4os.Compression.LZ4.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\K4os.Compression.LZ4.Streams.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\K4os.Hash.xxHash.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\LiveCharts.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\LiveCharts.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\LiveCharts.Wpf.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\LiveCharts.Wpf.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\MaterialDesignColors.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\MaterialDesignThemes.Wpf.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\MaterialDesignThemes.Wpf.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Microsoft.Toolkit.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Microsoft.Toolkit.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\MySql.Data.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Newtonsoft.Json.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\Quartz.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\Quartz.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\RestSharp.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\System.Buffers.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\System.Memory.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\System.Numerics.Vectors.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\App.config
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\wms.Client.exe.config
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\wms.Client.exe
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\wms.Client.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Autofac.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Autofac.Extras.CommonServiceLocator.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\BouncyCastle.Crypto.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Bussiness.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\CommonServiceLocator.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Dragablz.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\GalaSoft.MvvmLight.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Google.Protobuf.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\HP.AutoMapper.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\HP.Core.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\HP.Data.Entity.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\HP.Data.Orm.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\HP.Utility.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\HP.Web.Mvc.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\HPC.BaseService.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\K4os.Compression.LZ4.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\K4os.Compression.LZ4.Streams.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\K4os.Hash.xxHash.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\LiveCharts.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\LiveCharts.Wpf.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\MaterialDesignColors.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\MaterialDesignThemes.Wpf.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Microsoft.Toolkit.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\MySql.Data.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Newtonsoft.Json.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Quartz.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\RestSharp.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Seagull.BarTender.Print.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\SearchableTextBox.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\ShowMeTheXAML.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\SqlSugar.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\System.Buffers.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\System.Memory.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\System.Windows.Interactivity.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Ubiety.Dns.Core.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\ZstdNet.dll
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Autofac.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Autofac.Extras.CommonServiceLocator.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\BouncyCastle.Crypto.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Dragablz.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Dragablz.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\GalaSoft.MvvmLight.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\GalaSoft.MvvmLight.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Google.Protobuf.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Google.Protobuf.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\K4os.Compression.LZ4.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\K4os.Compression.LZ4.Streams.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\K4os.Hash.xxHash.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\LiveCharts.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\LiveCharts.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\LiveCharts.Wpf.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\LiveCharts.Wpf.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\MaterialDesignColors.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\MaterialDesignThemes.Wpf.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\MaterialDesignThemes.Wpf.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Microsoft.Toolkit.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Microsoft.Toolkit.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\MySql.Data.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Newtonsoft.Json.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Quartz.pdb
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\Quartz.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\RestSharp.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\System.Buffers.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\System.Memory.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\System.Numerics.Vectors.xml
+E:\SoftwareSourceCode\client\wms.Client\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.AssemblyReference.cache
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.SuggestedBindingRedirects.cache
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\MsgView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SplashScreenView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SwitchModeBar.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\ToolbarContainer.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\MainWindow.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\MsgView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SplashScreenView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SwitchModeBar.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\ToolbarContainer.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainLeftMenu.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainNotice.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainPopupBox.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainTabControl.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MsgBox.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\NotFoundView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\SplashScreen.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UcDataPager.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserColorBar.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserDetailToolBar.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserOperateBar.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserToolBar.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ContainerSettingView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\FaceInfoView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\DictionaryView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GroupView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\AlarmView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StockView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualOutView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\CheckMainView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ReceiveTaskView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\OutTaskView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\TempInView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualInView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\InTaskView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\Login.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\MenuView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GuideWindow.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\BarCodeView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserLoginWindow.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ImageWindow.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\SkinWindow.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StepView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserView.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\App.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client_MarkupCompile.cache
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client_MarkupCompile.lref
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.exe
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.pdb
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\App\App.config
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\App\wms.Client.exe.config
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\App\wms.Client.exe
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\App\wms.Client.pdb
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\App.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\MainWindow.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SetBarDictionary.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\DataPager.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\BorderDictionary.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\ButtonStyle.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\ExpanderDictionary.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainLeftMenu.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainNotice.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainPopupBox.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainTabControl.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MsgBox.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\NotFoundView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\ScrollViewDictionary.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\SplashScreen.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\IconButtonStyle.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\SolidStyle.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\TabControlStyles.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\TextBlockStyles.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\WindowStyle.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UcDataPager.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserColorBar.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserDetailToolBar.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserOperateBar.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserToolBar.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ContainerSettingView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\FaceInfoView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\DictionaryView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GroupView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\AlarmView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StockView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualOutView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\CheckMainView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ReceiveTaskView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\OutTaskView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\TempInView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualInView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\InTaskView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\Login.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\MenuView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GuideWindow.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\BarCodeView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserLoginWindow.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ImageWindow.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\SkinWindow.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StepView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserView.baml
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.g.resources
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.Properties.Resources.resources
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.GenerateResource.cache
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.CoreCompileInputs.cache
+E:\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.CopyComplete
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\App\App.config
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\App\wms.Client.exe.config
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\App\wms.Client.exe
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\App\wms.Client.pdb
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.AssemblyReference.cache
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.SuggestedBindingRedirects.cache
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\MsgView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SplashScreenView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SwitchModeBar.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\ToolbarContainer.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\MainWindow.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\MsgView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SplashScreenView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SwitchModeBar.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\ToolbarContainer.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainLeftMenu.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainNotice.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainPopupBox.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainTabControl.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MsgBox.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\NotFoundView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\SplashScreen.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UcDataPager.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserColorBar.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserDetailToolBar.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserOperateBar.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserToolBar.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ContainerSettingView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\FaceInfoView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\DictionaryView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GroupView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\AlarmView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StockView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualOutView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\CheckMainView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ReceiveTaskView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\OutTaskView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\TempInView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualInView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\InTaskView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\Login.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\MenuView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GuideWindow.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\BarCodeView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserLoginWindow.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ImageWindow.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\SkinWindow.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StepView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserView.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\App.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client_MarkupCompile.cache
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client_MarkupCompile.lref
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\App.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\MainWindow.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SetBarDictionary.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\DataPager.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\BorderDictionary.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\ButtonStyle.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\ExpanderDictionary.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainLeftMenu.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainNotice.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainPopupBox.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainTabControl.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MsgBox.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\NotFoundView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\ScrollViewDictionary.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\SplashScreen.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\IconButtonStyle.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\SolidStyle.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\TabControlStyles.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\TextBlockStyles.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\WindowStyle.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UcDataPager.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserColorBar.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserDetailToolBar.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserOperateBar.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserToolBar.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ContainerSettingView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\FaceInfoView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\DictionaryView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GroupView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\AlarmView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StockView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualOutView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\CheckMainView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ReceiveTaskView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\OutTaskView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\TempInView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualInView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\InTaskView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\Login.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\MenuView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GuideWindow.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\BarCodeView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserLoginWindow.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ImageWindow.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\SkinWindow.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StepView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserView.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.g.resources
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.Properties.Resources.resources
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.GenerateResource.cache
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.CoreCompileInputs.cache
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.CopyComplete
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.exe
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.pdb
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\AlarmConfirmationBox.baml
+E:\SoftwareSourceCodes\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\AlarmConfirmationBox.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\App\App.config
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\App\wms.Client.exe.config
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\App\wms.Client.exe
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\App\wms.Client.pdb
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.AssemblyReference.cache
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.SuggestedBindingRedirects.cache
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\AlarmConfirmationBox.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\MsgView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SplashScreenView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SwitchModeBar.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\ToolbarContainer.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\MainWindow.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\AlarmConfirmationBox.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\MaintenancePopover.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\MsgView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SplashScreenView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SwitchModeBar.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\ToolbarContainer.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainLeftMenu.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainNotice.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainPopupBox.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainTabControl.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MsgBox.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\NotFoundView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\SplashScreen.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UcDataPager.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserColorBar.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserDetailToolBar.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserOperateBar.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserToolBar.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ContainerSettingView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\FaceInfoView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\DictionaryView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GroupView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\AlarmView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StockView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualOutView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\CheckMainView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ReceiveTaskView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\OutTaskView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\TempInView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualInView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\InTaskView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\Login.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\MenuView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GuideWindow.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\BarCodeView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserLoginWindow.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ImageWindow.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\SkinWindow.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StepView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserView.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\App.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client_MarkupCompile.cache
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client_MarkupCompile.lref
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\App.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\MainWindow.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\MaintenancePopover.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SetBarDictionary.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\DataPager.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\BorderDictionary.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\ButtonStyle.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\ExpanderDictionary.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainLeftMenu.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainNotice.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainPopupBox.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainTabControl.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MsgBox.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\NotFoundView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\ScrollViewDictionary.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\SplashScreen.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\IconButtonStyle.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\SolidStyle.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\TabControlStyles.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\TextBlockStyles.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\WindowStyle.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UcDataPager.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserColorBar.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserDetailToolBar.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserOperateBar.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserToolBar.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ContainerSettingView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\FaceInfoView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\DictionaryView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GroupView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\AlarmView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StockView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualOutView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\CheckMainView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ReceiveTaskView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\OutTaskView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\TempInView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualInView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\InTaskView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\Login.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\MenuView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GuideWindow.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\BarCodeView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserLoginWindow.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ImageWindow.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\SkinWindow.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StepView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserView.baml
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.g.resources
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.Properties.Resources.resources
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.GenerateResource.cache
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.CoreCompileInputs.cache
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.CopyComplete
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.exe
+E:\SoftwareSourceCodes\CRRCTestSoftwareSourceCode\TestSoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.pdb
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.AssemblyReference.cache
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.SuggestedBindingRedirects.cache
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\AlarmConfirmationBox.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\MsgView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SplashScreenView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SwitchModeBar.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\ToolbarContainer.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\MainWindow.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\AlarmConfirmationBox.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\MaintenancePopover.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\MsgView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SplashScreenView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SwitchModeBar.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\ToolbarContainer.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\DemoChart.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\MaterialCards.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\PieChartExample.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainLeftMenu.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainNotice.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainPopupBox.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainTabControl.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MsgBox.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\NotFoundView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\SplashScreen.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UcDataPager.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserColorBar.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserDetailToolBar.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserOperateBar.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserToolBar.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ContainerSettingView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\FaceInfoView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\DictionaryView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GroupView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\AlarmView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StockView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualOutView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\CheckMainView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ReceiveTaskView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\OutTaskView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\TempInView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualInView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\InTaskView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\Login.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\MenuView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GuideWindow.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\BarCodeView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserLoginWindow.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ImageWindow.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\SkinWindow.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StepView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserView.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\App.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client_MarkupCompile.cache
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client_MarkupCompile.lref
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\App\App.config
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\App\wms.Client.exe.config
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\App\wms.Client.exe
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\App\wms.Client.pdb
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\App.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\MainWindow.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\MaintenancePopover.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\SetBarDictionary.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\Template\DataPager.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\BorderDictionary.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\ButtonStyle.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\HomeAbout.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\StackedAreaExample.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\ExpanderDictionary.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainLeftMenu.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainNotice.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainPopupBox.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MainTabControl.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\MsgBox.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\NotFoundView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\ScrollViewDictionary.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\SplashScreen.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\IconButtonStyle.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\SolidStyle.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\TabControlStyles.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\TextBlockStyles.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\DemoCharts\WindowStyle.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UcDataPager.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserColorBar.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserDetailToolBar.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserOperateBar.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\UiCore\Template\UserToolBar.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ContainerSettingView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\FaceInfoView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\DictionaryView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GroupView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\AlarmView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StockView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualOutView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\CheckMainView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ReceiveTaskView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\OutTaskView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\TempInView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ManualInView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\InTaskView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\Login.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\MenuView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\GuideWindow.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\BarCodeView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserLoginWindow.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\ImageWindow.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\SkinWindow.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\StepView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\View\UserView.baml
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.g.resources
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.Properties.Resources.resources
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.GenerateResource.cache
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.CoreCompileInputs.cache
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.csproj.CopyComplete
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.exe
+E:\SoftwareSourceCodes\DoubleTraySoftwareSourceCode\SoftwareSourceCode\client\wms.Client\obj\Debug\wms.Client.pdb

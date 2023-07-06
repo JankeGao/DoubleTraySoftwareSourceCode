@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="PtlServer" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:30018/?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:30018/?xsd=xsd1" namespace="http://schemas.microsoft.com/Message" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IPtlServer_SetLightColor_InputMessage">
+    <wsdl:part name="parameters" element="tns:SetLightColor" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_SetLightColor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SetLightColorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_SetLightColorByColor_InputMessage">
+    <wsdl:part name="parameters" element="tns:SetLightColorByColor" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_SetLightColorByColor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SetLightColorByColorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_CheckXgate_InputMessage">
+    <wsdl:part name="parameters" element="tns:CheckXgate" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_CheckXgate_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CheckXgateResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_LightManyIndex_InputMessage">
+    <wsdl:part name="parameters" element="tns:LightManyIndex" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_LightManyIndex_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LightManyIndexResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_LightOneM3_InputMessage">
+    <wsdl:part name="parameters" element="tns:LightOneM3" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_LightOneM3_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LightOneM3Response" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_LightOneIndex_InputMessage">
+    <wsdl:part name="parameters" element="tns:LightOneIndex" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_LightOneIndex_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LightOneIndexResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_Stop_InputMessage">
+    <wsdl:part name="parameters" element="tns:Stop" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_Stop_OutputMessage">
+    <wsdl:part name="parameters" element="tns:StopResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_StartByStream_InputMessage">
+    <wsdl:part name="parameters" element="tns:StartByStream" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_StartByStream_OutputMessage">
+    <wsdl:part name="parameters" element="tns:StartByStreamResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_Start_InputMessage">
+    <wsdl:part name="parameters" element="tns:Start" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_Start_OutputMessage">
+    <wsdl:part name="parameters" element="tns:StartResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_StartByPath_InputMessage">
+    <wsdl:part name="parameters" element="tns:StartByPath" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_StartByPath_OutputMessage">
+    <wsdl:part name="parameters" element="tns:StartByPathResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_CheckConfigFileImport_InputMessage">
+    <wsdl:part name="parameters" element="tns:CheckConfigFileImport" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_CheckConfigFileImport_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CheckConfigFileImportResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_LoadAllDeviceAddress_InputMessage">
+    <wsdl:part name="parameters" element="tns:LoadAllDeviceAddress" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_LoadAllDeviceAddress_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LoadAllDeviceAddressResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_DisPlay900u_InputMessage">
+    <wsdl:part name="parameters" element="tns:DisPlay900u" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_DisPlay900u_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DisPlay900uResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_Clear900u_InputMessage">
+    <wsdl:part name="parameters" element="tns:Clear900u" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_Clear900u_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Clear900uResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_DisplayMany900u_InputMessage">
+    <wsdl:part name="parameters" element="tns:DisplayMany900u" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_DisplayMany900u_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DisplayMany900uResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_GetLocations_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetLocations" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_GetLocations_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetLocationsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_StartOrder_InputMessage">
+    <wsdl:part name="parameters" element="tns:StartOrder" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_StartOrder_OutputMessage">
+    <wsdl:part name="parameters" element="tns:StartOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_FinishOrder_InputMessage">
+    <wsdl:part name="parameters" element="tns:FinishOrder" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_FinishOrder_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FinishOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_FinishOneLocation_InputMessage">
+    <wsdl:part name="parameters" element="tns:FinishOneLocation" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_FinishOneLocation_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FinishOneLocationResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_StopAreaOrder_InputMessage">
+    <wsdl:part name="parameters" element="tns:StopAreaOrder" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_StopAreaOrder_OutputMessage">
+    <wsdl:part name="parameters" element="tns:StopAreaOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_ContinueAreaOrder_InputMessage">
+    <wsdl:part name="parameters" element="tns:ContinueAreaOrder" />
+  </wsdl:message>
+  <wsdl:message name="IPtlServer_ContinueAreaOrder_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ContinueAreaOrderResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IPtlServer">
+    <wsdl:operation name="SetLightColor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/SetLightColor" message="tns:IPtlServer_SetLightColor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/SetLightColorResponse" message="tns:IPtlServer_SetLightColor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SetLightColorByColor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/SetLightColorByColor" message="tns:IPtlServer_SetLightColorByColor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/SetLightColorByColorResponse" message="tns:IPtlServer_SetLightColorByColor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckXgate">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/CheckXgate" message="tns:IPtlServer_CheckXgate_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/CheckXgateResponse" message="tns:IPtlServer_CheckXgate_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LightManyIndex">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/LightManyIndex" message="tns:IPtlServer_LightManyIndex_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/LightManyIndexResponse" message="tns:IPtlServer_LightManyIndex_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LightOneM3">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/LightOneM3" message="tns:IPtlServer_LightOneM3_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/LightOneM3Response" message="tns:IPtlServer_LightOneM3_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LightOneIndex">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/LightOneIndex" message="tns:IPtlServer_LightOneIndex_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/LightOneIndexResponse" message="tns:IPtlServer_LightOneIndex_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Stop">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/Stop" message="tns:IPtlServer_Stop_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/StopResponse" message="tns:IPtlServer_Stop_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="StartByStream">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/StartByStream" message="tns:IPtlServer_StartByStream_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/StartByStreamResponse" message="tns:IPtlServer_StartByStream_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Start">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/Start" message="tns:IPtlServer_Start_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/StartResponse" message="tns:IPtlServer_Start_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="StartByPath">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/StartByPath" message="tns:IPtlServer_StartByPath_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/StartByPathResponse" message="tns:IPtlServer_StartByPath_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckConfigFileImport">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/CheckConfigFileImport" message="tns:IPtlServer_CheckConfigFileImport_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/CheckConfigFileImportResponse" message="tns:IPtlServer_CheckConfigFileImport_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LoadAllDeviceAddress">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/LoadAllDeviceAddress" message="tns:IPtlServer_LoadAllDeviceAddress_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/LoadAllDeviceAddressResponse" message="tns:IPtlServer_LoadAllDeviceAddress_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DisPlay900u">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/DisPlay900u" message="tns:IPtlServer_DisPlay900u_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/DisPlay900uResponse" message="tns:IPtlServer_DisPlay900u_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Clear900u">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/Clear900u" message="tns:IPtlServer_Clear900u_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/Clear900uResponse" message="tns:IPtlServer_Clear900u_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DisplayMany900u">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/DisplayMany900u" message="tns:IPtlServer_DisplayMany900u_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/DisplayMany900uResponse" message="tns:IPtlServer_DisplayMany900u_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetLocations">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/GetLocations" message="tns:IPtlServer_GetLocations_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/GetLocationsResponse" message="tns:IPtlServer_GetLocations_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="StartOrder">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/StartOrder" message="tns:IPtlServer_StartOrder_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/StartOrderResponse" message="tns:IPtlServer_StartOrder_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FinishOrder">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/FinishOrder" message="tns:IPtlServer_FinishOrder_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/FinishOrderResponse" message="tns:IPtlServer_FinishOrder_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FinishOneLocation">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/FinishOneLocation" message="tns:IPtlServer_FinishOneLocation_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/FinishOneLocationResponse" message="tns:IPtlServer_FinishOneLocation_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="StopAreaOrder">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/StopAreaOrder" message="tns:IPtlServer_StopAreaOrder_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/StopAreaOrderResponse" message="tns:IPtlServer_StopAreaOrder_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ContinueAreaOrder">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPtlServer/ContinueAreaOrder" message="tns:IPtlServer_ContinueAreaOrder_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPtlServer/ContinueAreaOrderResponse" message="tns:IPtlServer_ContinueAreaOrder_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IPtlServer" type="tns:IPtlServer">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SetLightColor">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/SetLightColor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetLightColorByColor">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/SetLightColorByColor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckXgate">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/CheckXgate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LightManyIndex">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/LightManyIndex" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LightOneM3">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/LightOneM3" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LightOneIndex">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/LightOneIndex" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Stop">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/Stop" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="StartByStream">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/StartByStream" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Start">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/Start" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="StartByPath">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/StartByPath" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckConfigFileImport">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/CheckConfigFileImport" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LoadAllDeviceAddress">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/LoadAllDeviceAddress" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DisPlay900u">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/DisPlay900u" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Clear900u">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/Clear900u" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DisplayMany900u">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/DisplayMany900u" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetLocations">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/GetLocations" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="StartOrder">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/StartOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FinishOrder">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/FinishOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FinishOneLocation">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/FinishOneLocation" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="StopAreaOrder">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/StopAreaOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ContinueAreaOrder">
+      <soap:operation soapAction="http://tempuri.org/IPtlServer/ContinueAreaOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="PtlServer">
+    <wsdl:port name="BasicHttpBinding_IPtlServer" binding="tns:BasicHttpBinding_IPtlServer">
+      <soap:address location="http://localhost:30018/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

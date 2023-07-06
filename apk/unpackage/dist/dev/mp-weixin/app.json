@@ -1,0 +1,28 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/main/main",
+    "pages/Shelf/Shelf",
+    "pages/ShelfDown/ShelfDown",
+    "pages/ShelfDown/PickArea",
+    "pages/ShelfDown/CancelPickMaterialLabel",
+    "pages/StockMove/StockMove",
+    "pages/StockDelete/StockDelete",
+    "pages/PickLabelConfirm/PickLabelConfirm",
+    "pages/PickLabelConfirm/Confirm",
+    "pages/SplitManage/SplitDown",
+    "pages/SplitManage/SplitArea",
+    "pages/SplitManage/CancelSplitMaterialLabel",
+    "pages/SplitManage/SplitConfirm",
+    "pages/SplitManage/SplitLabelConfirm",
+    "pages/SplitManage/SplitShelf"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

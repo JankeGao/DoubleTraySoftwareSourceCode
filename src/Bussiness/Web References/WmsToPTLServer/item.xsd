@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://ARIS/PickToLight" elementFormDefault="qualified" targetNamespace="http://ARIS/PickToLight" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Start">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="areaCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="orderCode" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StartResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Finish">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="areaCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="orderCode" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FinishResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

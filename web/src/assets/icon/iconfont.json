@@ -1,0 +1,58 @@
+{
+  "id": "1725384",
+  "name": "wmsIcons",
+  "font_family": "fontFamily",
+  "css_prefix_text": "el-icon-wms",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9640107",
+      "name": "ic_create",
+      "font_class": "create",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "3708406",
+      "name": "bar-code",
+      "font_class": "bar-code",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "1380733",
+      "name": "scan",
+      "font_class": "saoma",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "12177475",
+      "name": "detail",
+      "font_class": "detail",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8116591",
+      "name": "stop copy",
+      "font_class": "stop",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "12275451",
+      "name": "offlight",
+      "font_class": "offlight",
+      "unicode": "e89e",
+      "unicode_decimal": 59550
+    },
+    {
+      "icon_id": "12935091",
+      "name": "continue",
+      "font_class": "continue",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    }
+  ]
+}

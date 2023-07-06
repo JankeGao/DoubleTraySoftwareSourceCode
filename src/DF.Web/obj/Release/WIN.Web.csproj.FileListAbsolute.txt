@@ -1,0 +1,519 @@
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\DF.Web.dll.config
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\DF.Web.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\DF.Web.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Autofac.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Autofac.Integration.Mvc.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Autofac.Integration.WebApi.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\AutoMapper.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Bussiness.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Common.Logging.Core.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Common.Logging.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Autofac.Mvc.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Autofac.WebApi.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.AutoMapper.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Core.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Data.Entity.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Data.Orm.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Excel.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.JobSchedulers.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Log4Net.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Utility.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Utility.Zip.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Web.Api.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Web.Mvc.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HPC.BaseService.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\ICSharpCode.SharpZipLib.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\log4net.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Newtonsoft.Json.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\NPOI.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\NPOI.OOXML.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\NPOI.OpenXml4Net.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\NPOI.OpenXmlFormats.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Quartz.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Register.exe
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Swashbuckle.Core.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Net.Http.Extensions.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Net.Http.Formatting.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Net.Http.Primitives.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Cors.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Helpers.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Http.Cors.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Http.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Http.WebHost.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Mvc.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Razor.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.WebPages.Deployment.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.WebPages.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.WebPages.Razor.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\WebActivatorEx.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\SqlSugar.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Bussiness.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Bussiness.dll.config
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HPC.BaseService.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HPC.BaseService.dll.config
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Autofac.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Autofac.Integration.Mvc.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Autofac.Integration.WebApi.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Autofac.Integration.WebApi.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\AutoMapper.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Common.Logging.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Common.Logging.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Common.Logging.Core.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Common.Logging.Core.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Autofac.Mvc.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Autofac.WebApi.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.AutoMapper.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Core.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Data.Entity.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Data.Orm.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Log4Net.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Web.Mvc.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\log4net.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Newtonsoft.Json.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\NPOI.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Quartz.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Quartz.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Net.Http.Extensions.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Net.Http.Formatting.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Net.Http.Primitives.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Helpers.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Http.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Http.Cors.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Http.WebHost.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Mvc.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Razor.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.WebPages.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.WebPages.Deployment.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.WebPages.Razor.xml
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Web.Http.resources.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Bussiness.XmlSerializers.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\obj\Release\WIN.Web.csproj.App.config
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\obj\Release\WIN.Web.csprojAssemblyReference.cache
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\obj\Release\WIN.Web.csproj.CopyComplete
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\obj\Release\DF.Web.dll
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\obj\Release\DF.Web.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Register.pdb
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Register.exe.config
+E:\0 淡黄网络\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\MySql.Data.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\DF.Web.dll.config
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\DF.Web.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\DF.Web.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Autofac.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Autofac.Integration.Mvc.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Autofac.Integration.WebApi.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\AutoMapper.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Bussiness.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Common.Logging.Core.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Common.Logging.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Autofac.Mvc.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Autofac.WebApi.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.AutoMapper.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Core.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Data.Entity.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Data.Orm.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Excel.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.JobSchedulers.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Log4Net.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Utility.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Utility.Zip.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Web.Api.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Web.Mvc.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HPC.BaseService.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\ICSharpCode.SharpZipLib.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\log4net.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\MySql.Data.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Newtonsoft.Json.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\NPOI.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\NPOI.OOXML.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\NPOI.OpenXml4Net.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\NPOI.OpenXmlFormats.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Quartz.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Register.exe
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Swashbuckle.Core.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Net.Http.Extensions.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Net.Http.Formatting.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Net.Http.Primitives.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Cors.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Helpers.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Http.Cors.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Http.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Http.WebHost.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Mvc.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Razor.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.WebPages.Deployment.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.WebPages.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.WebPages.Razor.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\WebActivatorEx.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\SqlSugar.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Bussiness.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Bussiness.dll.config
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HPC.BaseService.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HPC.BaseService.dll.config
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Register.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Register.exe.config
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Autofac.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Autofac.Integration.Mvc.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Autofac.Integration.WebApi.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Autofac.Integration.WebApi.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\AutoMapper.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Common.Logging.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Common.Logging.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Common.Logging.Core.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Common.Logging.Core.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Autofac.Mvc.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Autofac.WebApi.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.AutoMapper.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Core.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Data.Entity.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Data.Orm.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Log4Net.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\HP.Web.Mvc.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\log4net.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Newtonsoft.Json.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\NPOI.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Quartz.pdb
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Quartz.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Net.Http.Extensions.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Net.Http.Formatting.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Net.Http.Primitives.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Helpers.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Http.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Http.Cors.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Http.WebHost.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Mvc.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.Razor.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.WebPages.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.WebPages.Deployment.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\System.Web.WebPages.Razor.xml
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Web.Http.resources.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\bin\Bussiness.XmlSerializers.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\obj\Release\WIN.Web.csproj.App.config
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\obj\Release\WIN.Web.csprojAssemblyReference.cache
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\obj\Release\WIN.Web.csproj.CoreCompileInputs.cache
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\obj\Release\WIN.Web.csproj.CopyComplete
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\obj\Release\DF.Web.dll
+D:\0 稻成科技\0 项目\1 万事嘉wms 项目\3 code\朗杰WMS\src\DF.Web\obj\Release\DF.Web.pdb
+E:\IWMS\src\DF.Web\bin\DF.Web.dll.config
+E:\IWMS\src\DF.Web\bin\DF.Web.dll
+E:\IWMS\src\DF.Web\bin\DF.Web.pdb
+E:\IWMS\src\DF.Web\bin\Autofac.dll
+E:\IWMS\src\DF.Web\bin\Autofac.Integration.Mvc.dll
+E:\IWMS\src\DF.Web\bin\Autofac.Integration.WebApi.dll
+E:\IWMS\src\DF.Web\bin\AutoMapper.dll
+E:\IWMS\src\DF.Web\bin\Bussiness.dll
+E:\IWMS\src\DF.Web\bin\Common.Logging.Core.dll
+E:\IWMS\src\DF.Web\bin\Common.Logging.dll
+E:\IWMS\src\DF.Web\bin\HP.Autofac.Mvc.dll
+E:\IWMS\src\DF.Web\bin\HP.Autofac.WebApi.dll
+E:\IWMS\src\DF.Web\bin\HP.AutoMapper.dll
+E:\IWMS\src\DF.Web\bin\HP.Core.dll
+E:\IWMS\src\DF.Web\bin\HP.Data.Entity.dll
+E:\IWMS\src\DF.Web\bin\HP.Data.Orm.dll
+E:\IWMS\src\DF.Web\bin\HP.Excel.dll
+E:\IWMS\src\DF.Web\bin\HP.JobSchedulers.dll
+E:\IWMS\src\DF.Web\bin\HP.Log4Net.dll
+E:\IWMS\src\DF.Web\bin\HP.Utility.dll
+E:\IWMS\src\DF.Web\bin\HP.Utility.Zip.dll
+E:\IWMS\src\DF.Web\bin\HP.Web.Api.dll
+E:\IWMS\src\DF.Web\bin\HP.Web.Mvc.dll
+E:\IWMS\src\DF.Web\bin\HPC.BaseService.dll
+E:\IWMS\src\DF.Web\bin\ICSharpCode.SharpZipLib.dll
+E:\IWMS\src\DF.Web\bin\log4net.dll
+E:\IWMS\src\DF.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\IWMS\src\DF.Web\bin\MySql.Data.dll
+E:\IWMS\src\DF.Web\bin\Newtonsoft.Json.dll
+E:\IWMS\src\DF.Web\bin\NPOI.dll
+E:\IWMS\src\DF.Web\bin\NPOI.OOXML.dll
+E:\IWMS\src\DF.Web\bin\NPOI.OpenXml4Net.dll
+E:\IWMS\src\DF.Web\bin\NPOI.OpenXmlFormats.dll
+E:\IWMS\src\DF.Web\bin\Quartz.dll
+E:\IWMS\src\DF.Web\bin\Swashbuckle.Core.dll
+E:\IWMS\src\DF.Web\bin\System.Net.Http.Extensions.dll
+E:\IWMS\src\DF.Web\bin\System.Net.Http.Formatting.dll
+E:\IWMS\src\DF.Web\bin\System.Net.Http.Primitives.dll
+E:\IWMS\src\DF.Web\bin\System.Web.Cors.dll
+E:\IWMS\src\DF.Web\bin\System.Web.Helpers.dll
+E:\IWMS\src\DF.Web\bin\System.Web.Http.Cors.dll
+E:\IWMS\src\DF.Web\bin\System.Web.Http.dll
+E:\IWMS\src\DF.Web\bin\System.Web.Http.WebHost.dll
+E:\IWMS\src\DF.Web\bin\System.Web.Mvc.dll
+E:\IWMS\src\DF.Web\bin\System.Web.Razor.dll
+E:\IWMS\src\DF.Web\bin\System.Web.WebPages.Deployment.dll
+E:\IWMS\src\DF.Web\bin\System.Web.WebPages.dll
+E:\IWMS\src\DF.Web\bin\System.Web.WebPages.Razor.dll
+E:\IWMS\src\DF.Web\bin\WebActivatorEx.dll
+E:\IWMS\src\DF.Web\bin\SqlSugar.dll
+E:\IWMS\src\DF.Web\bin\Bussiness.pdb
+E:\IWMS\src\DF.Web\bin\Bussiness.dll.config
+E:\IWMS\src\DF.Web\bin\Autofac.xml
+E:\IWMS\src\DF.Web\bin\Autofac.Integration.Mvc.xml
+E:\IWMS\src\DF.Web\bin\Autofac.Integration.WebApi.pdb
+E:\IWMS\src\DF.Web\bin\Autofac.Integration.WebApi.xml
+E:\IWMS\src\DF.Web\bin\AutoMapper.xml
+E:\IWMS\src\DF.Web\bin\Common.Logging.pdb
+E:\IWMS\src\DF.Web\bin\Common.Logging.xml
+E:\IWMS\src\DF.Web\bin\Common.Logging.Core.pdb
+E:\IWMS\src\DF.Web\bin\Common.Logging.Core.xml
+E:\IWMS\src\DF.Web\bin\HP.Autofac.Mvc.pdb
+E:\IWMS\src\DF.Web\bin\HP.Autofac.WebApi.pdb
+E:\IWMS\src\DF.Web\bin\HP.AutoMapper.pdb
+E:\IWMS\src\DF.Web\bin\HP.Core.pdb
+E:\IWMS\src\DF.Web\bin\HP.Data.Entity.pdb
+E:\IWMS\src\DF.Web\bin\HP.Data.Orm.pdb
+E:\IWMS\src\DF.Web\bin\HP.Log4Net.pdb
+E:\IWMS\src\DF.Web\bin\HP.Web.Mvc.pdb
+E:\IWMS\src\DF.Web\bin\log4net.xml
+E:\IWMS\src\DF.Web\bin\Newtonsoft.Json.xml
+E:\IWMS\src\DF.Web\bin\NPOI.xml
+E:\IWMS\src\DF.Web\bin\Quartz.pdb
+E:\IWMS\src\DF.Web\bin\Quartz.xml
+E:\IWMS\src\DF.Web\bin\System.Net.Http.Extensions.xml
+E:\IWMS\src\DF.Web\bin\System.Net.Http.Formatting.xml
+E:\IWMS\src\DF.Web\bin\System.Net.Http.Primitives.xml
+E:\IWMS\src\DF.Web\bin\System.Web.Helpers.xml
+E:\IWMS\src\DF.Web\bin\System.Web.Http.xml
+E:\IWMS\src\DF.Web\bin\System.Web.Http.Cors.xml
+E:\IWMS\src\DF.Web\bin\System.Web.Http.WebHost.xml
+E:\IWMS\src\DF.Web\bin\System.Web.Mvc.xml
+E:\IWMS\src\DF.Web\bin\System.Web.Razor.xml
+E:\IWMS\src\DF.Web\bin\System.Web.WebPages.xml
+E:\IWMS\src\DF.Web\bin\System.Web.WebPages.Deployment.xml
+E:\IWMS\src\DF.Web\bin\System.Web.WebPages.Razor.xml
+E:\IWMS\src\DF.Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\IWMS\src\DF.Web\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\IWMS\src\DF.Web\bin\zh-Hans\System.Web.Http.resources.dll
+E:\IWMS\src\DF.Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\IWMS\src\DF.Web\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\IWMS\src\DF.Web\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\IWMS\src\DF.Web\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\IWMS\src\DF.Web\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\IWMS\src\DF.Web\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\IWMS\src\DF.Web\bin\Bussiness.XmlSerializers.dll
+E:\IWMS\src\DF.Web\obj\Release\WIN.Web.csproj.App.config
+E:\IWMS\src\DF.Web\obj\Release\WIN.Web.csproj.AssemblyReference.cache
+E:\IWMS\src\DF.Web\obj\Release\WIN.Web.csproj.CoreCompileInputs.cache
+E:\IWMS\src\DF.Web\obj\Release\WIN.Web.csproj.CopyComplete
+E:\IWMS\src\DF.Web\obj\Release\DF.Web.dll
+E:\IWMS\src\DF.Web\obj\Release\DF.Web.pdb
+E:\Festo\src\DF.Web\bin\DF.Web.dll.config
+E:\Festo\src\DF.Web\bin\DF.Web.dll
+E:\Festo\src\DF.Web\bin\DF.Web.pdb
+E:\Festo\src\DF.Web\bin\Autofac.dll
+E:\Festo\src\DF.Web\bin\Autofac.Integration.Mvc.dll
+E:\Festo\src\DF.Web\bin\Autofac.Integration.WebApi.dll
+E:\Festo\src\DF.Web\bin\AutoMapper.dll
+E:\Festo\src\DF.Web\bin\Bussiness.dll
+E:\Festo\src\DF.Web\bin\Common.Logging.Core.dll
+E:\Festo\src\DF.Web\bin\Common.Logging.dll
+E:\Festo\src\DF.Web\bin\HP.Autofac.Mvc.dll
+E:\Festo\src\DF.Web\bin\HP.Autofac.WebApi.dll
+E:\Festo\src\DF.Web\bin\HP.AutoMapper.dll
+E:\Festo\src\DF.Web\bin\HP.Core.dll
+E:\Festo\src\DF.Web\bin\HP.Data.Entity.dll
+E:\Festo\src\DF.Web\bin\HP.Data.Orm.dll
+E:\Festo\src\DF.Web\bin\HP.Excel.dll
+E:\Festo\src\DF.Web\bin\HP.JobSchedulers.dll
+E:\Festo\src\DF.Web\bin\HP.Log4Net.dll
+E:\Festo\src\DF.Web\bin\HP.Utility.dll
+E:\Festo\src\DF.Web\bin\HP.Utility.Zip.dll
+E:\Festo\src\DF.Web\bin\HP.Web.Api.dll
+E:\Festo\src\DF.Web\bin\HP.Web.Mvc.dll
+E:\Festo\src\DF.Web\bin\HPC.BaseService.dll
+E:\Festo\src\DF.Web\bin\ICSharpCode.SharpZipLib.dll
+E:\Festo\src\DF.Web\bin\log4net.dll
+E:\Festo\src\DF.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Festo\src\DF.Web\bin\MySql.Data.dll
+E:\Festo\src\DF.Web\bin\Newtonsoft.Json.dll
+E:\Festo\src\DF.Web\bin\NPOI.dll
+E:\Festo\src\DF.Web\bin\NPOI.OOXML.dll
+E:\Festo\src\DF.Web\bin\NPOI.OpenXml4Net.dll
+E:\Festo\src\DF.Web\bin\NPOI.OpenXmlFormats.dll
+E:\Festo\src\DF.Web\bin\Quartz.dll
+E:\Festo\src\DF.Web\bin\Swashbuckle.Core.dll
+E:\Festo\src\DF.Web\bin\System.Net.Http.Extensions.dll
+E:\Festo\src\DF.Web\bin\System.Net.Http.Formatting.dll
+E:\Festo\src\DF.Web\bin\System.Net.Http.Primitives.dll
+E:\Festo\src\DF.Web\bin\System.Web.Cors.dll
+E:\Festo\src\DF.Web\bin\System.Web.Helpers.dll
+E:\Festo\src\DF.Web\bin\System.Web.Http.Cors.dll
+E:\Festo\src\DF.Web\bin\System.Web.Http.dll
+E:\Festo\src\DF.Web\bin\System.Web.Http.WebHost.dll
+E:\Festo\src\DF.Web\bin\System.Web.Mvc.dll
+E:\Festo\src\DF.Web\bin\System.Web.Razor.dll
+E:\Festo\src\DF.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Festo\src\DF.Web\bin\System.Web.WebPages.dll
+E:\Festo\src\DF.Web\bin\System.Web.WebPages.Razor.dll
+E:\Festo\src\DF.Web\bin\WebActivatorEx.dll
+E:\Festo\src\DF.Web\bin\SqlSugar.dll
+E:\Festo\src\DF.Web\bin\Bussiness.pdb
+E:\Festo\src\DF.Web\bin\Bussiness.dll.config
+E:\Festo\src\DF.Web\bin\Autofac.xml
+E:\Festo\src\DF.Web\bin\Autofac.Integration.Mvc.xml
+E:\Festo\src\DF.Web\bin\Autofac.Integration.WebApi.pdb
+E:\Festo\src\DF.Web\bin\Autofac.Integration.WebApi.xml
+E:\Festo\src\DF.Web\bin\AutoMapper.xml
+E:\Festo\src\DF.Web\bin\Common.Logging.pdb
+E:\Festo\src\DF.Web\bin\Common.Logging.xml
+E:\Festo\src\DF.Web\bin\Common.Logging.Core.pdb
+E:\Festo\src\DF.Web\bin\Common.Logging.Core.xml
+E:\Festo\src\DF.Web\bin\HP.Autofac.Mvc.pdb
+E:\Festo\src\DF.Web\bin\HP.Autofac.WebApi.pdb
+E:\Festo\src\DF.Web\bin\HP.AutoMapper.pdb
+E:\Festo\src\DF.Web\bin\HP.Core.pdb
+E:\Festo\src\DF.Web\bin\HP.Data.Entity.pdb
+E:\Festo\src\DF.Web\bin\HP.Data.Orm.pdb
+E:\Festo\src\DF.Web\bin\HP.Log4Net.pdb
+E:\Festo\src\DF.Web\bin\HP.Web.Mvc.pdb
+E:\Festo\src\DF.Web\bin\log4net.xml
+E:\Festo\src\DF.Web\bin\Newtonsoft.Json.xml
+E:\Festo\src\DF.Web\bin\NPOI.xml
+E:\Festo\src\DF.Web\bin\Quartz.pdb
+E:\Festo\src\DF.Web\bin\Quartz.xml
+E:\Festo\src\DF.Web\bin\System.Net.Http.Extensions.xml
+E:\Festo\src\DF.Web\bin\System.Net.Http.Formatting.xml
+E:\Festo\src\DF.Web\bin\System.Net.Http.Primitives.xml
+E:\Festo\src\DF.Web\bin\System.Web.Helpers.xml
+E:\Festo\src\DF.Web\bin\System.Web.Http.xml
+E:\Festo\src\DF.Web\bin\System.Web.Http.Cors.xml
+E:\Festo\src\DF.Web\bin\System.Web.Http.WebHost.xml
+E:\Festo\src\DF.Web\bin\System.Web.Mvc.xml
+E:\Festo\src\DF.Web\bin\System.Web.Razor.xml
+E:\Festo\src\DF.Web\bin\System.Web.WebPages.xml
+E:\Festo\src\DF.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Festo\src\DF.Web\bin\System.Web.WebPages.Razor.xml
+E:\Festo\src\DF.Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\Festo\src\DF.Web\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\Festo\src\DF.Web\bin\zh-Hans\System.Web.Http.resources.dll
+E:\Festo\src\DF.Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\Festo\src\DF.Web\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\Festo\src\DF.Web\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\Festo\src\DF.Web\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\Festo\src\DF.Web\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\Festo\src\DF.Web\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\Festo\src\DF.Web\bin\Bussiness.XmlSerializers.dll
+E:\Festo\src\DF.Web\obj\Release\WIN.Web.csproj.App.config
+E:\Festo\src\DF.Web\obj\Release\WIN.Web.csproj.AssemblyReference.cache
+E:\Festo\src\DF.Web\obj\Release\WIN.Web.csproj.CoreCompileInputs.cache
+E:\Festo\src\DF.Web\obj\Release\WIN.Web.csproj.CopyComplete
+E:\Festo\src\DF.Web\obj\Release\DF.Web.dll
+E:\Festo\src\DF.Web\obj\Release\DF.Web.pdb
+E:\SoftwareSourceCode\src\DF.Web\bin\DF.Web.dll.config
+E:\SoftwareSourceCode\src\DF.Web\bin\DF.Web.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\DF.Web.pdb
+E:\SoftwareSourceCode\src\DF.Web\bin\Autofac.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\Autofac.Integration.Mvc.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\Autofac.Integration.WebApi.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\AutoMapper.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\Bussiness.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\Common.Logging.Core.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\Common.Logging.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Autofac.Mvc.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Autofac.WebApi.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.AutoMapper.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Core.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Data.Entity.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Data.Orm.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Excel.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.JobSchedulers.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Log4Net.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Utility.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Utility.Zip.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Web.Api.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Web.Mvc.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\HPC.BaseService.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\ICSharpCode.SharpZipLib.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\log4net.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\MySql.Data.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\Newtonsoft.Json.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\NPOI.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\NPOI.OOXML.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\NPOI.OpenXml4Net.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\NPOI.OpenXmlFormats.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\Quartz.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\Swashbuckle.Core.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Net.Http.Extensions.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Net.Http.Formatting.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Net.Http.Primitives.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.Cors.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.Helpers.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.Http.Cors.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.Http.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.Http.WebHost.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.Mvc.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.Razor.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.WebPages.Deployment.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.WebPages.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.WebPages.Razor.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\WebActivatorEx.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\SqlSugar.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\Bussiness.pdb
+E:\SoftwareSourceCode\src\DF.Web\bin\Bussiness.dll.config
+E:\SoftwareSourceCode\src\DF.Web\bin\Autofac.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\Autofac.Integration.Mvc.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\Autofac.Integration.WebApi.pdb
+E:\SoftwareSourceCode\src\DF.Web\bin\Autofac.Integration.WebApi.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\AutoMapper.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\Common.Logging.pdb
+E:\SoftwareSourceCode\src\DF.Web\bin\Common.Logging.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\Common.Logging.Core.pdb
+E:\SoftwareSourceCode\src\DF.Web\bin\Common.Logging.Core.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Autofac.Mvc.pdb
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Autofac.WebApi.pdb
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.AutoMapper.pdb
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Core.pdb
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Data.Entity.pdb
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Data.Orm.pdb
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Log4Net.pdb
+E:\SoftwareSourceCode\src\DF.Web\bin\HP.Web.Mvc.pdb
+E:\SoftwareSourceCode\src\DF.Web\bin\log4net.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\Newtonsoft.Json.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\NPOI.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\Quartz.pdb
+E:\SoftwareSourceCode\src\DF.Web\bin\Quartz.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Net.Http.Extensions.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Net.Http.Formatting.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Net.Http.Primitives.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.Helpers.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.Http.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.Http.Cors.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.Http.WebHost.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.Mvc.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.Razor.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.WebPages.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.WebPages.Deployment.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\System.Web.WebPages.Razor.xml
+E:\SoftwareSourceCode\src\DF.Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\zh-Hans\System.Web.Http.resources.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\SoftwareSourceCode\src\DF.Web\bin\Bussiness.XmlSerializers.dll
+E:\SoftwareSourceCode\src\DF.Web\obj\Release\WIN.Web.csproj.App.config
+E:\SoftwareSourceCode\src\DF.Web\obj\Release\WIN.Web.csproj.AssemblyReference.cache
+E:\SoftwareSourceCode\src\DF.Web\obj\Release\WIN.Web.csproj.CoreCompileInputs.cache
+E:\SoftwareSourceCode\src\DF.Web\obj\Release\WIN.Web.csproj.CopyComplete
+E:\SoftwareSourceCode\src\DF.Web\obj\Release\DF.Web.dll
+E:\SoftwareSourceCode\src\DF.Web\obj\Release\DF.Web.pdb

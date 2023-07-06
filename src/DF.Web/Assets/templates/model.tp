@@ -1,0 +1,16 @@
+﻿using System;
+using System.ComponentModel;
+using HP.Core.Data;
+using HP.Core.Data.Infrastructure;
+using HP.Data.Orm.Entity;
+
+namespace {=Namespace}
+{
+	{=Description}
+    {=TableAttribute}
+    public class {=Name} : EntityBase<{=PKType}> {=Inherit}
+    {
+{=Propertys}
+    }
+}
+

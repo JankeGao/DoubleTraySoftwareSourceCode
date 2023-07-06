@@ -1,0 +1,2 @@
+2022/9/13 11:38:30:捕获未处理异常:未能加载文件或程序集“file:///E:\IWMS\client\wms.Client\bin\x64\Debug\Seagull.BarTender.Print.dll”或它的某一个依赖项。试图加载格式不正确的程序。
+2022/9/13 13:24:14:捕获未处理异常:未能加载文件或程序集“file:///E:\IWMS\client\wms.Client\bin\x64\Debug\Seagull.BarTender.Print.dll”或它的某一个依赖项。试图加载格式不正确的程序。

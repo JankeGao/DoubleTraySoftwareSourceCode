@@ -1,0 +1,27 @@
+﻿using HP.Data.Orm;
+using HP.Core.Data;
+using HP.Utility;
+using HP.Utility.Data;
+using HP.Utility.Extensions;
+{=Using}
+
+namespace {=Namespace}
+{
+    public class {=Name} : {=Interface}
+    {
+        /// <summary>
+        /// {=Description}仓储
+        /// </summary>
+        public IRepository<{=EntityName}, {=PKType}> {=EntityName}Repository { set; get; }
+
+		/// <summary>
+        /// 查询{=Description}
+        /// </summary>
+        public IQuery<{=EntityName}> {=EntityName}s
+        {
+            get { return {=EntityName}Repository.Query(); }
+        }
+
+{=Functions}
+    }
+}

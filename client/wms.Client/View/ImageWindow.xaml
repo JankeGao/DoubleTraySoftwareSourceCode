@@ -1,0 +1,67 @@
+﻿<UserControl
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:wms.Client.View"
+    xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+    xmlns:wpf="clr-namespace:MaterialDesignThemes.Wpf;assembly=MaterialDesignThemes.Wpf"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns:Converters="clr-namespace:MaterialDesignThemes.Wpf.Converters;assembly=MaterialDesignThemes.Wpf"
+    xmlns:system="clr-namespace:System;assembly=mscorlib"
+    xmlns:view="clr-namespace:wms.Client.View"
+    xmlns:validationRules="clr-namespace:wms.Client.UiCore.ValidationRules"
+    x:Class="wms.Client.View.ImageWindow"
+    mc:Ignorable="d"
+    Width="400" Height="350">
+
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Grid>
+            <materialDesign:ColorZone Padding="40" Mode="PrimaryMid" />
+            <StackPanel Orientation="Horizontal">
+                <materialDesign:PackIcon Kind="AccountBox" Width="20" Height="20"
+                                         VerticalAlignment="Center" Foreground="White" Margin="5 0 0 0" />
+                <TextBlock Text="图片显示" FontSize="12" Foreground="White"
+                           VerticalAlignment="Center" Margin="5 0 0 0" />
+            </StackPanel>
+
+            <!--<Border Width="50" Height="50" HorizontalAlignment="Right" Margin="0 0 5 0">
+                <TextBlock Text="❎" Foreground="White" FontSize="25"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center">
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="MouseLeftButtonDown">
+                            <i:InvokeCommandAction Command="{x:Static wpf:DialogHost.CloseDialogCommand}" />
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+                </TextBlock>
+            </Border>-->
+            <Button
+                Width="50" Height="50" HorizontalAlignment="Right" Margin="0 0 5 0"
+                Click="Exit_Click"
+                Style="{StaticResource MaterialDesignIconButton}"
+                ToolTip="MaterialDesignIconButton">
+                <materialDesign:PackIcon
+                    Kind="Close" 
+                    Foreground="White"/>
+                <!--<i:Interaction.Triggers>
+                    <i:EventTrigger EventName="MouseLeftButtonDown">
+                        <i:InvokeCommandAction Command="{x:Static wpf:DialogHost.CloseDialogCommand}" />
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>-->
+            </Button>
+        </Grid>
+        <Grid  Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Image Name="ImageSrc"/>
+        </Grid>
+    </Grid>
+</UserControl>

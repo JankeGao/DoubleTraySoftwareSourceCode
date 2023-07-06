@@ -1,0 +1,979 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{56B46E4A-6501-48FC-A1E5-FC18BDC7232F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>wms.Client</RootNamespace>
+    <AssemblyName>wms.Client</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\App\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+    <Prefer32Bit>true</Prefer32Bit>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Adobe.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Win32Resource>
+    </Win32Resource>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Autofac, Version=4.6.2.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autofac.4.6.2\lib\net45\Autofac.dll</HintPath>
+    </Reference>
+    <Reference Include="Autofac.Extras.CommonServiceLocator, Version=5.0.0.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autofac.Extras.CommonServiceLocator.5.0.0\lib\net45\Autofac.Extras.CommonServiceLocator.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Crypto, Version=1.9.0.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>packages\Portable.BouncyCastle.1.9.0\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Bussiness, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\libs\Bussiness.dll</HintPath>
+    </Reference>
+    <Reference Include="CommonServiceLocator, Version=2.0.2.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\CommonServiceLocator.2.0.2\lib\net45\CommonServiceLocator.dll</HintPath>
+    </Reference>
+    <Reference Include="Dragablz, Version=0.0.3.223, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dragablz.0.0.3.223\lib\net45\Dragablz.dll</HintPath>
+    </Reference>
+    <Reference Include="GalaSoft.MvvmLight, Version=5.4.1.0, Culture=neutral, PublicKeyToken=e7570ab207bcb616, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmLightLibs.5.4.1.1\lib\net45\GalaSoft.MvvmLight.dll</HintPath>
+    </Reference>
+    <Reference Include="GalaSoft.MvvmLight.Extras, Version=5.4.1.0, Culture=neutral, PublicKeyToken=669f0b5e8f868abf, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmLightLibs.5.4.1.1\lib\net45\GalaSoft.MvvmLight.Extras.dll</HintPath>
+    </Reference>
+    <Reference Include="GalaSoft.MvvmLight.Platform, Version=5.4.1.0, Culture=neutral, PublicKeyToken=5f873c45e98af8a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmLightLibs.5.4.1.1\lib\net45\GalaSoft.MvvmLight.Platform.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.19.4.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>packages\Google.Protobuf.3.19.4\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="HP.AutoMapper, Version=1.3.2.3, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\libs\HP.AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="HP.Core">
+      <HintPath>..\packages\libs\HP.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="HP.Data.Entity, Version=1.3.2.3, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\libs\HP.Data.Entity.dll</HintPath>
+    </Reference>
+    <Reference Include="HP.Data.Orm, Version=1.3.2.3, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\libs\HP.Data.Orm.dll</HintPath>
+    </Reference>
+    <Reference Include="HP.Utility, Version=1.3.2.3, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\libs\HP.Utility.dll</HintPath>
+    </Reference>
+    <Reference Include="HP.Web.Mvc">
+      <HintPath>..\packages\libs\HP.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="HPC.BaseService, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\libs\HPC.BaseService.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Compression.LZ4.1.2.6\lib\net46\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Compression.LZ4.Streams.1.2.6\lib\net46\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Hash.xxHash.1.0.6\lib\net46\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignColors, Version=1.2.7.1979, Culture=neutral, PublicKeyToken=df2a72020bd7962a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignColors.1.2.7\lib\net45\MaterialDesignColors.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignThemes.Wpf, Version=3.2.0.1979, Culture=neutral, PublicKeyToken=df2a72020bd7962a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignThemes.3.2.0\lib\net45\MaterialDesignThemes.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Toolkit, Version=6.0.0.0, Culture=neutral, PublicKeyToken=4aff67a105548ee2, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Toolkit.6.0.0\lib\netstandard2.0\Microsoft.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="MVVM">
+      <HintPath>..\packages\libs\MVVM.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>packages\MySql.Data.8.0.30\lib\net48\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Quartz, Version=3.0.7.0, Culture=neutral, PublicKeyToken=f6b8c98a402cc8a4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Quartz.3.0.7\lib\net452\Quartz.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=106.0.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.106.10.1\lib\net452\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Seagull.BarTender.Print, Version=10.1.4.1, Culture=neutral, PublicKeyToken=109ff779a1b4cbc7, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\libs\Seagull.BarTender.Print.dll</HintPath>
+    </Reference>
+    <Reference Include="SearchableTextBox">
+      <HintPath>..\packages\libs\SearchableTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="ShowMeTheXAML, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ShowMeTheXAML.1.0.12\lib\net45\ShowMeTheXAML.dll</HintPath>
+    </Reference>
+    <Reference Include="SqlSugar, Version=5.0.1.7, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SqlSugar.5.0.1.7\lib\SqlSugar.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmLightLibs.5.4.1.1\lib\net45\System.Windows.Interactivity.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>packages\MySql.Data.8.0.30\lib\net48\Ubiety.Dns.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="ZstdNet, Version=1.4.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>packages\MySql.Data.8.0.30\lib\net48\ZstdNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="App_Start\DbContextConfig.cs" />
+    <Compile Include="App_Start\DbContextConfig.generated.cs" />
+    <Compile Include="App_Start\DbContextConfig1.cs" />
+    <Compile Include="Common\AnimationHelper.cs" />
+    <Compile Include="Common\Converters\IBoolConverter.cs" />
+    <Compile Include="Common\Converters\IUrlToBitmapConverter.cs" />
+    <Compile Include="Common\Converters\MenuWidthConverter.cs" />
+    <Compile Include="Common\HCNetSDK.cs" />
+    <Compile Include="Common\ImageHelper.cs" />
+    <Compile Include="Common\ObjectConvert.cs" />
+    <Compile Include="Common\PaletteHelperExtensions.cs" />
+    <Compile Include="Common\VisualHelper.cs" />
+    <Compile Include="Common\WeightReader.cs" />
+    <Compile Include="Core\AutofacIocBuilder.cs" />
+    <Compile Include="Core\Interfaces\IDashboardService.cs" />
+    <Compile Include="Core\Interfaces\IAuthorithitemService.cs" />
+    <Compile Include="Core\Interfaces\IAlarmService.cs" />
+    <Compile Include="Core\Interfaces\IDictionariesService.cs" />
+    <Compile Include="Core\Interfaces\IDictionaryTypeService.cs" />
+    <Compile Include="Core\Interfaces\IGroupFuncService.cs" />
+    <Compile Include="Core\Interfaces\IGroupService.cs" />
+    <Compile Include="Core\Interfaces\IGroupUserService.cs" />
+    <Compile Include="Core\Interfaces\ICheckMainService.cs" />
+    <Compile Include="Core\Interfaces\IBaseControlService.cs" />
+    <Compile Include="Core\Interfaces\ILabelService.cs" />
+    <Compile Include="Core\Interfaces\IReceiveTaskService.cs" />
+    <Compile Include="Core\Interfaces\IOutTaskService.cs" />
+    <Compile Include="Core\Interfaces\IInTaskService.cs" />
+    <Compile Include="Core\Interfaces\ILoginLogService.cs" />
+    <Compile Include="Core\Interfaces\IMenuService.cs" />
+    <Compile Include="Core\Interfaces\IUserService.cs" />
+    <Compile Include="Core\share\Common\Attributes\ModuleAttribute.cs" />
+    <Compile Include="Core\share\Common\Attributes\PreventAttribute.cs" />
+    <Compile Include="Core\share\Common\Collections\IEnumerablePagedListExtensions.cs" />
+    <Compile Include="Core\share\Common\Collections\IPagedList.cs" />
+    <Compile Include="Core\share\Common\Collections\PagedList.cs" />
+    <Compile Include="Core\share\Common\CommandStruct.cs" />
+    <Compile Include="Core\share\Common\Contract.cs" />
+    <Compile Include="Core\share\Common\Enums\ActionMode.cs" />
+    <Compile Include="Core\share\Common\Enums\EnumHelper.cs" />
+    <Compile Include="Core\share\Common\Enums\ModuleType.cs" />
+    <Compile Include="Core\share\Common\Enums\Notify.cs" />
+    <Compile Include="Core\share\Common\MsgInfo.cs" />
+    <Compile Include="Core\share\Common\Query\AuthItemParameters.cs" />
+    <Compile Include="Core\share\Common\Query\QueryParameters.cs" />
+    <Compile Include="Core\share\Common\Query\UserParameters.cs" />
+    <Compile Include="Core\share\DataInterfaces\IAuthority.cs" />
+    <Compile Include="Core\share\DataInterfaces\IConsumptionRepository.cs" />
+    <Compile Include="Core\share\DataInterfaces\IDataInitializer.cs" />
+    <Compile Include="Core\share\DataInterfaces\IDataPager.cs" />
+    <Compile Include="Core\share\DataInterfaces\ILog.cs" />
+    <Compile Include="Core\share\DataInterfaces\IModuleDialog.cs" />
+    <Compile Include="Core\share\DataInterfaces\ViewModelBase.cs" />
+    <Compile Include="Core\share\DataModel\AuthItem.cs" />
+    <Compile Include="Core\share\DataModel\BaseEntity.cs" />
+    <Compile Include="Core\share\DataModel\Basic.cs" />
+    <Compile Include="Core\share\DataModel\BasicType.cs" />
+    <Compile Include="Core\share\DataModel\Group.cs" />
+    <Compile Include="Core\share\DataModel\GroupFunc.cs" />
+    <Compile Include="Core\share\DataModel\GroupUser.cs" />
+    <Compile Include="Core\share\DataModel\Menu.cs" />
+    <Compile Include="Core\share\DataModel\MenuModuleGroup.cs" />
+    <Compile Include="Core\share\DataModel\User.cs" />
+    <Compile Include="Core\share\DataModel\UserConfig.cs" />
+    <Compile Include="Core\share\DataModel\UserLog.cs" />
+    <Compile Include="Core\share\Dto\BaseDto.cs" />
+    <Compile Include="Core\share\Dto\BasicDto.cs" />
+    <Compile Include="Core\share\Dto\GroupDataDto.cs" />
+    <Compile Include="Core\share\Dto\GroupDto.cs" />
+    <Compile Include="Core\share\Dto\GroupUserDto.cs" />
+    <Compile Include="Core\share\Dto\LoginDto.cs" />
+    <Compile Include="Core\share\Dto\MenuDto.cs" />
+    <Compile Include="Core\share\Dto\MenuModuleGroupDto.cs" />
+    <Compile Include="Core\share\Dto\UserDto.cs" />
+    <Compile Include="Core\share\Dto\UserInfoDto.cs" />
+    <Compile Include="Core\share\HttpContact\BaseRequest.cs" />
+    <Compile Include="Core\share\HttpContact\BaseResponse.cs" />
+    <Compile Include="Core\share\HttpContact\Request\AuthItemRequest.cs" />
+    <Compile Include="Core\share\HttpContact\Request\GroupRequest.cs" />
+    <Compile Include="Core\share\HttpContact\Request\UserRequest.cs" />
+    <Compile Include="Core\share\HttpContact\Response\ApiResponse.cs" />
+    <Compile Include="Jobs\BaseJob.cs" />
+    <Compile Include="Jobs\AlarmJob\AlarmJob.cs" />
+    <Compile Include="Jobs\DemoJob\DemoJob.cs" />
+    <Compile Include="Jobs\IBaseJob.cs" />
+    <Compile Include="Jobs\JobConfig.cs" />
+    <Compile Include="Jobs\JobDetail.cs" />
+    <Compile Include="Jobs\JobListener.cs" />
+    <Compile Include="LogicCore\Common\AutofacLocator.cs" />
+    <Compile Include="LogicCore\Common\AutofacAttribute.cs" />
+    <Compile Include="LogicCore\Common\BootStrapper.cs" />
+    <Compile Include="LogicCore\Common\CheckTaskGroup.cs" />
+    <Compile Include="LogicCore\Common\ReceiveTaskGroup.cs" />
+    <Compile Include="LogicCore\Common\OutTaskGroup.cs" />
+    <Compile Include="LogicCore\Common\MenuGroupModel.cs" />
+    <Compile Include="LogicCore\Common\ModuleComponent.cs" />
+    <Compile Include="LogicCore\Common\ModuleGroup.cs" />
+    <Compile Include="LogicCore\Common\InTaskGroup.cs" />
+    <Compile Include="LogicCore\Common\ModuleInfo.cs" />
+    <Compile Include="LogicCore\Common\ModuleManager.cs" />
+    <Compile Include="LogicCore\Common\Msg.cs" />
+    <Compile Include="LogicCore\Common\MsgBoxViewModel.cs" />
+    <Compile Include="LogicCore\Common\NoticeViewModel.cs" />
+    <Compile Include="LogicCore\Common\PageInfo.cs" />
+    <Compile Include="LogicCore\Common\PopBoxViewModel.cs" />
+    <Compile Include="LogicCore\Configuration\ContainerEntity.cs" />
+    <Compile Include="Model\Entity\Authorithitem.cs" />
+    <Compile Include="Model\Entity\BaseEntity.cs" />
+    <Compile Include="Model\Entity\Dictionaries.cs" />
+    <Compile Include="Model\Entity\DictionaryType.cs" />
+    <Compile Include="Model\Entity\Group.cs" />
+    <Compile Include="Model\Entity\GroupFunc.cs" />
+    <Compile Include="Model\Entity\GroupUser.cs" />
+    <Compile Include="Model\Entity\LoginLog.cs" />
+    <Compile Include="Model\Entity\LabelClient.cs" />
+    <Compile Include="Model\Entity\Menu.cs" />
+    <Compile Include="Model\Entity\RunningContainer.cs" />
+    <Compile Include="Model\Entity\User.cs" />
+    <Compile Include="Model\PreventAttribute.cs" />
+    <Compile Include="Model\Query\DictionariesParameters.cs" />
+    <Compile Include="Model\Query\GroupParameters.cs" />
+    <Compile Include="Model\Query\MenuParameters.cs" />
+    <Compile Include="Model\Query\QueryParameters.cs" />
+    <Compile Include="Model\Query\UserParameters.cs" />
+    <Compile Include="Model\RequestModel\AlarmRequest.cs" />
+    <Compile Include="Model\RequestModel\DashboardRequest.cs" />
+    <Compile Include="Model\RequestModel\BasePaging.cs" />
+    <Compile Include="Model\RequestModel\BaseRequest.cs" />
+    <Compile Include="Model\RequestModel\DictionariesRequest.cs" />
+    <Compile Include="Model\RequestModel\GroupRequest.cs" />
+    <Compile Include="Model\RequestModel\CheckServiceRequest.cs" />
+    <Compile Include="Model\RequestModel\BaseControlRequest.cs" />
+    <Compile Include="Model\RequestModel\LabelRequest.cs" />
+    <Compile Include="Model\RequestModel\OutTaskServiceRequest.cs" />
+    <Compile Include="Model\RequestModel\ReceiveTaskServiceRequest.cs" />
+    <Compile Include="Model\RequestModel\InTaskServiceRequest.cs" />
+    <Compile Include="Model\RequestModel\MenuRequest.cs" />
+    <Compile Include="Model\RequestModel\UserRequest.cs" />
+    <Compile Include="Model\ResponseModel\BaseResponse.cs" />
+    <Compile Include="Model\ResponseModel\DictionariesResponse.cs" />
+    <Compile Include="Model\ResponseModel\GroupResponse.cs" />
+    <Compile Include="Model\ResponseModel\MenuResponse.cs" />
+    <Compile Include="Model\ResponseModel\UserResponse.cs" />
+    <Compile Include="Service\BaseServiceRequest.cs" />
+    <Compile Include="Service\GlobalData.cs" />
+    <Compile Include="Service\HttpCertificateMethod.cs" />
+    <Compile Include="Service\Method.cs" />
+    <Compile Include="Service\RestSharpCertificateMethod.cs" />
+    <Compile Include="Service\Service\DashboardService.cs" />
+    <Compile Include="Service\Service\AlarmService.cs" />
+    <Compile Include="Service\Service\DictionaryService.cs" />
+    <Compile Include="Service\Service\GroupService.cs" />
+    <Compile Include="Service\Service\CheckMainService.cs" />
+    <Compile Include="Service\Service\BaseControlService.cs" />
+    <Compile Include="Service\Service\LabelService.cs" />
+    <Compile Include="Service\Service\ReceiveTaskService.cs" />
+    <Compile Include="Service\Service\OutTaskService.cs" />
+    <Compile Include="Service\Service\InTaskService.cs" />
+    <Compile Include="Service\Service\MenuService.cs" />
+    <Compile Include="Service\Service\UserService.cs" />
+    <Compile Include="Startup.cs" />
+    <Compile Include="Template\AlarmConfirmationBox.xaml.cs">
+      <DependentUpon>AlarmConfirmationBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Template\Converters\IsLastItemConverter.cs" />
+    <Compile Include="Template\Converters\IsProgressedConverter.cs" />
+    <Compile Include="Template\DataPager.cs" />
+    <Compile Include="Template\MaintenancePopover.xaml.cs">
+      <DependentUpon>MaintenancePopover.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Template\ModuleTemplateSelector.cs" />
+    <Compile Include="Template\MsgView.xaml.cs">
+      <DependentUpon>MsgView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Template\Progress\StepBar.cs" />
+    <Compile Include="Template\Progress\StepBarItem.cs" />
+    <Compile Include="Template\SplashScreenView.xaml.cs">
+      <DependentUpon>SplashScreenView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Template\SwitchModeBar.xaml.cs">
+      <DependentUpon>SwitchModeBar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Template\ToolbarContainer.xaml.cs">
+      <DependentUpon>ToolbarContainer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\VisualTargetPresentationSource.cs" />
+    <Compile Include="UiCore\VisualWrapper.cs" />
+    <Compile Include="ViewDlg\ContainerSettingDlg.cs" />
+    <Compile Include="ViewDlg\FaceInfoDlg.cs" />
+    <Compile Include="ViewDlg\GuideDlg.cs" />
+    <Compile Include="ViewDlg\AlarmDlg.cs" />
+    <Compile Include="ViewDlg\StockDlg.cs" />
+    <Compile Include="ViewDlg\ManualOutDlg.cs" />
+    <Compile Include="ViewDlg\CheckMainDlg.cs" />
+    <Compile Include="ViewDlg\ReceiveTaskDlg.cs" />
+    <Compile Include="ViewDlg\OutTaskDlg.cs" />
+    <Compile Include="ViewDlg\TempInDlg.cs" />
+    <Compile Include="ViewDlg\ManualInDlg.cs" />
+    <Compile Include="ViewDlg\BarCodeDlg.cs" />
+    <Compile Include="ViewDlg\UserLoginDlg.cs" />
+    <Compile Include="ViewModel\AlarmConfirmationBoxViewModel.cs" />
+    <Compile Include="ViewModel\ContainerSettingViewModel.cs" />
+    <Compile Include="ViewModel\FaceInfoViewModel.cs" />
+    <Compile Include="ViewModel\GuideModel.cs" />
+    <Compile Include="ViewModel\AlarmViewModel.cs" />
+    <Compile Include="ViewModel\MaintenancePopoverViewModel.cs" />
+    <Compile Include="ViewModel\StockViewModel.cs" />
+    <Compile Include="ViewModel\ManualOutViewModel.cs" />
+    <Compile Include="ViewModel\CheckMainViewModel.cs" />
+    <Compile Include="ViewModel\ReceiveTaskViewModel.cs" />
+    <Compile Include="ViewModel\OutTaskViewModel.cs" />
+    <Compile Include="ViewModel\ManualInViewModel.cs" />
+    <Compile Include="ViewModel\TempInViewModel.cs" />
+    <Compile Include="ViewModel\BarCodeViewModel.cs" />
+    <Compile Include="ViewModel\ImageShowModel.cs" />
+    <Compile Include="ViewModel\UserLoginModel.cs" />
+    <Compile Include="LogicCore\Common\SkinViewModel.cs" />
+    <Compile Include="LogicCore\Common\ToolBarDefault.cs" />
+    <Compile Include="LogicCore\Configuration\LoggerHelper.cs" />
+    <Compile Include="LogicCore\Configuration\Loginer.cs" />
+    <Compile Include="LogicCore\Configuration\SerivceFiguration.cs" />
+    <Compile Include="LogicCore\Configuration\ServiceProvider.cs" />
+    <Compile Include="LogicCore\Enums\ActionMode.cs" />
+    <Compile Include="LogicCore\Enums\Authority.cs" />
+    <Compile Include="LogicCore\Enums\ContextMenuType.cs" />
+    <Compile Include="LogicCore\Enums\ExpansionState.cs" />
+    <Compile Include="LogicCore\Enums\MenuBehaviorType.cs" />
+    <Compile Include="LogicCore\Enums\ModuleAttribute.cs" />
+    <Compile Include="LogicCore\Enums\ValidationType.cs" />
+    <Compile Include="LogicCore\Helpers\CEncoder.cs" />
+    <Compile Include="LogicCore\Helpers\DataHelper.cs" />
+    <Compile Include="LogicCore\Helpers\Files\IniFile.cs" />
+    <Compile Include="LogicCore\Interface\IAutoFacLocator.cs" />
+    <Compile Include="LogicCore\Interface\IDataOperation.cs" />
+    <Compile Include="LogicCore\Interface\IDataPager.cs" />
+    <Compile Include="LogicCore\Interface\IModel.cs" />
+    <Compile Include="LogicCore\Interface\IModelDialog.cs" />
+    <Compile Include="LogicCore\Interface\IPermission.cs" />
+    <Compile Include="LogicCore\Interface\IShowContent.cs" />
+    <Compile Include="LogicCore\UserAttribute\GetEnumAttrbute.cs" />
+    <Compile Include="UiCore\Converter\CustomConverter.cs" />
+    <Compile Include="UiCore\Converter\FlagConverter.cs" />
+    <Compile Include="UiCore\Converter\NumberConverter.cs" />
+    <Compile Include="UiCore\Converter\StatusConverter.cs" />
+    <Compile Include="UiCore\Converter\VisibilityConverter.cs" />
+    <Compile Include="UiCore\Template\DemoCharts\DemoChart.xaml.cs">
+      <DependentUpon>DemoChart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\Template\DemoCharts\HomeAbout.xaml.cs">
+      <DependentUpon>HomeAbout.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\Template\DemoCharts\MaterialCards.xaml.cs">
+      <DependentUpon>MaterialCards.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\Template\DemoCharts\PieChartExample.xaml.cs">
+      <DependentUpon>PieChartExample.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\Template\DemoCharts\StackedAreaExample.xaml.cs">
+      <DependentUpon>StackedAreaExample.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\Template\MainLeftMenu.xaml.cs">
+      <DependentUpon>MainLeftMenu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\Template\MainNotice.xaml.cs">
+      <DependentUpon>MainNotice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\Template\MainPopupBox.xaml.cs">
+      <DependentUpon>MainPopupBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\Template\MainTabControl.xaml.cs">
+      <DependentUpon>MainTabControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\Template\MsgBox.xaml.cs">
+      <DependentUpon>MsgBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\Template\NotFoundView.xaml.cs">
+      <DependentUpon>NotFoundView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\Template\SplashScreen.xaml.cs">
+      <DependentUpon>SplashScreen.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\Template\UcDataPager.xaml.cs">
+      <DependentUpon>UcDataPager.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\Template\UserColorBar.xaml.cs">
+      <DependentUpon>UserColorBar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\Template\UserDetailToolBar.xaml.cs">
+      <DependentUpon>UserDetailToolBar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\Template\UserOperateBar.xaml.cs">
+      <DependentUpon>UserOperateBar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\Template\UserToolBar.xaml.cs">
+      <DependentUpon>UserToolBar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UiCore\ValidationRules\CustomizeValidationRule.cs" />
+    <Compile Include="UiCore\ValidationRules\IValidationExceptionHandler.cs" />
+    <Compile Include="UiCore\ValidationRules\NotEmptyValidationRule.cs" />
+    <Compile Include="UiCore\ValidationRules\ValidationExceptionBehavior.cs" />
+    <Compile Include="ViewDlg\DictionaryDlg.cs" />
+    <Compile Include="ViewDlg\GroupDlg.cs" />
+    <Compile Include="ViewDlg\LoginViewDlg.cs" />
+    <Compile Include="ViewDlg\MainViewDlg.cs" />
+    <Compile Include="ViewDlg\MenuDlg.cs" />
+    <Compile Include="ViewDlg\MsgDlg.cs" />
+    <Compile Include="ViewDlg\InTaskDlg.cs" />
+    <Compile Include="ViewDlg\StepDlg.cs" />
+    <Compile Include="ViewDlg\UserDlg.cs" />
+    <Compile Include="ViewModel\DictionaryViewModel.cs" />
+    <Compile Include="ViewModel\GroupViewModel.cs" />
+    <Compile Include="ViewModel\LoginViewModel.cs" />
+    <Compile Include="ViewModel\MainViewModel.cs" />
+    <Compile Include="ViewModel\MenuViewModel.cs" />
+    <Compile Include="ViewModel\other\Common\Module.cs" />
+    <Compile Include="ViewModel\other\Common\ModuleComponent.cs" />
+    <Compile Include="ViewModel\other\Common\ModuleGroup.cs" />
+    <Compile Include="ViewModel\other\Common\ModuleManager.cs" />
+    <Compile Include="ViewModel\other\Common\Msg.cs" />
+    <Compile Include="ViewModel\other\Common\MsgViewModel.cs" />
+    <Compile Include="ViewModel\InTaskViewModel.cs" />
+    <Compile Include="ViewModel\StepViewModel.cs" />
+    <Compile Include="ViewModel\UserViewModel.cs" />
+    <Compile Include="ViewModel\Base\DialogProcess.cs" />
+    <Compile Include="ViewModel\Base\DataProcess.cs" />
+    <Compile Include="ViewModel\Base\BaseView.cs" />
+    <Compile Include="ViewModel\Base\BaseViewDialog.cs" />
+    <Compile Include="Common\AlternationIndexConverter.cs" />
+    <Compile Include="View\ContainerSettingView.xaml.cs">
+      <DependentUpon>ContainerSettingView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\FaceInfoView.xaml.cs">
+      <DependentUpon>FaceInfoView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\DictionaryView.xaml.cs">
+      <DependentUpon>DictionaryView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\GroupView.xaml.cs">
+      <DependentUpon>GroupView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\AlarmView.xaml.cs">
+      <DependentUpon>AlarmView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\StockView.xaml.cs">
+      <DependentUpon>StockView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ManualOutView.xaml.cs">
+      <DependentUpon>ManualOutView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\CheckMainView.xaml.cs">
+      <DependentUpon>CheckMainView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ReceiveTaskView.xaml.cs">
+      <DependentUpon>ReceiveTaskView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\OutTaskView.xaml.cs">
+      <DependentUpon>OutTaskView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\TempInView.xaml.cs">
+      <DependentUpon>TempInView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ManualInView.xaml.cs">
+      <DependentUpon>ManualInView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\InTaskView.xaml.cs">
+      <DependentUpon>InTaskView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\MenuView.xaml.cs">
+      <DependentUpon>MenuView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\GuideWindow.xaml.cs">
+      <DependentUpon>GuideWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\BarCodeView.xaml.cs">
+      <DependentUpon>BarCodeView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserLoginWindow.xaml.cs">
+      <DependentUpon>UserLoginWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ImageWindow.xaml.cs">
+      <DependentUpon>ImageWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\SkinWindow.xaml.cs">
+      <DependentUpon>SkinWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\StepView.xaml.cs">
+      <DependentUpon>StepView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserView.xaml.cs">
+      <DependentUpon>UserView.xaml</DependentUpon>
+    </Compile>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Template\AlarmConfirmationBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Template\MaintenancePopover.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Template\SetBarDictionary.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Template\DataPager.xaml">
+      <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
+    </Page>
+    <Page Include="Template\MsgView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
+    </Page>
+    <Page Include="Template\SplashScreenView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
+    </Page>
+    <Page Include="Template\SwitchModeBar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
+    </Page>
+    <Page Include="Template\ToolbarContainer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
+    </Page>
+    <Page Include="UiCore\Template\BorderDictionary.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UiCore\Template\ButtonStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UiCore\Template\DemoCharts\DemoChart.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UiCore\Template\DemoCharts\HomeAbout.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UiCore\Template\DemoCharts\MaterialCards.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UiCore\Template\DemoCharts\PieChartExample.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UiCore\Template\DemoCharts\StackedAreaExample.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UiCore\Template\ExpanderDictionary.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UiCore\Template\MainLeftMenu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UiCore\Template\MainNotice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UiCore\Template\MainPopupBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UiCore\Template\MainTabControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UiCore\Template\MsgBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UiCore\Template\NotFoundView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UiCore\Template\ScrollViewDictionary.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UiCore\Template\SplashScreen.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UiCore\Template\DemoCharts\IconButtonStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
+    </Page>
+    <Page Include="UiCore\Template\DemoCharts\SolidStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
+    </Page>
+    <Page Include="UiCore\Template\DemoCharts\TabControlStyles.xaml">
+      <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
+    </Page>
+    <Page Include="UiCore\Template\DemoCharts\TextBlockStyles.xaml">
+      <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
+    </Page>
+    <Page Include="UiCore\Template\DemoCharts\WindowStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
+    </Page>
+    <Page Include="UiCore\Template\UcDataPager.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UiCore\Template\UserColorBar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UiCore\Template\UserDetailToolBar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UiCore\Template\UserOperateBar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UiCore\Template\UserToolBar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\ContainerSettingView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\FaceInfoView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\DictionaryView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\GroupView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\AlarmView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\StockView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\ManualOutView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\CheckMainView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\ReceiveTaskView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\OutTaskView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\TempInView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\ManualInView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\InTaskView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\MenuView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\GuideWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\BarCodeView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UserLoginWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\ImageWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\SkinWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\StepView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UserView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Resource Include="LogicCore\Font\iconfont.ttf" />
+    <None Include="BarCode\Demo.btw" />
+    <None Include="Config\job.config" />
+    <None Include="Config\NLog.config" />
+    <None Include="DF.config" />
+    <None Include="job.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Core\share\Common\Aop\" />
+    <Folder Include="UiCore\Common\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Config\Cron表达式.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Adobe.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets" Condition="Exists('..\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>这台计算机上缺少此项目引用的 NuGet 程序包。使用“NuGet 程序包还原”可下载这些程序包。有关更多信息，请参见 http://go.microsoft.com/fwlink/?LinkID=322105。缺少的文件是 {0}。</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets'))" />
+  </Target>
+</Project>
